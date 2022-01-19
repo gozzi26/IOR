@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    
+    <meta charset="utf-8" />
+    <script src="js/raphael-2.1.4.min.js"></script>
+    <script src="js/p5.js"></script>
+   
+    
+    <script src="js/p5-test.js"></script>
+    <script src="js/justgage.js"></script>
+    <script src="js/dist/fili.js"></script>
+    <style>
+        .container {
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .gauge_container {
+            font-family: Palatino;
+            text-align: left;
+            height: 800px;
+            display: inline-block;
+            border: 1px solid #ccc;
+            margin: 40px 5px 0 5px;
+        }
+
+        .gauge {
+            width: 700px;
+            height: 600px;
+            display: inline-block;
+            -webkit-transform: translate3d(0, 0, 0);
+        }
+
+        .controls {
+            text-align: left;
+        }
+
+        li {
+            padding: 10px 0 0 0;
+        }
+
+        li.refresh {
+            border-top: 1px solid #eee;
+            border-bottom: 1px solid #eee;
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+
+        label {
+            font-family: Palatino;
+            display: inline-block;
+            width: 70px;
+            margin: 0 0 5px 0;
+            text-align: right;
+            padding: 5px;
+            color: #ffffff;
+        }
+
+        input {
+            font-family: Palatino;
+            font-weight: bold;
+            font-size: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin: 5px;
+        }
+
+        input[disabled=disabled] {
+            font-family: Palatino;
+            font-weight: normal;
+            font-size: 11px;
+            padding: 0 0 0 10px;
+            margin: 0px;
+            color: #777777;
+            border-color: transparent;
+            background: #fff;
+        }
+
+        a:link.button,
+        a:active.button,
+        a:visited.button,
+        a:hover.button {
+            margin: 0px 5px 0 2px;
+            padding: 7px 13px;
+        }
+    </style>
+
+
+
+    <style>
+        body {
+            font-family: 'Montserrat';font-size: 30px;
+            background-color: black;
+        }
+
+        .button {
+            border: 2px solid white;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-family: 'Montserrat';
+            font-size: 18px;
+            margin: 4px 2px;
+            cursor: pointer;
+            background-color: #000000;
+
+        }
+
+        .button1 {
+            position: absolute;
+            left: 1150px;
+            top: 30px;
+        }
+
+        .button2 {
+            position: absolute;
+            left: 1310px;
+            top: 30px;
+        }
+        .button3
+        {position: absolute;
+            left: 1410px;
+            top: 195px;
+
+        }
+    </style>
+    <script type="text/javascript" src="js/smoothie.js"></script>
+    <script src="https://www.puck-js.com/puck.js"></script>
+    <script src="https://unpkg.com/gauge-chart@latest/dist/bundle.js"></script>
+    <script src="js/p5.min.js"></script>
+    
+    <script type="text/javascript">
+        var flag=0;
+        var gg1;
+        var t = 0;
+        var p = 0;
+        var pF = 0;
+        var max=-100;
+        var min=100;
+        var count=0;
+        let timefin=0; 
+        let timenow=0;
+        var R=0;
+        var pFarr=[];
+
+        //funzione per filtrare va qui
+        // calculate filter coefficients
+        var firCalculator = new Fili.FirCoeffs();
+        var firFilterCoeffs = firCalculator.lowpass({
+            order: 21, // filter order
+            Fs: 10, // sampling frequency
+            Fc: 0.5 // cutoff frequency
+            // for bandpass and bandstop F1 and F2 must be provided instead of Fc
+        });       
+            
+        var firFilter = new Fili.FirFilter(firFilterCoeffs); //filter instance created with the computed coefficients
+            
+            
+        function findMax()
+            {
+             if(flag==0) //first time I enter the function I find the first max
+            {
+              while(pFarr.length<3)  
+              {
+                  pFarr.push(pF);
+              }
+              
+              if(pFarr[1]>pFarr[0] & pFarr[1]>pFarr[2] ) //found max
+                 {   console.log('MAX:')
+                     console.log(pFarr[1]);
+                     count=count+1;
+                     t1=window.performance.now();
+                     flag=1;
+
+                }
+                pFarr.shift();
+                pFarr.push(pF);  
+            }
+            else if (flag==1)
+            { while(pFarr.length<3)  
+              {
+                  pFarr.push(pF);
+              }
+              
+              if(pFarr[1]>pFarr[0] & pFarr[1]>pFarr[2] ) //found max
+                 {   console.log('MAX:')
+                     console.log(pFarr[1]);
+                     count=count+1;
+                     t2=window.performance.now();
+                     if(t2-t1>60000)
+                     {  
+                         R=count;
+                         console.log("Respiratory rate:")
+                         console.log(R);
+                         document.getElementById("demo").innerHTML = R; //update value in the box
+                        
+                         flag=0;
+                         count=0;
+                     }
+
+                }
+                pFarr.shift();
+                pFarr.push(pF);
+
+            }
+        }
+
+        //questa funzione riceve i JSON nella variabile line
+        function onLine(line) {   
+            try {
+                var j = JSON.parse(line);  //ne estrae il valore
+                console.log("Received JSON: ", j);
+                t = j.t;
+                gg1.refresh(t);
+                p = j.p //p.push(j.p);
+               
+                pF=(firFilter.singleStep(p)); ///single step of filter
+               
+                findMax();
+                }
+            catch (e) {
+                console.log("Received: ", line);
+                console.log(e);
+            }
+            
+        }
+
+       
+
+
+        function reading() {
+            var age = document.getElementById("myAge").value;//perche' non lo stampa?
+                         console.log(age);
+            var buf = " ";
+            Puck.connect(function (connection) {
+                Puck.write('LED1.set();\n');
+                if (!connection) {
+                    console.log("Error!"); return
+                };
+
+                connection.on('data', function (d) {
+                    buf += d;
+                    var i = buf.indexOf("{");
+
+                    var f = buf.indexOf("}");
+
+                    if (f >= 0) {
+                        onLine(buf.substr(i, f - i + 1));
+                        buf = buf.substr(f + 1);
+                        // i = buf.indexOf("\n");
+                    }
+                });
+
+            });
+           
+        }
+
+
+        // add data
+        var line = new TimeSeries();
+        setInterval(function () {
+            line.append(new Date().getTime(), pF);
+        }, 100);
+
+        function createTimeline() {
+            var chart = new SmoothieChart();
+            chart.addTimeSeries(line, { strokeStyle: 'rgba(255,0,0,1)', fillStyle: 'rgba(0,0, 0, 0)', lineWidth: 2 });
+            chart.streamTo(document.getElementById("chart"), 400);
+
+            gg1 = new JustGage({
+                id: "gg1",
+                value: 20,
+                min: 20,
+                max: 40,
+                title: "Temperature",
+                titleFontColor: "#FFFFFF",
+                titleFontFamily: "Palatino Linotype",
+                label: "C",
+                textRenderer: customValue
+            });
+
+
+            function customValue(val) {
+                if (val < 35.5) {
+                    return 'low';
+                } else if (val > 38) {
+                    return 'high';
+                } else {
+                    return 'ideal';
+                }
+            }
+
+        }
+
+    </script>
+
+</head>
+
+<body onload="createTimeline();">
+
+    <a href="https://lh3.googleusercontent.com/fnticigOxkBfpEN4U4lzJ3GP3uyAWJg9H-ncljDdRCeGNDz317JTzAUfZ4JmeYIdbeh-LHnqzo8HGIwkViXXURgdinMgcqlJjr1BRDMaLpsCBSfeWz_ehvRwdVjiWPaH1FqHHLm4=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/fnticigOxkBfpEN4U4lzJ3GP3uyAWJg9H-ncljDdRCeGNDz317JTzAUfZ4JmeYIdbeh-LHnqzo8HGIwkViXXURgdinMgcqlJjr1BRDMaLpsCBSfeWz_ehvRwdVjiWPaH1FqHHLm4=w365-h315-p-k" style="position: absolute; left: 50px; top: 25px ; width:90px; height:90px; color:white; font-size:150%; " /> </a>
+    
+    <p style="position: absolute; left: 180px; color:white; font-size:120%; ">The <em>Intra-Oral</em> Respirometer </p>
+    <p style="position: absolute; left: 1120px; top: 120px; color:white; font-size:100%; ">Insert Age here:</p>
+     <p style="position: absolute; left: 1100px; top: 170px; white-space:nowrap ">
+          
+          <input type = "number"
+                 id = "myAge"
+                 value = "age here" />
+        </p>
+        <script>
+               function myFunc() {
+            var input = document.getElementById('myAge');
+            console.log(input.value);
+        } 
+        </script>
+        <button class="button button3" onclick="myFunc(); ">OK</button>
+        
+    <canvas style="position:absolute; top: 150px; left: 600;" id="chart" width="900" height="400"></canvas>
+
+    <div id="gg1" style="width: 400px; height: 300px;position:absolute; top: 300px; left: 1050px"></div>
+    
+    <p style="position:absolute; top: 560px; left:200px;color:white; text-align: center; font-family: Montserrat; ">Respiratory Rate:</p>
+    <p id="demo" style="position:absolute; top: 560px; left:480px; width:100px; background-color:white; text-align: center;"></p>
+    <script>
+       document.getElementById("demo").innerHTML = R;
+      
+       </script>
+    <p style="position:absolute; top: 560px; left:590px;color:white; text-align: center; font-family: Montserrat; ">bpm</p>
+    
+    <button class="button button1" onclick="reading(); ">Connect</button>
+   
+    <button class="button button2" onclick="Puck.write('LED1.reset();\n');  ">Disconnect</button>
+
+
+</body>
+
+
+
+
+</html>

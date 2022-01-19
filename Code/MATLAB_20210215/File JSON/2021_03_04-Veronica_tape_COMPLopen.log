@@ -1,0 +1,2908 @@
+index.html:314 The specified value "age here" cannot be parsed, or is out of range.
+index.html:238 
+puck.js:371 <BLE> Device Name:       MDBT42Q 8c7b
+puck.js:371 <BLE> Device ID:         R4h2E6bBRgi0IuCzpbTcfg==
+puck.js:371 <BLE> Connected
+index.html:217 Received JSON:  {t: "21.03", p: "0.81"}
+index.html:217 Received JSON:  {t: "21.03", p: "0.81"}
+index.html:217 Received JSON:  {t: "21.03", p: "0.24"}
+index.html:217 Received JSON:  {t: "21.04", p: "0.82"}
+index.html:217 Received JSON:  {t: "21.03", p: "0.81"}
+index.html:217 Received JSON:  {t: "21.04", p: "1.39"}
+index.html:217 Received JSON:  {t: "21.04", p: "1.10"}
+index.html:217 Received JSON:  {t: "21.04", p: "0.54"}
+index.html:217 Received JSON:  {t: "21.05", p: "1.41"}
+index.html:217 Received JSON:  {t: "21.05", p: "1.12"}
+index.html:217 Received JSON:  {t: "21.05", p: "1.41"}
+index.html:217 Received JSON:  {t: "21.05", p: "1.12"}
+index.html:217 Received JSON:  {t: "21.05", p: "1.13"}
+index.html:217 Received JSON:  {t: "21.05", p: "0.56"}
+index.html:217 Received JSON:  {t: "21.06", p: "1.70"}
+index.html:217 Received JSON:  {t: "21.06", p: "0.86"}
+index.html:217 Received JSON:  {t: "21.06", p: "0.85"}
+index.html:217 Received JSON:  {t: "21.06", p: "1.14"}
+index.html:217 Received JSON:  {t: "21.07", p: "1.15"}
+index.html:217 Received JSON:  {t: "21.07", p: "0.58"}
+index.html:217 Received JSON:  {t: "21.07", p: "0.87"}
+index.html:217 Received JSON:  {t: "21.07", p: "1.72"}
+index.html:217 Received JSON:  {t: "21.08", p: "0.88"}
+index.html:217 Received JSON:  {t: "21.08", p: "1.16"}
+index.html:174 MAX:
+index.html:175 1.1027271396527378
+index.html:217 Received JSON:  {t: "21.08", p: "0.60"}
+index.html:217 Received JSON:  {t: "21.08", p: "0.60"}
+index.html:217 Received JSON:  {t: "21.09", p: "0.89"}
+index.html:217 Received JSON:  {t: "21.09", p: "0.89"}
+index.html:217 Received JSON:  {t: "21.09", p: "0.90"}
+index.html:217 Received JSON:  {t: "21.10", p: "0.91"}
+index.html:217 Received JSON:  {t: "21.10", p: "0.91"}
+index.html:217 Received JSON:  {t: "21.11", p: "0.07"}
+puck.js:371 <BLE> ERROR: NotFoundError: User cancelled the requestDevice() chooser.
+index.html:217 Received JSON:  {t: "21.11", p: "0.35"}
+index.html:217 Received JSON:  {t: "21.11", p: "0.92"}
+index.html:217 Received JSON:  {t: "21.11", p: "1.21"}
+index.html:217 Received JSON:  {t: "21.11", p: "1.49"}
+index.html:217 Received JSON:  {t: "21.12", p: "1.22"}
+index.html:217 Received JSON:  {t: "21.13", p: "0.67"}
+index.html:217 Received JSON:  {t: "21.12", p: "0.66"}
+index.html:217 Received JSON:  {t: "21.13", p: "0.67"}
+index.html:217 Received JSON:  {t: "21.13", p: "0.96"}
+index.html:217 Received JSON:  {t: "21.13", p: "0.39"}
+index.html:217 Received JSON:  {t: "21.13", p: "1.52"}
+index.html:217 Received JSON:  {t: "21.14", p: "0.97"}
+index.html:217 Received JSON:  {t: "21.14", p: "0.97"}
+index.html:217 Received JSON:  {t: "21.15", p: "0.69"}
+index.html:217 Received JSON:  {t: "21.16", p: "1.27"}
+index.html:217 Received JSON:  {t: "21.16", p: "0.99"}
+index.html:217 Received JSON:  {t: "21.17", p: "1.00"}
+index.html:217 Received JSON:  {t: "21.17", p: "0.43"}
+index.html:217 Received JSON:  {t: "21.17", p: "1.00"}
+index.html:217 Received JSON:  {t: "21.17", p: "1.00"}
+index.html:191 MAX:
+index.html:192 0.903430683464538
+index.html:217 Received JSON:  {t: "21.17", p: "1.58"}
+index.html:217 Received JSON:  {t: "21.18", p: "1.30"}
+index.html:217 Received JSON:  {t: "21.18", p: "1.31"}
+index.html:217 Received JSON:  {t: "21.18", p: "0.74"}
+index.html:217 Received JSON:  {t: "21.19", p: "0.18"}
+index.html:217 Received JSON:  {t: "21.19", p: "1.33"}
+index.html:217 Received JSON:  {t: "21.20", p: "0.76"}
+index.html:217 Received JSON:  {t: "21.20", p: "0.76"}
+index.html:217 Received JSON:  {t: "21.21", p: "0.77"}
+index.html:217 Received JSON:  {t: "21.21", p: "1.06"}
+index.html:217 Received JSON:  {t: "21.21", p: "1.06"}
+index.html:217 Received JSON:  {t: "21.21", p: "1.07"}
+index.html:217 Received JSON:  {t: "21.23", p: "0.80"}
+index.html:191 MAX:
+index.html:192 1.0200562451690383
+index.html:217 Received JSON:  {t: "21.23", p: "0.80"}
+index.html:217 Received JSON:  {t: "21.23", p: "0.52"}
+index.html:217 Received JSON:  {t: "21.23", p: "1.94"}
+index.html:217 Received JSON:  {t: "21.24", p: "1.10"}
+index.html:217 Received JSON:  {t: "21.24", p: "1.10"}
+index.html:217 Received JSON:  {t: "21.25", p: "1.67"}
+index.html:217 Received JSON:  {t: "21.25", p: "0.83"}
+index.html:217 Received JSON:  {t: "21.26", p: "1.13"}
+index.html:217 Received JSON:  {t: "21.26", p: "0.84"}
+index.html:217 Received JSON:  {t: "21.27", p: "0.86"}
+index.html:217 Received JSON:  {t: "21.27", p: "1.15"}
+index.html:217 Received JSON:  {t: "21.28", p: "1.72"}
+index.html:217 Received JSON:  {t: "21.28", p: "1.16"}
+index.html:217 Received JSON:  {t: "21.28", p: "0.59"}
+index.html:217 Received JSON:  {t: "21.29", p: "0.89"}
+index.html:217 Received JSON:  {t: "21.29", p: "0.89"}
+index.html:217 Received JSON:  {t: "21.30", p: "1.18"}
+index.html:217 Received JSON:  {t: "21.30", p: "1.47"}
+index.html:217 Received JSON:  {t: "21.30", p: "1.76"}
+index.html:191 MAX:
+index.html:192 1.1305239979240729
+index.html:217 Received JSON:  {t: "21.31", p: "0.92"}
+index.html:217 Received JSON:  {t: "21.32", p: "0.64"}
+index.html:217 Received JSON:  {t: "21.33", p: "1.79"}
+index.html:217 Received JSON:  {t: "21.33", p: "0.65"}
+index.html:217 Received JSON:  {t: "21.34", p: "0.95"}
+index.html:217 Received JSON:  {t: "21.34", p: "1.23"}
+index.html:217 Received JSON:  {t: "21.34", p: "0.96"}
+index.html:217 Received JSON:  {t: "21.34", p: "1.25"}
+index.html:217 Received JSON:  {t: "21.35", p: "1.26"}
+index.html:217 Received JSON:  {t: "21.35", p: "2.11"}
+index.html:217 Received JSON:  {t: "21.35", p: "0.41"}
+index.html:217 Received JSON:  {t: "21.37", p: "1.27"}
+index.html:217 Received JSON:  {t: "21.38", p: "1.01"}
+index.html:191 MAX:
+index.html:192 1.1438707125344179
+index.html:217 Received JSON:  {t: "21.37", p: "1.28"}
+index.html:217 Received JSON:  {t: "21.38", p: "1.29"}
+index.html:217 Received JSON:  {t: "21.38", p: "0.73"}
+index.html:217 Received JSON:  {t: "21.39", p: "0.74"}
+index.html:217 Received JSON:  {t: "21.39", p: "1.03"}
+index.html:217 Received JSON:  {t: "21.40", p: "1.04"}
+index.html:217 Received JSON:  {t: "21.40", p: "1.33"}
+index.html:217 Received JSON:  {t: "21.41", p: "1.06"}
+index.html:217 Received JSON:  {t: "21.41", p: "1.34"}
+index.html:191 MAX:
+index.html:192 1.173800488075593
+index.html:217 Received JSON:  {t: "21.42", p: "1.07"}
+index.html:217 Received JSON:  {t: "21.43", p: "1.08"}
+index.html:217 Received JSON:  {t: "21.43", p: "1.65"}
+index.html:217 Received JSON:  {t: "21.44", p: "1.09"}
+index.html:217 Received JSON:  {t: "21.45", p: "1.67"}
+index.html:217 Received JSON:  {t: "21.45", p: "1.10"}
+index.html:217 Received JSON:  {t: "21.46", p: "0.83"}
+index.html:217 Received JSON:  {t: "21.46", p: "0.55"}
+index.html:217 Received JSON:  {t: "21.47", p: "1.14"}
+index.html:217 Received JSON:  {t: "21.47", p: "0.86"}
+index.html:217 Received JSON:  {t: "21.47", p: "0.86"}
+index.html:217 Received JSON:  {t: "21.48", p: "1.72"}
+index.html:217 Received JSON:  {t: "21.49", p: "0.59"}
+index.html:217 Received JSON:  {t: "21.49", p: "0.59"}
+index.html:217 Received JSON:  {t: "21.51", p: "1.19"}
+index.html:191 MAX:
+index.html:192 1.1984290826072577
+index.html:217 Received JSON:  {t: "21.50", p: "1.17"}
+index.html:217 Received JSON:  {t: "21.51", p: "1.47"}
+index.html:217 Received JSON:  {t: "21.52", p: "1.77"}
+index.html:217 Received JSON:  {t: "21.52", p: "0.92"}
+index.html:217 Received JSON:  {t: "21.53", p: "0.65"}
+index.html:217 Received JSON:  {t: "21.54", p: "1.80"}
+index.html:217 Received JSON:  {t: "21.54", p: "1.52"}
+index.html:217 Received JSON:  {t: "21.55", p: "1.53"}
+index.html:217 Received JSON:  {t: "21.56", p: "0.97"}
+index.html:217 Received JSON:  {t: "21.56", p: "1.26"}
+index.html:217 Received JSON:  {t: "21.56", p: "0.98"}
+index.html:217 Received JSON:  {t: "21.57", p: "1.56"}
+index.html:217 Received JSON:  {t: "21.58", p: "0.72"}
+index.html:217 Received JSON:  {t: "21.58", p: "1.28"}
+index.html:217 Received JSON:  {t: "21.59", p: "1.87"}
+index.html:217 Received JSON:  {t: "21.59", p: "0.46"}
+index.html:217 Received JSON:  {t: "21.60", p: "1.61"}
+index.html:217 Received JSON:  {t: "21.61", p: "1.33"}
+index.html:217 Received JSON:  {t: "21.61", p: "0.77"}
+index.html:191 MAX:
+index.html:192 1.2809736093704636
+index.html:217 Received JSON:  {t: "21.62", p: "1.06"}
+index.html:217 Received JSON:  {t: "21.62", p: "1.06"}
+index.html:217 Received JSON:  {t: "21.64", p: "1.93"}
+index.html:217 Received JSON:  {t: "21.65", p: "1.09"}
+index.html:217 Received JSON:  {t: "21.65", p: "0.81"}
+index.html:217 Received JSON:  {t: "21.65", p: "1.11"}
+index.html:217 Received JSON:  {t: "21.66", p: "0.83"}
+index.html:217 Received JSON:  {t: "21.67", p: "1.12"}
+index.html:217 Received JSON:  {t: "21.67", p: "1.41"}
+index.html:217 Received JSON:  {t: "21.68", p: "0.57"}
+index.html:217 Received JSON:  {t: "21.68", p: "1.71"}
+index.html:217 Received JSON:  {t: "21.69", p: "1.72"}
+index.html:217 Received JSON:  {t: "21.70", p: "1.74"}
+index.html:217 Received JSON:  {t: "21.70", p: "1.17"}
+index.html:217 Received JSON:  {t: "21.71", p: "1.47"}
+index.html:217 Received JSON:  {t: "21.72", p: "1.20"}
+index.html:217 Received JSON:  {t: "21.72", p: "0.91"}
+index.html:217 Received JSON:  {t: "21.73", p: "0.93"}
+index.html:217 Received JSON:  {t: "21.74", p: "0.94"}
+index.html:217 Received JSON:  {t: "21.74", p: "1.79"}
+index.html:217 Received JSON:  {t: "21.76", p: "0.67"}
+index.html:217 Received JSON:  {t: "21.76", p: "1.25"}
+index.html:217 Received JSON:  {t: "21.77", p: "1.26"}
+index.html:217 Received JSON:  {t: "21.77", p: "0.98"}
+index.html:217 Received JSON:  {t: "21.78", p: "1.27"}
+index.html:191 MAX:
+index.html:192 1.308195745492669
+index.html:217 Received JSON:  {t: "21.78", p: "1.57"}
+index.html:217 Received JSON:  {t: "21.79", p: "1.58"}
+index.html:217 Received JSON:  {t: "21.79", p: "1.87"}
+index.html:217 Received JSON:  {t: "21.81", p: "1.60"}
+index.html:217 Received JSON:  {t: "21.82", p: "1.33"}
+index.html:217 Received JSON:  {t: "21.82", p: "1.33"}
+index.html:217 Received JSON:  {t: "21.82", p: "0.77"}
+index.html:217 Received JSON:  {t: "21.84", p: "1.64"}
+index.html:217 Received JSON:  {t: "21.84", p: "1.37"}
+index.html:217 Received JSON:  {t: "21.85", p: "1.37"}
+index.html:217 Received JSON:  {t: "21.86", p: "1.10"}
+index.html:217 Received JSON:  {t: "21.86", p: "1.39"}
+index.html:217 Received JSON:  {t: "21.87", p: "0.84"}
+index.html:217 Received JSON:  {t: "21.88", p: "1.13"}
+index.html:217 Received JSON:  {t: "21.89", p: "1.71"}
+index.html:217 Received JSON:  {t: "21.89", p: "1.43"}
+index.html:191 MAX:
+index.html:192 1.4165916520444104
+index.html:217 Received JSON:  {t: "21.90", p: "1.45"}
+index.html:217 Received JSON:  {t: "21.91", p: "1.17"}
+index.html:217 Received JSON:  {t: "21.91", p: "1.74"}
+index.html:217 Received JSON:  {t: "21.92", p: "1.19"}
+index.html:217 Received JSON:  {t: "21.93", p: "0.92"}
+index.html:217 Received JSON:  {t: "21.94", p: "0.64"}
+index.html:217 Received JSON:  {t: "21.94", p: "1.22"}
+index.html:217 Received JSON:  {t: "21.95", p: "1.80"}
+index.html:217 Received JSON:  {t: "21.95", p: "1.52"}
+index.html:217 Received JSON:  {t: "21.96", p: "1.82"}
+index.html:217 Received JSON:  {t: "21.97", p: "1.55"}
+index.html:217 Received JSON:  {t: "21.98", p: "1.27"}
+index.html:191 MAX:
+index.html:192 1.3092532815616407
+index.html:217 Received JSON:  {t: "21.99", p: "1.28"}
+index.html:217 Received JSON:  {t: "21.99", p: "1.57"}
+index.html:217 Received JSON:  {t: "22.00", p: "1.30"}
+index.html:217 Received JSON:  {t: "22.01", p: "0.46"}
+index.html:217 Received JSON:  {t: "22.02", p: "1.61"}
+index.html:217 Received JSON:  {t: "22.02", p: "1.90"}
+index.html:217 Received JSON:  {t: "22.03", p: "1.06"}
+index.html:217 Received JSON:  {t: "22.04", p: "1.35"}
+index.html:217 Received JSON:  {t: "22.05", p: "1.08"}
+index.html:217 Received JSON:  {t: "22.06", p: "1.66"}
+index.html:217 Received JSON:  {t: "22.06", p: "1.66"}
+index.html:191 MAX:
+index.html:192 1.4033413021756704
+index.html:217 Received JSON:  {t: "22.07", p: "1.67"}
+index.html:217 Received JSON:  {t: "22.08", p: "1.41"}
+index.html:217 Received JSON:  {t: "22.08", p: "1.70"}
+index.html:217 Received JSON:  {t: "22.09", p: "0.86"}
+index.html:217 Received JSON:  {t: "22.09", p: "1.43"}
+index.html:217 Received JSON:  {t: "22.11", p: "1.16"}
+index.html:217 Received JSON:  {t: "22.12", p: "1.74"}
+index.html:217 Received JSON:  {t: "22.12", p: "0.33"}
+index.html:217 Received JSON:  {t: "22.13", p: "1.77"}
+index.html:217 Received JSON:  {t: "22.14", p: "1.21"}
+index.html:217 Received JSON:  {t: "22.15", p: "1.79"}
+index.html:217 Received JSON:  {t: "22.16", p: "2.08"}
+index.html:191 MAX:
+index.html:192 1.431614755526071
+index.html:217 Received JSON:  {t: "22.16", p: "2.09"}
+index.html:217 Received JSON:  {t: "22.17", p: "1.82"}
+index.html:217 Received JSON:  {t: "22.18", p: "1.27"}
+index.html:217 Received JSON:  {t: "22.18", p: "0.98"}
+index.html:217 Received JSON:  {t: "22.19", p: "1.28"}
+index.html:217 Received JSON:  {t: "22.19", p: "1.86"}
+index.html:217 Received JSON:  {t: "22.21", p: "1.88"}
+index.html:217 Received JSON:  {t: "22.22", p: "1.60"}
+index.html:217 Received JSON:  {t: "22.22", p: "1.89"}
+index.html:217 Received JSON:  {t: "22.24", p: "1.91"}
+index.html:217 Received JSON:  {t: "22.24", p: "1.34"}
+index.html:217 Received JSON:  {t: "22.25", p: "1.37"}
+index.html:217 Received JSON:  {t: "22.26", p: "1.66"}
+index.html:217 Received JSON:  {t: "22.27", p: "1.67"}
+index.html:217 Received JSON:  {t: "22.27", p: "1.67"}
+index.html:217 Received JSON:  {t: "22.28", p: "1.40"}
+index.html:217 Received JSON:  {t: "22.29", p: "1.42"}
+index.html:217 Received JSON:  {t: "22.30", p: "0.86"}
+index.html:217 Received JSON:  {t: "22.31", p: "1.16"}
+index.html:217 Received JSON:  {t: "22.32", p: "1.45"}
+index.html:217 Received JSON:  {t: "22.32", p: "0.89"}
+index.html:191 MAX:
+index.html:192 1.6279870096289084
+index.html:217 Received JSON:  {t: "22.33", p: "1.76"}
+index.html:217 Received JSON:  {t: "22.34", p: "0.91"}
+index.html:217 Received JSON:  {t: "22.35", p: "1.50"}
+index.html:217 Received JSON:  {t: "22.35", p: "1.22"}
+index.html:217 Received JSON:  {t: "22.37", p: "2.09"}
+index.html:217 Received JSON:  {t: "22.37", p: "2.10"}
+index.html:217 Received JSON:  {t: "22.38", p: "1.54"}
+index.html:217 Received JSON:  {t: "22.39", p: "0.99"}
+index.html:217 Received JSON:  {t: "22.39", p: "1.56"}
+index.html:217 Received JSON:  {t: "22.40", p: "1.86"}
+index.html:217 Received JSON:  {t: "22.41", p: "1.86"}
+index.html:217 Received JSON:  {t: "22.42", p: "2.16"}
+index.html:217 Received JSON:  {t: "22.43", p: "1.33"}
+index.html:217 Received JSON:  {t: "22.44", p: "1.63"}
+index.html:217 Received JSON:  {t: "22.45", p: "1.06"}
+index.html:217 Received JSON:  {t: "22.46", p: "1.65"}
+index.html:217 Received JSON:  {t: "22.46", p: "1.94"}
+index.html:217 Received JSON:  {t: "22.48", p: "1.96"}
+index.html:217 Received JSON:  {t: "22.48", p: "1.40"}
+index.html:217 Received JSON:  {t: "22.49", p: "1.98"}
+index.html:217 Received JSON:  {t: "22.50", p: "1.71"}
+index.html:217 Received JSON:  {t: "22.51", p: "1.43"}
+index.html:217 Received JSON:  {t: "22.51", p: "1.15"}
+index.html:217 Received JSON:  {t: "22.53", p: "1.74"}
+index.html:191 MAX:
+index.html:192 1.6486559506418377
+index.html:217 Received JSON:  {t: "22.53", p: "0.90"}
+index.html:217 Received JSON:  {t: "22.54", p: "1.19"}
+index.html:217 Received JSON:  {t: "22.55", p: "1.48"}
+index.html:217 Received JSON:  {t: "22.55", p: "1.78"}
+index.html:191 MAX:
+index.html:192 1.6506756180657074
+index.html:217 Received JSON:  {t: "22.57", p: "2.09"}
+index.html:217 Received JSON:  {t: "22.57", p: "1.23"}
+index.html:217 Received JSON:  {t: "22.58", p: "1.24"}
+index.html:217 Received JSON:  {t: "22.59", p: "0.97"}
+index.html:217 Received JSON:  {t: "22.59", p: "1.84"}
+index.html:217 Received JSON:  {t: "22.61", p: "1.29"}
+index.html:217 Received JSON:  {t: "22.62", p: "1.58"}
+index.html:217 Received JSON:  {t: "22.63", p: "1.31"}
+index.html:217 Received JSON:  {t: "22.64", p: "1.89"}
+index.html:217 Received JSON:  {t: "22.64", p: "1.62"}
+index.html:217 Received JSON:  {t: "22.65", p: "2.20"}
+index.html:217 Received JSON:  {t: "22.65", p: "1.63"}
+index.html:217 Received JSON:  {t: "22.67", p: "1.65"}
+index.html:217 Received JSON:  {t: "22.68", p: "1.67"}
+index.html:217 Received JSON:  {t: "22.68", p: "1.96"}
+index.html:217 Received JSON:  {t: "22.69", p: "2.25"}
+index.html:217 Received JSON:  {t: "22.69", p: "2.55"}
+index.html:217 Received JSON:  {t: "22.71", p: "1.99"}
+index.html:217 Received JSON:  {t: "22.72", p: "1.44"}
+index.html:217 Received JSON:  {t: "22.73", p: "2.02"}
+index.html:217 Received JSON:  {t: "22.73", p: "1.75"}
+index.html:217 Received JSON:  {t: "22.74", p: "2.04"}
+index.html:217 Received JSON:  {t: "22.76", p: "2.35"}
+index.html:217 Received JSON:  {t: "22.76", p: "2.07"}
+index.html:217 Received JSON:  {t: "22.77", p: "1.79"}
+index.html:217 Received JSON:  {t: "22.78", p: "1.81"}
+index.html:217 Received JSON:  {t: "22.79", p: "1.82"}
+index.html:217 Received JSON:  {t: "22.80", p: "1.84"}
+index.html:217 Received JSON:  {t: "22.81", p: "1.85"}
+index.html:217 Received JSON:  {t: "22.81", p: "2.14"}
+index.html:217 Received JSON:  {t: "22.83", p: "1.31"}
+index.html:217 Received JSON:  {t: "22.83", p: "1.02"}
+index.html:191 MAX:
+index.html:192 1.9768473054172162
+index.html:217 Received JSON:  {t: "22.84", p: "1.04"}
+index.html:217 Received JSON:  {t: "22.86", p: "1.63"}
+index.html:217 Received JSON:  {t: "22.86", p: "1.63"}
+index.html:217 Received JSON:  {t: "22.87", p: "1.65"}
+index.html:217 Received JSON:  {t: "22.88", p: "1.38"}
+index.html:217 Received JSON:  {t: "22.89", p: "1.67"}
+index.html:217 Received JSON:  {t: "22.89", p: "1.97"}
+index.html:217 Received JSON:  {t: "22.90", p: "1.40"}
+index.html:217 Received JSON:  {t: "22.91", p: "1.42"}
+index.html:217 Received JSON:  {t: "22.93", p: "1.44"}
+index.html:217 Received JSON:  {t: "22.92", p: "1.15"}
+index.html:217 Received JSON:  {t: "22.94", p: "2.60"}
+index.html:217 Received JSON:  {t: "22.95", p: "1.76"}
+index.html:217 Received JSON:  {t: "22.95", p: "1.76"}
+index.html:217 Received JSON:  {t: "22.98", p: "1.79"}
+index.html:217 Received JSON:  {t: "22.97", p: "2.07"}
+index.html:217 Received JSON:  {t: "22.98", p: "2.37"}
+index.html:217 Received JSON:  {t: "22.99", p: "2.10"}
+index.html:217 Received JSON:  {t: "23.00", p: "1.83"}
+index.html:217 Received JSON:  {t: "23.01", p: "1.56"}
+index.html:217 Received JSON:  {t: "23.02", p: "1.29"}
+index.html:217 Received JSON:  {t: "23.03", p: "1.87"}
+index.html:217 Received JSON:  {t: "23.03", p: "1.59"}
+index.html:217 Received JSON:  {t: "23.06", p: "1.62"}
+index.html:217 Received JSON:  {t: "23.06", p: "1.62"}
+index.html:217 Received JSON:  {t: "23.07", p: "1.93"}
+index.html:217 Received JSON:  {t: "23.07", p: "1.35"}
+index.html:217 Received JSON:  {t: "23.08", p: "1.66"}
+index.html:217 Received JSON:  {t: "23.09", p: "1.96"}
+index.html:191 MAX:
+index.html:192 1.8852562154962988
+index.html:217 Received JSON:  {t: "23.10", p: "1.68"}
+index.html:217 Received JSON:  {t: "23.11", p: "1.70"}
+index.html:217 Received JSON:  {t: "23.12", p: "1.71"}
+index.html:217 Received JSON:  {t: "23.12", p: "1.43"}
+index.html:217 Received JSON:  {t: "23.14", p: "1.45"}
+index.html:217 Received JSON:  {t: "23.15", p: "1.75"}
+index.html:217 Received JSON:  {t: "23.16", p: "1.47"}
+index.html:217 Received JSON:  {t: "23.17", p: "2.06"}
+index.html:217 Received JSON:  {t: "23.17", p: "2.06"}
+index.html:217 Received JSON:  {t: "23.19", p: "2.37"}
+index.html:217 Received JSON:  {t: "23.19", p: "1.81"}
+index.html:217 Received JSON:  {t: "23.19", p: "1.24"}
+index.html:191 MAX:
+index.html:192 1.671601442459145
+index.html:217 Received JSON:  {t: "23.21", p: "1.55"}
+index.html:217 Received JSON:  {t: "23.22", p: "2.14"}
+index.html:217 Received JSON:  {t: "23.23", p: "1.29"}
+index.html:217 Received JSON:  {t: "23.24", p: "1.60"}
+index.html:217 Received JSON:  {t: "23.24", p: "1.60"}
+index.html:217 Received JSON:  {t: "23.25", p: "2.18"}
+index.html:217 Received JSON:  {t: "23.27", p: "1.91"}
+index.html:217 Received JSON:  {t: "23.26", p: "1.34"}
+index.html:217 Received JSON:  {t: "23.29", p: "1.37"}
+index.html:217 Received JSON:  {t: "23.28", p: "2.22"}
+index.html:191 MAX:
+index.html:192 1.7848586038879102
+index.html:217 Received JSON:  {t: "23.31", p: "1.97"}
+index.html:217 Received JSON:  {t: "23.31", p: "1.97"}
+index.html:217 Received JSON:  {t: "23.32", p: "1.42"}
+index.html:217 Received JSON:  {t: "23.33", p: "1.71"}
+index.html:217 Received JSON:  {t: "23.33", p: "1.44"}
+index.html:217 Received JSON:  {t: "23.34", p: "2.30"}
+index.html:217 Received JSON:  {t: "23.36", p: "1.47"}
+index.html:217 Received JSON:  {t: "23.37", p: "1.76"}
+index.html:217 Received JSON:  {t: "23.38", p: "1.78"}
+index.html:217 Received JSON:  {t: "23.38", p: "1.79"}
+index.html:217 Received JSON:  {t: "23.39", p: "1.80"}
+index.html:217 Received JSON:  {t: "23.40", p: "2.10"}
+index.html:217 Received JSON:  {t: "23.41", p: "2.12"}
+index.html:217 Received JSON:  {t: "23.42", p: "1.56"}
+index.html:191 MAX:
+index.html:192 1.7627154098760642
+index.html:217 Received JSON:  {t: "23.43", p: "2.14"}
+index.html:217 Received JSON:  {t: "23.44", p: "1.58"}
+index.html:217 Received JSON:  {t: "23.45", p: "2.45"}
+index.html:217 Received JSON:  {t: "23.46", p: "2.19"}
+index.html:217 Received JSON:  {t: "23.47", p: "1.91"}
+index.html:217 Received JSON:  {t: "23.48", p: "1.92"}
+index.html:217 Received JSON:  {t: "23.49", p: "1.65"}
+index.html:217 Received JSON:  {t: "23.49", p: "1.94"}
+index.html:217 Received JSON:  {t: "23.50", p: "2.24"}
+index.html:217 Received JSON:  {t: "23.51", p: "2.25"}
+index.html:217 Received JSON:  {t: "23.52", p: "1.70"}
+index.html:217 Received JSON:  {t: "23.54", p: "2.57"}
+index.html:217 Received JSON:  {t: "23.54", p: "2.01"}
+index.html:217 Received JSON:  {t: "23.55", p: "1.17"}
+index.html:217 Received JSON:  {t: "23.56", p: "2.04"}
+index.html:217 Received JSON:  {t: "23.57", p: "2.33"}
+index.html:217 Received JSON:  {t: "23.58", p: "1.77"}
+index.html:217 Received JSON:  {t: "23.59", p: "2.36"}
+index.html:217 Received JSON:  {t: "23.59", p: "2.09"}
+index.html:217 Received JSON:  {t: "23.61", p: "1.53"}
+index.html:217 Received JSON:  {t: "23.62", p: "2.40"}
+index.html:217 Received JSON:  {t: "23.63", p: "1.84"}
+index.html:191 MAX:
+index.html:192 2.004209382193541
+index.html:217 Received JSON:  {t: "23.64", p: "2.71"}
+index.html:217 Received JSON:  {t: "23.64", p: "1.86"}
+index.html:217 Received JSON:  {t: "23.66", p: "1.89"}
+index.html:217 Received JSON:  {t: "23.67", p: "2.18"}
+index.html:217 Received JSON:  {t: "23.67", p: "1.91"}
+index.html:217 Received JSON:  {t: "23.68", p: "1.92"}
+index.html:217 Received JSON:  {t: "23.69", p: "2.22"}
+index.html:217 Received JSON:  {t: "23.70", p: "2.23"}
+index.html:217 Received JSON:  {t: "23.71", p: "1.66"}
+index.html:217 Received JSON:  {t: "23.72", p: "2.25"}
+index.html:217 Received JSON:  {t: "23.72", p: "1.68"}
+index.html:217 Received JSON:  {t: "23.74", p: "1.99"}
+index.html:217 Received JSON:  {t: "23.74", p: "2.00"}
+index.html:191 MAX:
+index.html:192 2.070934394377793
+index.html:217 Received JSON:  {t: "23.75", p: "1.45"}
+index.html:217 Received JSON:  {t: "23.77", p: "2.04"}
+index.html:217 Received JSON:  {t: "23.77", p: "2.33"}
+index.html:217 Received JSON:  {t: "23.79", p: "1.77"}
+index.html:217 Received JSON:  {t: "23.79", p: "2.07"}
+index.html:217 Received JSON:  {t: "23.80", p: "2.09"}
+index.html:217 Received JSON:  {t: "23.81", p: "2.37"}
+index.html:217 Received JSON:  {t: "23.82", p: "1.25"}
+index.html:217 Received JSON:  {t: "23.83", p: "1.55"}
+index.html:217 Received JSON:  {t: "23.84", p: "1.86"}
+index.html:217 Received JSON:  {t: "23.85", p: "1.57"}
+index.html:217 Received JSON:  {t: "23.86", p: "2.45"}
+index.html:217 Received JSON:  {t: "23.87", p: "1.89"}
+index.html:217 Received JSON:  {t: "23.88", p: "1.62"}
+index.html:217 Received JSON:  {t: "23.88", p: "1.63"}
+index.html:191 MAX:
+index.html:192 1.9440215574036022
+index.html:217 Received JSON:  {t: "23.90", p: "1.94"}
+index.html:217 Received JSON:  {t: "23.91", p: "2.80"}
+index.html:217 Received JSON:  {t: "23.92", p: "1.39"}
+index.html:217 Received JSON:  {t: "23.93", p: "2.25"}
+index.html:217 Received JSON:  {t: "23.94", p: "1.70"}
+index.html:217 Received JSON:  {t: "23.95", p: "2.00"}
+index.html:217 Received JSON:  {t: "23.96", p: "2.87"}
+index.html:217 Received JSON:  {t: "23.96", p: "2.59"}
+index.html:217 Received JSON:  {t: "23.97", p: "2.32"}
+index.html:217 Received JSON:  {t: "23.98", p: "1.47"}
+index.html:217 Received JSON:  {t: "23.99", p: "1.77"}
+index.html:217 Received JSON:  {t: "24.00", p: "2.36"}
+index.html:217 Received JSON:  {t: "24.01", p: "2.37"}
+index.html:217 Received JSON:  {t: "24.02", p: "2.11"}
+index.html:217 Received JSON:  {t: "24.03", p: "1.83"}
+index.html:217 Received JSON:  {t: "24.04", p: "1.55"}
+index.html:217 Received JSON:  {t: "24.05", p: "2.42"}
+index.html:217 Received JSON:  {t: "24.06", p: "2.16"}
+index.html:217 Received JSON:  {t: "24.07", p: "2.17"}
+index.html:217 Received JSON:  {t: "24.08", p: "1.61"}
+index.html:191 MAX:
+index.html:192 2.147484371423265
+index.html:217 Received JSON:  {t: "24.09", p: "1.92"}
+index.html:217 Received JSON:  {t: "24.09", p: "1.92"}
+index.html:217 Received JSON:  {t: "24.10", p: "1.93"}
+index.html:217 Received JSON:  {t: "24.11", p: "2.23"}
+index.html:217 Received JSON:  {t: "24.12", p: "2.24"}
+index.html:217 Received JSON:  {t: "24.14", p: "2.26"}
+index.html:217 Received JSON:  {t: "24.14", p: "1.99"}
+index.html:217 Received JSON:  {t: "24.15", p: "2.29"}
+index.html:217 Received JSON:  {t: "24.16", p: "2.30"}
+index.html:217 Received JSON:  {t: "24.17", p: "2.31"}
+index.html:217 Received JSON:  {t: "24.18", p: "2.03"}
+index.html:217 Received JSON:  {t: "24.19", p: "2.05"}
+index.html:217 Received JSON:  {t: "24.20", p: "2.35"}
+index.html:217 Received JSON:  {t: "24.21", p: "2.36"}
+index.html:217 Received JSON:  {t: "24.22", p: "2.67"}
+index.html:217 Received JSON:  {t: "24.22", p: "1.81"}
+index.html:217 Received JSON:  {t: "24.24", p: "1.83"}
+index.html:217 Received JSON:  {t: "24.25", p: "2.13"}
+index.html:217 Received JSON:  {t: "24.26", p: "2.43"}
+index.html:217 Received JSON:  {t: "24.27", p: "2.73"}
+index.html:217 Received JSON:  {t: "24.28", p: "2.75"}
+index.html:217 Received JSON:  {t: "24.28", p: "1.89"}
+index.html:217 Received JSON:  {t: "24.29", p: "1.90"}
+index.html:217 Received JSON:  {t: "24.30", p: "2.20"}
+index.html:217 Received JSON:  {t: "24.31", p: "2.22"}
+index.html:217 Received JSON:  {t: "24.32", p: "2.52"}
+index.html:217 Received JSON:  {t: "24.33", p: "2.25"}
+index.html:217 Received JSON:  {t: "24.34", p: "1.69"}
+index.html:217 Received JSON:  {t: "24.35", p: "2.27"}
+index.html:217 Received JSON:  {t: "24.36", p: "2.00"}
+index.html:217 Received JSON:  {t: "24.36", p: "2.57"}
+index.html:217 Received JSON:  {t: "24.37", p: "2.59"}
+index.html:191 MAX:
+index.html:192 2.2635267295671717
+index.html:217 Received JSON:  {t: "24.39", p: "2.04"}
+index.html:217 Received JSON:  {t: "24.39", p: "2.05"}
+index.html:217 Received JSON:  {t: "24.41", p: "2.07"}
+index.html:217 Received JSON:  {t: "24.41", p: "2.07"}
+index.html:217 Received JSON:  {t: "24.43", p: "1.81"}
+index.html:217 Received JSON:  {t: "24.44", p: "2.11"}
+index.html:217 Received JSON:  {t: "24.44", p: "2.12"}
+index.html:217 Received JSON:  {t: "24.45", p: "2.42"}
+index.html:217 Received JSON:  {t: "24.46", p: "2.71"}
+index.html:217 Received JSON:  {t: "24.48", p: "2.45"}
+index.html:217 Received JSON:  {t: "24.48", p: "2.17"}
+index.html:217 Received JSON:  {t: "24.49", p: "1.89"}
+index.html:217 Received JSON:  {t: "24.49", p: "2.76"}
+index.html:217 Received JSON:  {t: "24.51", p: "2.50"}
+index.html:217 Received JSON:  {t: "24.52", p: "2.22"}
+index.html:217 Received JSON:  {t: "24.52", p: "1.94"}
+index.html:217 Received JSON:  {t: "24.53", p: "2.24"}
+index.html:217 Received JSON:  {t: "24.56", p: "2.56"}
+index.html:217 Received JSON:  {t: "24.56", p: "2.57"}
+index.html:217 Received JSON:  {t: "24.57", p: "2.86"}
+index.html:217 Received JSON:  {t: "24.57", p: "2.01"}
+index.html:217 Received JSON:  {t: "24.58", p: "2.88"}
+index.html:217 Received JSON:  {t: "24.59", p: "2.32"}
+index.html:217 Received JSON:  {t: "24.61", p: "2.91"}
+index.html:217 Received JSON:  {t: "24.62", p: "2.36"}
+index.html:217 Received JSON:  {t: "24.62", p: "2.36"}
+index.html:217 Received JSON:  {t: "24.63", p: "2.09"}
+index.html:217 Received JSON:  {t: "24.65", p: "2.68"}
+index.html:217 Received JSON:  {t: "24.65", p: "2.40"}
+index.html:217 Received JSON:  {t: "24.66", p: "1.84"}
+index.html:217 Received JSON:  {t: "24.66", p: "2.14"}
+index.html:217 Received JSON:  {t: "24.68", p: "2.44"}
+index.html:217 Received JSON:  {t: "24.69", p: "2.17"}
+index.html:217 Received JSON:  {t: "24.70", p: "1.90"}
+index.html:217 Received JSON:  {t: "24.71", p: "2.77"}
+index.html:191 MAX:
+index.html:192 2.488210470513486
+index.html:217 Received JSON:  {t: "24.72", p: "2.50"}
+index.html:217 Received JSON:  {t: "24.73", p: "2.51"}
+index.html:217 Received JSON:  {t: "24.73", p: "2.23"}
+index.html:217 Received JSON:  {t: "24.74", p: "1.96"}
+index.html:217 Received JSON:  {t: "24.75", p: "2.26"}
+index.html:217 Received JSON:  {t: "24.76", p: "2.85"}
+index.html:217 Received JSON:  {t: "24.77", p: "2.28"}
+index.html:217 Received JSON:  {t: "24.78", p: "2.30"}
+index.html:217 Received JSON:  {t: "24.78", p: "2.87"}
+index.html:217 Received JSON:  {t: "24.79", p: "2.32"}
+index.html:217 Received JSON:  {t: "24.80", p: "2.90"}
+index.html:217 Received JSON:  {t: "24.82", p: "2.35"}
+index.html:217 Received JSON:  {t: "24.83", p: "2.08"}
+index.html:217 Received JSON:  {t: "24.83", p: "2.09"}
+index.html:217 Received JSON:  {t: "24.84", p: "2.09"}
+index.html:217 Received JSON:  {t: "24.85", p: "2.40"}
+index.html:217 Received JSON:  {t: "24.86", p: "2.13"}
+index.html:217 Received JSON:  {t: "24.86", p: "2.12"}
+index.html:217 Received JSON:  {t: "24.87", p: "3.00"}
+index.html:217 Received JSON:  {t: "24.89", p: "2.74"}
+index.html:217 Received JSON:  {t: "24.89", p: "2.74"}
+index.html:191 MAX:
+index.html:192 2.4364056642771192
+index.html:217 Received JSON:  {t: "24.90", p: "2.47"}
+index.html:217 Received JSON:  {t: "24.91", p: "2.48"}
+index.html:217 Received JSON:  {t: "24.92", p: "2.20"}
+index.html:217 Received JSON:  {t: "24.94", p: "2.23"}
+index.html:217 Received JSON:  {t: "24.94", p: "1.94"}
+index.html:217 Received JSON:  {t: "24.95", p: "2.53"}
+index.html:217 Received JSON:  {t: "24.96", p: "2.26"}
+index.html:217 Received JSON:  {t: "24.96", p: "1.98"}
+index.html:217 Received JSON:  {t: "24.97", p: "2.57"}
+index.html:217 Received JSON:  {t: "24.99", p: "2.01"}
+index.html:217 Received JSON:  {t: "24.99", p: "2.31"}
+index.html:217 Received JSON:  {t: "25.00", p: "2.04"}
+index.html:191 MAX:
+index.html:192 2.4550868149380602
+index.html:217 Received JSON:  {t: "25.01", p: "2.04"}
+index.html:217 Received JSON:  {t: "25.02", p: "1.49"}
+index.html:217 Received JSON:  {t: "25.03", p: "2.93"}
+index.html:217 Received JSON:  {t: "25.03", p: "2.37"}
+index.html:217 Received JSON:  {t: "25.05", p: "2.38"}
+index.html:217 Received JSON:  {t: "25.06", p: "2.68"}
+index.html:217 Received JSON:  {t: "25.07", p: "2.70"}
+index.html:217 Received JSON:  {t: "25.07", p: "2.42"}
+index.html:217 Received JSON:  {t: "25.08", p: "2.43"}
+index.html:217 Received JSON:  {t: "25.09", p: "2.73"}
+index.html:217 Received JSON:  {t: "25.09", p: "2.45"}
+index.html:217 Received JSON:  {t: "25.11", p: "1.89"}
+index.html:217 Received JSON:  {t: "25.11", p: "2.19"}
+index.html:217 Received JSON:  {t: "25.13", p: "2.50"}
+index.html:217 Received JSON:  {t: "25.14", p: "2.22"}
+index.html:217 Received JSON:  {t: "25.14", p: "2.51"}
+index.html:217 Received JSON:  {t: "25.15", p: "1.37"}
+index.html:217 Received JSON:  {t: "25.16", p: "2.54"}
+index.html:217 Received JSON:  {t: "25.17", p: "3.13"}
+index.html:217 Received JSON:  {t: "25.17", p: "3.13"}
+index.html:191 MAX:
+index.html:192 2.4534894262976845
+index.html:217 Received JSON:  {t: "25.19", p: "3.15"}
+index.html:217 Received JSON:  {t: "25.19", p: "2.58"}
+index.html:217 Received JSON:  {t: "25.20", p: "3.17"}
+index.html:217 Received JSON:  {t: "25.21", p: "1.75"}
+index.html:217 Received JSON:  {t: "25.23", p: "3.21"}
+index.html:217 Received JSON:  {t: "25.23", p: "2.63"}
+index.html:217 Received JSON:  {t: "25.24", p: "2.37"}
+index.html:217 Received JSON:  {t: "25.24", p: "3.23"}
+index.html:217 Received JSON:  {t: "25.26", p: "2.39"}
+index.html:217 Received JSON:  {t: "25.27", p: "2.12"}
+index.html:217 Received JSON:  {t: "25.28", p: "2.41"}
+index.html:217 Received JSON:  {t: "25.28", p: "2.43"}
+index.html:217 Received JSON:  {t: "25.29", p: "1.86"}
+index.html:217 Received JSON:  {t: "25.29", p: "2.73"}
+index.html:217 Received JSON:  {t: "25.30", p: "2.17"}
+index.html:191 MAX:
+index.html:192 2.727398644253467
+index.html:217 Received JSON:  {t: "25.32", p: "3.33"}
+index.html:217 Received JSON:  {t: "25.32", p: "2.48"}
+index.html:217 Received JSON:  {t: "25.33", p: "2.50"}
+index.html:217 Received JSON:  {t: "25.34", p: "3.08"}
+index.html:217 Received JSON:  {t: "25.35", p: "2.52"}
+index.html:217 Received JSON:  {t: "25.36", p: "3.10"}
+index.html:217 Received JSON:  {t: "25.37", p: "2.83"}
+index.html:217 Received JSON:  {t: "25.37", p: "2.83"}
+index.html:217 Received JSON:  {t: "25.39", p: "2.86"}
+index.html:217 Received JSON:  {t: "25.39", p: "2.00"}
+index.html:217 Received JSON:  {t: "25.40", p: "3.45"}
+index.html:217 Received JSON:  {t: "25.41", p: "2.60"}
+index.html:217 Received JSON:  {t: "25.42", p: "2.61"}
+index.html:217 Received JSON:  {t: "25.43", p: "2.92"}
+index.html:217 Received JSON:  {t: "25.43", p: "2.92"}
+index.html:217 Received JSON:  {t: "25.45", p: "2.36"}
+index.html:217 Received JSON:  {t: "25.45", p: "2.94"}
+index.html:217 Received JSON:  {t: "25.46", p: "3.25"}
+index.html:217 Received JSON:  {t: "25.47", p: "2.97"}
+index.html:217 Received JSON:  {t: "25.49", p: "2.71"}
+index.html:191 MAX:
+index.html:192 2.7773129954266187
+index.html:217 Received JSON:  {t: "25.49", p: "2.99"}
+index.html:217 Received JSON:  {t: "25.49", p: "2.72"}
+index.html:217 Received JSON:  {t: "25.51", p: "3.03"}
+index.html:217 Received JSON:  {t: "25.51", p: "3.31"}
+index.html:217 Received JSON:  {t: "25.52", p: "2.47"}
+index.html:217 Received JSON:  {t: "25.53", p: "2.48"}
+index.html:217 Received JSON:  {t: "25.54", p: "2.78"}
+index.html:217 Received JSON:  {t: "25.54", p: "2.21"}
+index.html:217 Received JSON:  {t: "25.56", p: "2.23"}
+index.html:217 Received JSON:  {t: "25.56", p: "2.81"}
+index.html:217 Received JSON:  {t: "25.57", p: "2.25"}
+index.html:217 Received JSON:  {t: "25.58", p: "3.41"}
+index.html:191 MAX:
+index.html:192 2.8822016872789513
+index.html:217 Received JSON:  {t: "25.59", p: "2.85"}
+index.html:217 Received JSON:  {t: "25.59", p: "2.29"}
+index.html:217 Received JSON:  {t: "25.61", p: "2.88"}
+index.html:217 Received JSON:  {t: "25.62", p: "3.18"}
+index.html:217 Received JSON:  {t: "25.62", p: "2.33"}
+index.html:217 Received JSON:  {t: "25.63", p: "2.34"}
+index.html:217 Received JSON:  {t: "25.64", p: "2.63"}
+index.html:217 Received JSON:  {t: "25.65", p: "2.65"}
+index.html:217 Received JSON:  {t: "25.66", p: "3.52"}
+index.html:217 Received JSON:  {t: "25.66", p: "2.96"}
+index.html:217 Received JSON:  {t: "25.68", p: "3.26"}
+index.html:217 Received JSON:  {t: "25.69", p: "2.70"}
+index.html:217 Received JSON:  {t: "25.69", p: "2.70"}
+index.html:217 Received JSON:  {t: "25.70", p: "2.15"}
+index.html:217 Received JSON:  {t: "25.71", p: "2.73"}
+index.html:217 Received JSON:  {t: "25.72", p: "2.75"}
+index.html:217 Received JSON:  {t: "25.73", p: "2.76"}
+index.html:217 Received JSON:  {t: "25.73", p: "3.34"}
+index.html:217 Received JSON:  {t: "25.74", p: "3.06"}
+index.html:217 Received JSON:  {t: "25.75", p: "3.07"}
+index.html:217 Received JSON:  {t: "25.76", p: "2.80"}
+index.html:217 Received JSON:  {t: "25.77", p: "2.82"}
+index.html:217 Received JSON:  {t: "25.78", p: "1.96"}
+index.html:191 MAX:
+index.html:192 2.822517612049845
+index.html:217 Received JSON:  {t: "25.79", p: "2.84"}
+index.html:217 Received JSON:  {t: "25.79", p: "3.42"}
+index.html:217 Received JSON:  {t: "25.79", p: "3.71"}
+index.html:217 Received JSON:  {t: "25.81", p: "3.16"}
+index.html:217 Received JSON:  {t: "25.82", p: "2.88"}
+index.html:217 Received JSON:  {t: "25.83", p: "2.61"}
+index.html:217 Received JSON:  {t: "25.83", p: "3.48"}
+index.html:217 Received JSON:  {t: "25.85", p: "2.64"}
+index.html:217 Received JSON:  {t: "25.85", p: "2.93"}
+index.html:217 Received JSON:  {t: "25.86", p: "2.37"}
+index.html:217 Received JSON:  {t: "25.87", p: "2.96"}
+index.html:217 Received JSON:  {t: "25.87", p: "2.67"}
+index.html:217 Received JSON:  {t: "25.88", p: "2.97"}
+index.html:217 Received JSON:  {t: "25.89", p: "2.99"}
+index.html:217 Received JSON:  {t: "25.91", p: "3.29"}
+index.html:217 Received JSON:  {t: "25.91", p: "2.44"}
+index.html:191 MAX:
+index.html:192 2.994752801283479
+index.html:217 Received JSON:  {t: "25.92", p: "2.45"}
+index.html:217 Received JSON:  {t: "25.93", p: "2.46"}
+index.html:217 Received JSON:  {t: "25.93", p: "2.46"}
+index.html:217 Received JSON:  {t: "25.94", p: "3.06"}
+index.html:217 Received JSON:  {t: "25.95", p: "2.78"}
+index.html:217 Received JSON:  {t: "25.96", p: "3.07"}
+index.html:217 Received JSON:  {t: "25.96", p: "3.08"}
+index.html:217 Received JSON:  {t: "25.97", p: "2.24"}
+index.html:217 Received JSON:  {t: "25.98", p: "2.54"}
+index.html:217 Received JSON:  {t: "25.99", p: "2.55"}
+index.html:217 Received JSON:  {t: "25.99", p: "2.84"}
+index.html:217 Received JSON:  {t: "26.01", p: "2.57"}
+index.html:217 Received JSON:  {t: "26.01", p: "3.16"}
+index.html:217 Received JSON:  {t: "26.02", p: "2.88"}
+index.html:217 Received JSON:  {t: "26.04", p: "3.19"}
+index.html:217 Received JSON:  {t: "26.04", p: "3.19"}
+index.html:217 Received JSON:  {t: "26.05", p: "2.92"}
+index.html:217 Received JSON:  {t: "26.05", p: "2.64"}
+index.html:217 Received JSON:  {t: "26.06", p: "2.36"}
+index.html:217 Received JSON:  {t: "26.07", p: "2.66"}
+index.html:217 Received JSON:  {t: "26.08", p: "2.39"}
+index.html:217 Received JSON:  {t: "26.09", p: "2.41"}
+index.html:217 Received JSON:  {t: "26.09", p: "2.98"}
+index.html:217 Received JSON:  {t: "26.11", p: "3.00"}
+index.html:217 Received JSON:  {t: "26.11", p: "3.00"}
+index.html:217 Received JSON:  {t: "26.12", p: "2.74"}
+index.html:217 Received JSON:  {t: "26.13", p: "2.74"}
+index.html:191 MAX:
+index.html:192 2.8491535198068094
+index.html:217 Received JSON:  {t: "26.14", p: "2.76"}
+index.html:217 Received JSON:  {t: "26.15", p: "2.77"}
+index.html:217 Received JSON:  {t: "26.16", p: "2.21"}
+index.html:217 Received JSON:  {t: "26.16", p: "3.36"}
+index.html:217 Received JSON:  {t: "26.17", p: "2.52"}
+index.html:217 Received JSON:  {t: "26.18", p: "3.67"}
+index.html:217 Received JSON:  {t: "26.19", p: "2.82"}
+index.html:217 Received JSON:  {t: "26.19", p: "3.12"}
+index.html:217 Received JSON:  {t: "26.20", p: "2.27"}
+index.html:217 Received JSON:  {t: "26.21", p: "2.86"}
+index.html:217 Received JSON:  {t: "26.22", p: "2.87"}
+index.html:217 Received JSON:  {t: "26.23", p: "3.17"}
+index.html:217 Received JSON:  {t: "26.24", p: "3.47"}
+index.html:217 Received JSON:  {t: "26.25", p: "2.90"}
+index.html:217 Received JSON:  {t: "26.25", p: "3.20"}
+index.html:217 Received JSON:  {t: "26.26", p: "2.64"}
+index.html:217 Received JSON:  {t: "26.27", p: "3.22"}
+index.html:217 Received JSON:  {t: "26.28", p: "2.37"}
+index.html:217 Received JSON:  {t: "26.29", p: "2.96"}
+index.html:217 Received JSON:  {t: "26.29", p: "2.69"}
+index.html:217 Received JSON:  {t: "26.29", p: "2.69"}
+index.html:217 Received JSON:  {t: "26.31", p: "3.29"}
+index.html:217 Received JSON:  {t: "26.32", p: "3.29"}
+index.html:217 Received JSON:  {t: "26.33", p: "3.02"}
+index.html:217 Received JSON:  {t: "26.33", p: "3.03"}
+index.html:191 MAX:
+index.html:192 2.972230165361662
+index.html:217 Received JSON:  {t: "26.35", p: "2.47"}
+index.html:217 Received JSON:  {t: "26.34", p: "2.75"}
+index.html:217 Received JSON:  {t: "26.36", p: "2.77"}
+index.html:217 Received JSON:  {t: "26.37", p: "2.79"}
+index.html:217 Received JSON:  {t: "26.37", p: "3.09"}
+index.html:217 Received JSON:  {t: "26.38", p: "2.24"}
+index.html:217 Received JSON:  {t: "26.39", p: "3.40"}
+index.html:217 Received JSON:  {t: "26.39", p: "2.25"}
+index.html:217 Received JSON:  {t: "26.41", p: "2.84"}
+index.html:217 Received JSON:  {t: "26.42", p: "3.14"}
+index.html:191 MAX:
+index.html:192 2.9143330706664017
+index.html:217 Received JSON:  {t: "26.43", p: "3.73"}
+index.html:217 Received JSON:  {t: "26.43", p: "2.59"}
+index.html:217 Received JSON:  {t: "26.45", p: "2.90"}
+index.html:217 Received JSON:  {t: "26.45", p: "2.62"}
+index.html:217 Received JSON:  {t: "26.46", p: "2.91"}
+index.html:217 Received JSON:  {t: "26.46", p: "3.49"}
+index.html:217 Received JSON:  {t: "26.47", p: "3.51"}
+index.html:217 Received JSON:  {t: "26.48", p: "2.94"}
+index.html:217 Received JSON:  {t: "26.49", p: "2.95"}
+index.html:217 Received JSON:  {t: "26.49", p: "2.67"}
+index.html:217 Received JSON:  {t: "26.50", p: "3.55"}
+index.html:217 Received JSON:  {t: "26.51", p: "2.70"}
+index.html:217 Received JSON:  {t: "26.52", p: "2.71"}
+index.html:217 Received JSON:  {t: "26.53", p: "3.59"}
+index.html:217 Received JSON:  {t: "26.54", p: "3.31"}
+index.html:217 Received JSON:  {t: "26.54", p: "3.32"}
+index.html:217 Received JSON:  {t: "26.55", p: "2.47"}
+index.html:217 Received JSON:  {t: "26.56", p: "3.63"}
+index.html:217 Received JSON:  {t: "26.57", p: "3.07"}
+index.html:217 Received JSON:  {t: "26.58", p: "2.80"}
+index.html:217 Received JSON:  {t: "26.58", p: "2.80"}
+index.html:217 Received JSON:  {t: "26.59", p: "2.82"}
+index.html:217 Received JSON:  {t: "26.60", p: "2.54"}
+index.html:217 Received JSON:  {t: "26.61", p: "3.12"}
+index.html:217 Received JSON:  {t: "26.62", p: "3.13"}
+index.html:217 Received JSON:  {t: "26.62", p: "3.14"}
+index.html:217 Received JSON:  {t: "26.63", p: "4.02"}
+index.html:191 MAX:
+index.html:192 3.093081396180833
+index.html:217 Received JSON:  {t: "26.64", p: "3.46"}
+index.html:217 Received JSON:  {t: "26.64", p: "3.46"}
+index.html:217 Received JSON:  {t: "26.66", p: "2.62"}
+index.html:217 Received JSON:  {t: "26.67", p: "3.49"}
+index.html:217 Received JSON:  {t: "26.67", p: "3.50"}
+index.html:217 Received JSON:  {t: "26.68", p: "3.22"}
+index.html:217 Received JSON:  {t: "26.69", p: "2.95"}
+index.html:217 Received JSON:  {t: "26.70", p: "2.97"}
+index.html:217 Received JSON:  {t: "26.70", p: "2.97"}
+index.html:217 Received JSON:  {t: "26.71", p: "2.97"}
+index.html:217 Received JSON:  {t: "26.72", p: "3.00"}
+index.html:217 Received JSON:  {t: "26.73", p: "2.72"}
+index.html:217 Received JSON:  {t: "26.74", p: "3.02"}
+index.html:217 Received JSON:  {t: "26.75", p: "2.74"}
+index.html:191 MAX:
+index.html:192 3.2715366178724308
+index.html:217 Received JSON:  {t: "26.75", p: "3.03"}
+index.html:217 Received JSON:  {t: "26.76", p: "2.47"}
+index.html:217 Received JSON:  {t: "26.76", p: "3.05"}
+index.html:217 Received JSON:  {t: "26.77", p: "3.35"}
+index.html:217 Received JSON:  {t: "26.79", p: "2.80"}
+index.html:217 Received JSON:  {t: "26.79", p: "3.37"}
+index.html:217 Received JSON:  {t: "26.81", p: "3.11"}
+index.html:217 Received JSON:  {t: "26.81", p: "3.41"}
+index.html:217 Received JSON:  {t: "26.82", p: "3.70"}
+index.html:217 Received JSON:  {t: "26.82", p: "3.13"}
+index.html:217 Received JSON:  {t: "26.83", p: "3.43"}
+index.html:217 Received JSON:  {t: "26.83", p: "2.86"}
+index.html:217 Received JSON:  {t: "26.84", p: "3.16"}
+index.html:217 Received JSON:  {t: "26.86", p: "3.47"}
+index.html:217 Received JSON:  {t: "26.86", p: "2.61"}
+index.html:217 Received JSON:  {t: "26.88", p: "3.21"}
+index.html:217 Received JSON:  {t: "26.88", p: "3.50"}
+index.html:217 Received JSON:  {t: "26.88", p: "2.65"}
+index.html:217 Received JSON:  {t: "26.89", p: "3.24"}
+index.html:217 Received JSON:  {t: "26.90", p: "3.25"}
+index.html:217 Received JSON:  {t: "26.91", p: "2.96"}
+index.html:217 Received JSON:  {t: "26.91", p: "2.68"}
+index.html:191 MAX:
+index.html:192 3.2371229132859547
+index.html:198 Respiratory rate:
+index.html:199 41
+index.html:217 Received JSON:  {t: "26.93", p: "3.57"}
+index.html:217 Received JSON:  {t: "26.94", p: "3.30"}
+index.html:217 Received JSON:  {t: "26.94", p: "3.01"}
+index.html:217 Received JSON:  {t: "26.95", p: "3.31"}
+index.html:217 Received JSON:  {t: "26.96", p: "3.33"}
+index.html:217 Received JSON:  {t: "26.96", p: "3.62"}
+index.html:217 Received JSON:  {t: "26.97", p: "2.76"}
+index.html:217 Received JSON:  {t: "26.98", p: "3.07"}
+index.html:217 Received JSON:  {t: "26.98", p: "3.07"}
+index.html:217 Received JSON:  {t: "26.99", p: "2.80"}
+index.html:217 Received JSON:  {t: "27.00", p: "2.81"}
+index.html:217 Received JSON:  {t: "27.01", p: "3.11"}
+index.html:217 Received JSON:  {t: "27.02", p: "3.12"}
+index.html:217 Received JSON:  {t: "27.03", p: "3.14"}
+index.html:217 Received JSON:  {t: "27.03", p: "3.43"}
+index.html:217 Received JSON:  {t: "27.04", p: "2.57"}
+index.html:174 MAX:
+index.html:175 3.183346960642017
+index.html:217 Received JSON:  {t: "27.04", p: "3.73"}
+index.html:217 Received JSON:  {t: "27.06", p: "2.89"}
+index.html:217 Received JSON:  {t: "27.06", p: "3.47"}
+index.html:217 Received JSON:  {t: "27.07", p: "3.48"}
+index.html:217 Received JSON:  {t: "27.08", p: "2.92"}
+index.html:217 Received JSON:  {t: "27.09", p: "3.51"}
+index.html:217 Received JSON:  {t: "27.09", p: "3.52"}
+index.html:217 Received JSON:  {t: "27.10", p: "3.24"}
+index.html:217 Received JSON:  {t: "27.11", p: "2.96"}
+index.html:217 Received JSON:  {t: "27.12", p: "3.56"}
+index.html:217 Received JSON:  {t: "27.13", p: "3.27"}
+index.html:217 Received JSON:  {t: "27.13", p: "2.99"}
+index.html:217 Received JSON:  {t: "27.14", p: "2.72"}
+index.html:217 Received JSON:  {t: "27.15", p: "3.31"}
+index.html:217 Received JSON:  {t: "27.15", p: "3.02"}
+index.html:217 Received JSON:  {t: "27.17", p: "3.90"}
+index.html:217 Received JSON:  {t: "27.17", p: "3.05"}
+index.html:217 Received JSON:  {t: "27.18", p: "3.34"}
+index.html:191 MAX:
+index.html:192 3.2799001787087008
+index.html:217 Received JSON:  {t: "27.19", p: "3.36"}
+index.html:217 Received JSON:  {t: "27.19", p: "3.36"}
+index.html:217 Received JSON:  {t: "27.20", p: "3.09"}
+index.html:217 Received JSON:  {t: "27.21", p: "3.38"}
+index.html:217 Received JSON:  {t: "27.21", p: "2.82"}
+index.html:217 Received JSON:  {t: "27.23", p: "3.41"}
+index.html:217 Received JSON:  {t: "27.23", p: "3.70"}
+index.html:217 Received JSON:  {t: "27.24", p: "3.14"}
+index.html:217 Received JSON:  {t: "27.25", p: "3.44"}
+index.html:217 Received JSON:  {t: "27.25", p: "3.45"}
+index.html:217 Received JSON:  {t: "27.26", p: "3.17"}
+index.html:217 Received JSON:  {t: "27.27", p: "3.19"}
+index.html:217 Received JSON:  {t: "27.28", p: "3.19"}
+index.html:217 Received JSON:  {t: "27.28", p: "3.49"}
+index.html:217 Received JSON:  {t: "27.29", p: "2.92"}
+index.html:217 Received JSON:  {t: "27.30", p: "3.51"}
+index.html:217 Received JSON:  {t: "27.31", p: "3.82"}
+index.html:217 Received JSON:  {t: "27.31", p: "3.24"}
+index.html:217 Received JSON:  {t: "27.33", p: "3.26"}
+index.html:217 Received JSON:  {t: "27.33", p: "2.69"}
+index.html:217 Received JSON:  {t: "27.33", p: "3.56"}
+index.html:217 Received JSON:  {t: "27.35", p: "3.29"}
+index.html:191 MAX:
+index.html:192 3.31059759988456
+index.html:217 Received JSON:  {t: "27.35", p: "3.30"}
+index.html:217 Received JSON:  {t: "27.36", p: "3.31"}
+index.html:217 Received JSON:  {t: "27.37", p: "3.04"}
+index.html:217 Received JSON:  {t: "27.37", p: "3.04"}
+index.html:217 Received JSON:  {t: "27.38", p: "3.34"}
+index.html:191 MAX:
+index.html:192 3.3095136702562775
+index.html:217 Received JSON:  {t: "27.39", p: "3.36"}
+index.html:217 Received JSON:  {t: "27.39", p: "3.65"}
+index.html:217 Received JSON:  {t: "27.40", p: "3.37"}
+index.html:217 Received JSON:  {t: "27.41", p: "3.38"}
+index.html:217 Received JSON:  {t: "27.42", p: "3.11"}
+index.html:217 Received JSON:  {t: "27.42", p: "3.11"}
+index.html:217 Received JSON:  {t: "27.44", p: "3.13"}
+index.html:217 Received JSON:  {t: "27.45", p: "3.44"}
+index.html:217 Received JSON:  {t: "27.46", p: "3.73"}
+index.html:217 Received JSON:  {t: "27.46", p: "3.73"}
+index.html:217 Received JSON:  {t: "27.46", p: "2.88"}
+index.html:217 Received JSON:  {t: "27.47", p: "3.47"}
+index.html:217 Received JSON:  {t: "27.48", p: "3.19"}
+index.html:217 Received JSON:  {t: "27.49", p: "3.20"}
+index.html:217 Received JSON:  {t: "27.50", p: "3.51"}
+index.html:217 Received JSON:  {t: "27.50", p: "2.93"}
+index.html:217 Received JSON:  {t: "27.51", p: "3.81"}
+index.html:217 Received JSON:  {t: "27.52", p: "3.54"}
+index.html:217 Received JSON:  {t: "27.53", p: "3.26"}
+index.html:217 Received JSON:  {t: "27.54", p: "3.27"}
+index.html:217 Received JSON:  {t: "27.54", p: "3.56"}
+index.html:217 Received JSON:  {t: "27.54", p: "3.28"}
+index.html:217 Received JSON:  {t: "27.55", p: "3.87"}
+index.html:217 Received JSON:  {t: "27.56", p: "2.73"}
+index.html:191 MAX:
+index.html:192 3.3466357837596603
+index.html:217 Received JSON:  {t: "27.57", p: "3.03"}
+index.html:217 Received JSON:  {t: "27.58", p: "3.32"}
+index.html:217 Received JSON:  {t: "27.59", p: "3.92"}
+index.html:217 Received JSON:  {t: "27.59", p: "3.64"}
+index.html:217 Received JSON:  {t: "27.59", p: "3.35"}
+index.html:217 Received JSON:  {t: "27.61", p: "3.08"}
+index.html:217 Received JSON:  {t: "27.62", p: "2.80"}
+index.html:217 Received JSON:  {t: "27.62", p: "3.10"}
+index.html:191 MAX:
+index.html:192 3.380023438912017
+index.html:217 Received JSON:  {t: "27.63", p: "3.40"}
+index.html:217 Received JSON:  {t: "27.64", p: "3.12"}
+index.html:217 Received JSON:  {t: "27.64", p: "3.99"}
+index.html:217 Received JSON:  {t: "27.65", p: "3.43"}
+index.html:217 Received JSON:  {t: "27.66", p: "2.57"}
+index.html:217 Received JSON:  {t: "27.66", p: "2.87"}
+index.html:217 Received JSON:  {t: "27.67", p: "3.46"}
+index.html:217 Received JSON:  {t: "27.68", p: "3.75"}
+index.html:217 Received JSON:  {t: "27.69", p: "3.48"}
+index.html:217 Received JSON:  {t: "27.69", p: "3.20"}
+index.html:217 Received JSON:  {t: "27.70", p: "3.50"}
+index.html:217 Received JSON:  {t: "27.71", p: "3.51"}
+index.html:217 Received JSON:  {t: "27.71", p: "3.52"}
+index.html:217 Received JSON:  {t: "27.72", p: "3.53"}
+index.html:217 Received JSON:  {t: "27.73", p: "3.25"}
+index.html:217 Received JSON:  {t: "27.74", p: "3.26"}
+index.html:217 Received JSON:  {t: "27.75", p: "3.85"}
+index.html:217 Received JSON:  {t: "27.75", p: "3.27"}
+index.html:217 Received JSON:  {t: "27.76", p: "3.29"}
+index.html:217 Received JSON:  {t: "27.77", p: "4.17"}
+index.html:217 Received JSON:  {t: "27.77", p: "4.17"}
+index.html:217 Received JSON:  {t: "27.79", p: "3.33"}
+index.html:217 Received JSON:  {t: "27.79", p: "3.33"}
+index.html:217 Received JSON:  {t: "27.79", p: "3.05"}
+index.html:217 Received JSON:  {t: "27.79", p: "3.64"}
+index.html:217 Received JSON:  {t: "27.81", p: "3.36"}
+index.html:217 Received JSON:  {t: "27.82", p: "4.24"}
+index.html:217 Received JSON:  {t: "27.83", p: "3.38"}
+index.html:217 Received JSON:  {t: "27.83", p: "3.11"}
+index.html:217 Received JSON:  {t: "27.84", p: "3.41"}
+index.html:217 Received JSON:  {t: "27.85", p: "3.13"}
+index.html:217 Received JSON:  {t: "27.85", p: "4.00"}
+index.html:217 Received JSON:  {t: "27.86", p: "3.14"}
+index.html:191 MAX:
+index.html:192 3.5650961678889095
+index.html:217 Received JSON:  {t: "27.87", p: "3.16"}
+index.html:217 Received JSON:  {t: "27.88", p: "3.17"}
+index.html:217 Received JSON:  {t: "27.88", p: "3.17"}
+index.html:217 Received JSON:  {t: "27.89", p: "3.19"}
+index.html:217 Received JSON:  {t: "27.89", p: "4.06"}
+index.html:217 Received JSON:  {t: "27.90", p: "3.77"}
+index.html:217 Received JSON:  {t: "27.92", p: "3.80"}
+index.html:217 Received JSON:  {t: "27.92", p: "3.80"}
+index.html:217 Received JSON:  {t: "27.92", p: "2.95"}
+index.html:217 Received JSON:  {t: "27.93", p: "2.96"}
+index.html:217 Received JSON:  {t: "27.94", p: "3.55"}
+index.html:217 Received JSON:  {t: "27.95", p: "2.97"}
+index.html:217 Received JSON:  {t: "27.95", p: "2.70"}
+index.html:217 Received JSON:  {t: "27.96", p: "3.28"}
+index.html:217 Received JSON:  {t: "27.97", p: "3.87"}
+index.html:217 Received JSON:  {t: "27.98", p: "3.60"}
+index.html:217 Received JSON:  {t: "27.98", p: "3.60"}
+index.html:217 Received JSON:  {t: "27.99", p: "3.33"}
+index.html:191 MAX:
+index.html:192 3.4614718488957763
+index.html:217 Received JSON:  {t: "28.00", p: "3.34"}
+index.html:217 Received JSON:  {t: "28.00", p: "3.63"}
+index.html:217 Received JSON:  {t: "28.01", p: "3.93"}
+index.html:217 Received JSON:  {t: "28.02", p: "3.36"}
+index.html:217 Received JSON:  {t: "28.03", p: "3.67"}
+index.html:217 Received JSON:  {t: "28.03", p: "3.96"}
+index.html:217 Received JSON:  {t: "28.04", p: "3.40"}
+index.html:217 Received JSON:  {t: "28.05", p: "3.12"}
+index.html:217 Received JSON:  {t: "28.06", p: "3.71"}
+index.html:217 Received JSON:  {t: "28.06", p: "4.00"}
+index.html:217 Received JSON:  {t: "28.07", p: "3.15"}
+index.html:217 Received JSON:  {t: "28.08", p: "3.46"}
+index.html:217 Received JSON:  {t: "28.08", p: "3.75"}
+index.html:217 Received JSON:  {t: "28.09", p: "3.75"}
+index.html:217 Received JSON:  {t: "28.09", p: "4.34"}
+index.html:217 Received JSON:  {t: "28.11", p: "3.50"}
+index.html:217 Received JSON:  {t: "28.12", p: "3.79"}
+index.html:217 Received JSON:  {t: "28.12", p: "3.50"}
+index.html:191 MAX:
+index.html:192 3.583992530253348
+index.html:217 Received JSON:  {t: "28.12", p: "3.23"}
+index.html:217 Received JSON:  {t: "28.13", p: "3.81"}
+index.html:217 Received JSON:  {t: "28.14", p: "3.24"}
+index.html:217 Received JSON:  {t: "28.15", p: "4.13"}
+index.html:217 Received JSON:  {t: "28.15", p: "3.83"}
+index.html:217 Received JSON:  {t: "28.16", p: "3.27"}
+index.html:217 Received JSON:  {t: "28.17", p: "3.57"}
+index.html:217 Received JSON:  {t: "28.18", p: "4.17"}
+index.html:217 Received JSON:  {t: "28.17", p: "3.29"}
+index.html:217 Received JSON:  {t: "28.18", p: "3.88"}
+index.html:191 MAX:
+index.html:192 3.6757200838919672
+index.html:217 Received JSON:  {t: "28.19", p: "4.18"}
+index.html:217 Received JSON:  {t: "28.20", p: "3.33"}
+index.html:217 Received JSON:  {t: "28.20", p: "3.92"}
+index.html:217 Received JSON:  {t: "28.21", p: "3.93"}
+index.html:217 Received JSON:  {t: "28.22", p: "3.93"}
+index.html:217 Received JSON:  {t: "28.23", p: "4.23"}
+index.html:217 Received JSON:  {t: "28.23", p: "3.95"}
+index.html:217 Received JSON:  {t: "28.24", p: "3.67"}
+index.html:217 Received JSON:  {t: "28.25", p: "3.97"}
+index.html:217 Received JSON:  {t: "28.25", p: "3.41"}
+index.html:217 Received JSON:  {t: "28.26", p: "3.42"}
+index.html:217 Received JSON:  {t: "28.27", p: "3.71"}
+index.html:217 Received JSON:  {t: "28.27", p: "4.58"}
+index.html:217 Received JSON:  {t: "28.28", p: "3.73"}
+index.html:217 Received JSON:  {t: "28.28", p: "4.03"}
+index.html:217 Received JSON:  {t: "28.29", p: "3.75"}
+index.html:217 Received JSON:  {t: "28.30", p: "3.19"}
+index.html:217 Received JSON:  {t: "28.30", p: "3.47"}
+index.html:191 MAX:
+index.html:192 3.8601671175851826
+index.html:217 Received JSON:  {t: "28.31", p: "3.77"}
+index.html:217 Received JSON:  {t: "28.32", p: "3.79"}
+index.html:217 Received JSON:  {t: "28.32", p: "3.51"}
+index.html:217 Received JSON:  {t: "28.33", p: "4.10"}
+index.html:217 Received JSON:  {t: "28.34", p: "3.53"}
+index.html:217 Received JSON:  {t: "28.34", p: "3.53"}
+index.html:217 Received JSON:  {t: "28.35", p: "3.83"}
+index.html:217 Received JSON:  {t: "28.36", p: "3.55"}
+index.html:217 Received JSON:  {t: "28.37", p: "3.56"}
+index.html:217 Received JSON:  {t: "28.37", p: "3.86"}
+index.html:217 Received JSON:  {t: "28.37", p: "3.57"}
+index.html:217 Received JSON:  {t: "28.38", p: "3.87"}
+index.html:217 Received JSON:  {t: "28.39", p: "3.88"}
+index.html:217 Received JSON:  {t: "28.39", p: "4.47"}
+index.html:217 Received JSON:  {t: "28.40", p: "3.32"}
+index.html:217 Received JSON:  {t: "28.40", p: "3.32"}
+index.html:217 Received JSON:  {t: "28.42", p: "4.21"}
+index.html:217 Received JSON:  {t: "28.42", p: "3.35"}
+index.html:217 Received JSON:  {t: "28.43", p: "3.66"}
+index.html:217 Received JSON:  {t: "28.43", p: "3.65"}
+index.html:217 Received JSON:  {t: "28.44", p: "3.95"}
+index.html:217 Received JSON:  {t: "28.45", p: "3.96"}
+index.html:217 Received JSON:  {t: "28.45", p: "4.26"}
+index.html:217 Received JSON:  {t: "28.46", p: "3.41"}
+index.html:217 Received JSON:  {t: "28.46", p: "3.70"}
+index.html:217 Received JSON:  {t: "28.47", p: "3.71"}
+index.html:191 MAX:
+index.html:192 3.76125266880057
+index.html:217 Received JSON:  {t: "28.48", p: "3.72"}
+index.html:217 Received JSON:  {t: "28.48", p: "4.30"}
+index.html:217 Received JSON:  {t: "28.49", p: "3.73"}
+index.html:217 Received JSON:  {t: "28.49", p: "4.03"}
+index.html:217 Received JSON:  {t: "28.49", p: "4.33"}
+index.html:217 Received JSON:  {t: "28.51", p: "3.76"}
+index.html:217 Received JSON:  {t: "28.52", p: "4.06"}
+index.html:217 Received JSON:  {t: "28.52", p: "4.07"}
+index.html:217 Received JSON:  {t: "28.53", p: "4.07"}
+index.html:217 Received JSON:  {t: "28.53", p: "4.08"}
+index.html:217 Received JSON:  {t: "28.53", p: "4.37"}
+index.html:217 Received JSON:  {t: "28.54", p: "3.24"}
+index.html:217 Received JSON:  {t: "28.55", p: "3.54"}
+index.html:217 Received JSON:  {t: "28.56", p: "3.54"}
+index.html:217 Received JSON:  {t: "28.56", p: "4.13"}
+index.html:217 Received JSON:  {t: "28.56", p: "3.26"}
+index.html:217 Received JSON:  {t: "28.58", p: "3.29"}
+index.html:217 Received JSON:  {t: "28.58", p: "3.57"}
+index.html:217 Received JSON:  {t: "28.59", p: "3.59"}
+index.html:191 MAX:
+index.html:192 3.9969223800520357
+index.html:217 Received JSON:  {t: "28.59", p: "3.59"}
+index.html:217 Received JSON:  {t: "28.59", p: "3.89"}
+index.html:217 Received JSON:  {t: "28.61", p: "4.19"}
+index.html:217 Received JSON:  {t: "28.61", p: "3.90"}
+index.html:217 Received JSON:  {t: "28.61", p: "3.34"}
+index.html:217 Received JSON:  {t: "28.62", p: "2.77"}
+index.html:217 Received JSON:  {t: "28.62", p: "3.64"}
+index.html:217 Received JSON:  {t: "28.64", p: "3.95"}
+index.html:217 Received JSON:  {t: "28.64", p: "3.94"}
+index.html:217 Received JSON:  {t: "28.65", p: "3.96"}
+index.html:217 Received JSON:  {t: "28.65", p: "3.96"}
+index.html:217 Received JSON:  {t: "28.65", p: "3.10"}
+index.html:217 Received JSON:  {t: "28.67", p: "3.70"}
+index.html:217 Received JSON:  {t: "28.66", p: "3.69"}
+index.html:217 Received JSON:  {t: "28.67", p: "3.99"}
+index.html:217 Received JSON:  {t: "28.69", p: "3.43"}
+index.html:217 Received JSON:  {t: "28.69", p: "3.72"}
+index.html:217 Received JSON:  {t: "28.70", p: "4.03"}
+index.html:217 Received JSON:  {t: "28.69", p: "3.45"}
+index.html:217 Received JSON:  {t: "28.70", p: "3.75"}
+index.html:217 Received JSON:  {t: "28.71", p: "4.05"}
+index.html:217 Received JSON:  {t: "28.72", p: "3.19"}
+index.html:217 Received JSON:  {t: "28.73", p: "4.07"}
+index.html:217 Received JSON:  {t: "28.73", p: "3.79"}
+index.html:217 Received JSON:  {t: "28.73", p: "4.07"}
+index.html:217 Received JSON:  {t: "28.74", p: "4.38"}
+index.html:217 Received JSON:  {t: "28.74", p: "3.80"}
+index.html:217 Received JSON:  {t: "28.75", p: "3.52"}
+index.html:217 Received JSON:  {t: "28.76", p: "4.41"}
+index.html:217 Received JSON:  {t: "28.76", p: "3.25"}
+index.html:217 Received JSON:  {t: "28.77", p: "3.84"}
+index.html:217 Received JSON:  {t: "28.78", p: "3.85"}
+index.html:217 Received JSON:  {t: "28.78", p: "3.57"}
+index.html:217 Received JSON:  {t: "28.79", p: "4.16"}
+index.html:217 Received JSON:  {t: "28.79", p: "4.16"}
+index.html:217 Received JSON:  {t: "28.79", p: "4.16"}
+index.html:217 Received JSON:  {t: "28.81", p: "3.89"}
+index.html:217 Received JSON:  {t: "28.82", p: "3.90"}
+index.html:217 Received JSON:  {t: "28.82", p: "3.62"}
+index.html:191 MAX:
+index.html:192 3.8788236476743854
+index.html:217 Received JSON:  {t: "28.82", p: "4.20"}
+index.html:217 Received JSON:  {t: "28.82", p: "4.21"}
+index.html:217 Received JSON:  {t: "28.84", p: "3.94"}
+index.html:217 Received JSON:  {t: "28.84", p: "3.36"}
+index.html:217 Received JSON:  {t: "28.85", p: "3.66"}
+index.html:217 Received JSON:  {t: "28.85", p: "3.66"}
+index.html:217 Received JSON:  {t: "28.86", p: "3.67"}
+index.html:217 Received JSON:  {t: "28.86", p: "4.25"}
+index.html:217 Received JSON:  {t: "28.86", p: "4.26"}
+index.html:217 Received JSON:  {t: "28.87", p: "3.41"}
+index.html:191 MAX:
+index.html:192 3.94451852622625
+index.html:217 Received JSON:  {t: "28.87", p: "3.70"}
+index.html:217 Received JSON:  {t: "28.89", p: "4.00"}
+index.html:217 Received JSON:  {t: "28.88", p: "3.42"}
+index.html:217 Received JSON:  {t: "28.89", p: "4.02"}
+index.html:217 Received JSON:  {t: "28.89", p: "3.44"}
+index.html:217 Received JSON:  {t: "28.90", p: "4.32"}
+index.html:217 Received JSON:  {t: "28.90", p: "4.32"}
+index.html:217 Received JSON:  {t: "28.91", p: "3.46"}
+index.html:217 Received JSON:  {t: "28.93", p: "4.06"}
+index.html:217 Received JSON:  {t: "28.93", p: "4.35"}
+index.html:217 Received JSON:  {t: "28.94", p: "4.08"}
+index.html:217 Received JSON:  {t: "28.94", p: "3.50"}
+index.html:217 Received JSON:  {t: "28.94", p: "4.09"}
+index.html:217 Received JSON:  {t: "28.95", p: "4.39"}
+index.html:217 Received JSON:  {t: "28.96", p: "4.10"}
+index.html:217 Received JSON:  {t: "28.96", p: "3.82"}
+index.html:217 Received JSON:  {t: "28.97", p: "3.55"}
+index.html:217 Received JSON:  {t: "28.97", p: "4.12"}
+index.html:217 Received JSON:  {t: "28.98", p: "3.56"}
+index.html:217 Received JSON:  {t: "28.99", p: "3.86"}
+index.html:217 Received JSON:  {t: "28.99", p: "2.99"}
+index.html:217 Received JSON:  {t: "29.00", p: "3.87"}
+index.html:217 Received JSON:  {t: "29.00", p: "3.59"}
+index.html:191 MAX:
+index.html:192 3.9981131197876136
+index.html:217 Received JSON:  {t: "29.01", p: "3.88"}
+index.html:217 Received JSON:  {t: "29.01", p: "4.18"}
+index.html:217 Received JSON:  {t: "29.02", p: "3.90"}
+index.html:217 Received JSON:  {t: "29.02", p: "4.20"}
+index.html:217 Received JSON:  {t: "29.03", p: "3.63"}
+index.html:217 Received JSON:  {t: "29.03", p: "3.92"}
+index.html:217 Received JSON:  {t: "29.05", p: "3.94"}
+index.html:217 Received JSON:  {t: "29.05", p: "3.94"}
+index.html:217 Received JSON:  {t: "29.05", p: "3.66"}
+index.html:217 Received JSON:  {t: "29.06", p: "3.67"}
+index.html:217 Received JSON:  {t: "29.06", p: "3.96"}
+index.html:217 Received JSON:  {t: "29.06", p: "4.25"}
+index.html:217 Received JSON:  {t: "29.08", p: "4.27"}
+index.html:217 Received JSON:  {t: "29.08", p: "3.70"}
+index.html:217 Received JSON:  {t: "29.08", p: "3.99"}
+index.html:217 Received JSON:  {t: "29.09", p: "4.00"}
+index.html:217 Received JSON:  {t: "29.09", p: "4.58"}
+index.html:217 Received JSON:  {t: "29.10", p: "4.30"}
+index.html:217 Received JSON:  {t: "29.10", p: "4.31"}
+index.html:217 Received JSON:  {t: "29.11", p: "3.46"}
+index.html:217 Received JSON:  {t: "29.11", p: "3.17"}
+index.html:217 Received JSON:  {t: "29.12", p: "3.76"}
+index.html:217 Received JSON:  {t: "29.13", p: "4.05"}
+index.html:217 Received JSON:  {t: "29.14", p: "3.77"}
+index.html:217 Received JSON:  {t: "29.14", p: "4.64"}
+index.html:217 Received JSON:  {t: "29.15", p: "4.07"}
+index.html:217 Received JSON:  {t: "29.15", p: "4.08"}
+index.html:217 Received JSON:  {t: "29.16", p: "3.81"}
+index.html:191 MAX:
+index.html:192 4.042351274052386
+index.html:217 Received JSON:  {t: "29.16", p: "3.81"}
+index.html:217 Received JSON:  {t: "29.17", p: "4.40"}
+index.html:217 Received JSON:  {t: "29.18", p: "4.41"}
+index.html:217 Received JSON:  {t: "29.18", p: "4.42"}
+index.html:217 Received JSON:  {t: "29.18", p: "3.54"}
+index.html:217 Received JSON:  {t: "29.19", p: "4.15"}
+index.html:217 Received JSON:  {t: "29.19", p: "3.57"}
+index.html:217 Received JSON:  {t: "29.21", p: "3.59"}
+index.html:217 Received JSON:  {t: "29.20", p: "3.58"}
+index.html:217 Received JSON:  {t: "29.21", p: "4.17"}
+index.html:217 Received JSON:  {t: "29.22", p: "4.17"}
+index.html:217 Received JSON:  {t: "29.22", p: "3.90"}
+index.html:217 Received JSON:  {t: "29.23", p: "4.77"}
+index.html:191 MAX:
+index.html:192 4.074096767344875
+index.html:217 Received JSON:  {t: "29.23", p: "3.91"}
+index.html:217 Received JSON:  {t: "29.23", p: "3.91"}
+index.html:217 Received JSON:  {t: "29.25", p: "4.51"}
+index.html:217 Received JSON:  {t: "29.26", p: "4.23"}
+index.html:217 Received JSON:  {t: "29.26", p: "4.23"}
+index.html:217 Received JSON:  {t: "29.26", p: "4.24"}
+index.html:217 Received JSON:  {t: "29.27", p: "4.25"}
+index.html:217 Received JSON:  {t: "29.27", p: "3.97"}
+index.html:217 Received JSON:  {t: "29.27", p: "3.97"}
+index.html:217 Received JSON:  {t: "29.28", p: "3.40"}
+index.html:217 Received JSON:  {t: "29.29", p: "4.28"}
+index.html:217 Received JSON:  {t: "29.29", p: "3.13"}
+index.html:217 Received JSON:  {t: "29.29", p: "4.29"}
+index.html:217 Received JSON:  {t: "29.31", p: "3.73"}
+index.html:217 Received JSON:  {t: "29.31", p: "3.44"}
+index.html:191 MAX:
+index.html:192 4.174109823492194
+index.html:217 Received JSON:  {t: "29.31", p: "4.60"}
+index.html:217 Received JSON:  {t: "29.32", p: "4.04"}
+index.html:217 Received JSON:  {t: "29.32", p: "4.04"}
+index.html:217 Received JSON:  {t: "29.33", p: "4.05"}
+index.html:217 Received JSON:  {t: "29.34", p: "3.77"}
+index.html:217 Received JSON:  {t: "29.34", p: "3.77"}
+index.html:217 Received JSON:  {t: "29.34", p: "4.06"}
+index.html:217 Received JSON:  {t: "29.35", p: "3.79"}
+index.html:217 Received JSON:  {t: "29.36", p: "4.09"}
+index.html:217 Received JSON:  {t: "29.36", p: "4.10"}
+index.html:217 Received JSON:  {t: "29.37", p: "4.10"}
+index.html:217 Received JSON:  {t: "29.36", p: "3.81"}
+index.html:217 Received JSON:  {t: "29.37", p: "3.82"}
+index.html:217 Received JSON:  {t: "29.39", p: "4.13"}
+index.html:217 Received JSON:  {t: "29.39", p: "4.13"}
+index.html:217 Received JSON:  {t: "29.39", p: "4.42"}
+index.html:217 Received JSON:  {t: "29.43", p: "10569.83"}
+index.html:191 MAX:
+index.html:192 3.966143364434518
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "29.44", p: "-9259.39"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-20543.19"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-20543.71"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-20544.24"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-20544.76"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-1393.55"}
+index.html:217 Received JSON:  {t: "29.47", p: "4.53"}
+index.html:191 MAX:
+index.html:192 3877.877794679075
+index.html:217 Received JSON:  {t: "29.47", p: "3.96"}
+index.html:217 Received JSON:  {t: "29.48", p: "3.97"}
+index.html:217 Received JSON:  {t: "29.48", p: "10574.03"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-1394.07"}
+index.html:217 Received JSON:  {t: "29.49", p: "4.27"}
+index.html:217 Received JSON:  {t: "29.50", p: "4.57"}
+index.html:217 Received JSON:  {t: "29.50", p: "4.00"}
+index.html:217 Received JSON:  {t: "29.50", p: "4.29"}
+index.html:217 Received JSON:  {t: "29.51", p: "3.73"}
+index.html:217 Received JSON:  {t: "29.52", p: "4.31"}
+index.html:217 Received JSON:  {t: "29.52", p: "4.03"}
+index.html:217 Received JSON:  {t: "29.53", p: "3.46"}
+index.html:217 Received JSON:  {t: "29.53", p: "4.33"}
+index.html:217 Received JSON:  {t: "29.54", p: "4.05"}
+index.html:217 Received JSON:  {t: "29.55", p: "4.06"}
+index.html:217 Received JSON:  {t: "29.55", p: "4.35"}
+index.html:217 Received JSON:  {t: "29.55", p: "3.79"}
+index.html:191 MAX:
+index.html:192 973.1095336076244
+index.html:217 Received JSON:  {t: "29.56", p: "4.08"}
+index.html:217 Received JSON:  {t: "29.56", p: "3.51"}
+index.html:217 Received JSON:  {t: "29.57", p: "4.38"}
+index.html:217 Received JSON:  {t: "29.58", p: "4.11"}
+index.html:217 Received JSON:  {t: "29.58", p: "4.11"}
+index.html:217 Received JSON:  {t: "29.58", p: "4.11"}
+index.html:217 Received JSON:  {t: "29.59", p: "3.84"}
+index.html:217 Received JSON:  {t: "29.59", p: "3.84"}
+index.html:217 Received JSON:  {t: "29.59", p: "4.13"}
+index.html:217 Received JSON:  {t: "29.60", p: "3.85"}
+index.html:191 MAX:
+index.html:192 4.031152725838495
+index.html:217 Received JSON:  {t: "29.61", p: "4.44"}
+index.html:217 Received JSON:  {t: "29.61", p: "4.45"}
+index.html:191 MAX:
+index.html:192 4.030712481437334
+index.html:217 Received JSON:  {t: "29.62", p: "4.16"}
+index.html:217 Received JSON:  {t: "29.62", p: "4.45"}
+index.html:217 Received JSON:  {t: "29.63", p: "4.75"}
+index.html:217 Received JSON:  {t: "29.63", p: "4.76"}
+index.html:217 Received JSON:  {t: "29.63", p: "3.60"}
+index.html:217 Received JSON:  {t: "29.64", p: "4.19"}
+index.html:217 Received JSON:  {t: "29.64", p: "4.49"}
+index.html:217 Received JSON:  {t: "29.65", p: "4.50"}
+index.html:217 Received JSON:  {t: "29.65", p: "4.21"}
+index.html:217 Received JSON:  {t: "29.66", p: "4.80"}
+index.html:217 Received JSON:  {t: "29.67", p: "4.52"}
+index.html:217 Received JSON:  {t: "29.67", p: "3.94"}
+index.html:217 Received JSON:  {t: "29.67", p: "4.53"}
+index.html:217 Received JSON:  {t: "29.68", p: "4.54"}
+index.html:217 Received JSON:  {t: "29.68", p: "4.55"}
+index.html:217 Received JSON:  {t: "29.69", p: "4.84"}
+index.html:217 Received JSON:  {t: "29.69", p: "4.27"}
+index.html:217 Received JSON:  {t: "29.69", p: "4.27"}
+index.html:217 Received JSON:  {t: "29.71", p: "4.29"}
+index.html:217 Received JSON:  {t: "29.71", p: "3.71"}
+index.html:217 Received JSON:  {t: "29.71", p: "4.58"}
+index.html:217 Received JSON:  {t: "29.72", p: "4.31"}
+index.html:217 Received JSON:  {t: "29.72", p: "4.02"}
+index.html:217 Received JSON:  {t: "29.73", p: "4.32"}
+index.html:217 Received JSON:  {t: "29.73", p: "4.04"}
+index.html:191 MAX:
+index.html:192 4.44002137764041
+index.html:217 Received JSON:  {t: "29.73", p: "4.04"}
+index.html:217 Received JSON:  {t: "29.74", p: "4.62"}
+index.html:217 Received JSON:  {t: "29.75", p: "4.34"}
+index.html:217 Received JSON:  {t: "29.75", p: "4.64"}
+index.html:217 Received JSON:  {t: "29.75", p: "4.06"}
+index.html:217 Received JSON:  {t: "29.76", p: "5.23"}
+index.html:217 Received JSON:  {t: "29.76", p: "4.37"}
+index.html:217 Received JSON:  {t: "29.77", p: "3.80"}
+index.html:217 Received JSON:  {t: "29.78", p: "3.81"}
+index.html:217 Received JSON:  {t: "29.79", p: "3.82"}
+index.html:217 Received JSON:  {t: "29.79", p: "4.40"}
+index.html:217 Received JSON:  {t: "29.79", p: "4.11"}
+index.html:217 Received JSON:  {t: "29.79", p: "4.12"}
+index.html:217 Received JSON:  {t: "29.80", p: "4.13"}
+index.html:217 Received JSON:  {t: "29.80", p: "4.14"}
+index.html:217 Received JSON:  {t: "29.81", p: "4.14"}
+index.html:191 MAX:
+index.html:192 4.342740681340145
+index.html:217 Received JSON:  {t: "29.81", p: "4.44"}
+index.html:217 Received JSON:  {t: "29.81", p: "4.73"}
+index.html:217 Received JSON:  {t: "29.82", p: "4.74"}
+index.html:217 Received JSON:  {t: "29.83", p: "4.46"}
+index.html:217 Received JSON:  {t: "29.82", p: "4.16"}
+index.html:217 Received JSON:  {t: "29.84", p: "4.18"}
+index.html:217 Received JSON:  {t: "29.84", p: "4.19"}
+index.html:217 Received JSON:  {t: "29.84", p: "4.19"}
+index.html:217 Received JSON:  {t: "29.84", p: "3.90"}
+index.html:217 Received JSON:  {t: "29.85", p: "3.91"}
+index.html:217 Received JSON:  {t: "29.86", p: "3.93"}
+index.html:217 Received JSON:  {t: "29.86", p: "3.93"}
+index.html:217 Received JSON:  {t: "29.87", p: "3.94"}
+index.html:217 Received JSON:  {t: "29.87", p: "4.23"}
+index.html:217 Received JSON:  {t: "29.88", p: "4.24"}
+index.html:191 MAX:
+index.html:192 4.344928653382905
+index.html:217 Received JSON:  {t: "29.88", p: "4.25"}
+index.html:217 Received JSON:  {t: "29.88", p: "4.25"}
+index.html:217 Received JSON:  {t: "29.89", p: "4.26"}
+index.html:217 Received JSON:  {t: "29.89", p: "4.56"}
+index.html:217 Received JSON:  {t: "29.90", p: "4.27"}
+index.html:217 Received JSON:  {t: "29.89", p: "4.27"}
+index.html:217 Received JSON:  {t: "29.91", p: "4.29"}
+index.html:217 Received JSON:  {t: "29.91", p: "4.29"}
+index.html:217 Received JSON:  {t: "29.92", p: "4.30"}
+index.html:217 Received JSON:  {t: "29.92", p: "4.01"}
+index.html:217 Received JSON:  {t: "29.93", p: "4.31"}
+index.html:217 Received JSON:  {t: "29.93", p: "4.89"}
+index.html:217 Received JSON:  {t: "29.94", p: "4.61"}
+index.html:217 Received JSON:  {t: "29.93", p: "4.03"}
+index.html:217 Received JSON:  {t: "29.95", p: "4.63"}
+index.html:217 Received JSON:  {t: "29.95", p: "4.63"}
+index.html:217 Received JSON:  {t: "29.95", p: "4.34"}
+index.html:217 Received JSON:  {t: "29.96", p: "4.35"}
+index.html:217 Received JSON:  {t: "29.96", p: "4.65"}
+index.html:217 Received JSON:  {t: "29.96", p: "4.65"}
+index.html:217 Received JSON:  {t: "29.97", p: "3.79"}
+index.html:217 Received JSON:  {t: "29.98", p: "4.67"}
+index.html:217 Received JSON:  {t: "29.98", p: "4.96"}
+index.html:217 Received JSON:  {t: "29.99", p: "4.10"}
+index.html:217 Received JSON:  {t: "29.99", p: "4.10"}
+index.html:217 Received JSON:  {t: "29.99", p: "3.83"}
+index.html:217 Received JSON:  {t: "30.00", p: "4.12"}
+index.html:217 Received JSON:  {t: "30.00", p: "4.13"}
+index.html:217 Received JSON:  {t: "30.01", p: "4.42"}
+index.html:191 MAX:
+index.html:192 4.460593260260357
+index.html:217 Received JSON:  {t: "30.01", p: "3.84"}
+index.html:217 Received JSON:  {t: "30.02", p: "4.44"}
+index.html:217 Received JSON:  {t: "30.02", p: "4.44"}
+index.html:217 Received JSON:  {t: "30.03", p: "3.58"}
+index.html:217 Received JSON:  {t: "30.03", p: "4.16"}
+index.html:217 Received JSON:  {t: "30.04", p: "4.76"}
+index.html:217 Received JSON:  {t: "30.04", p: "4.18"}
+index.html:217 Received JSON:  {t: "30.04", p: "4.17"}
+index.html:217 Received JSON:  {t: "30.05", p: "4.48"}
+index.html:217 Received JSON:  {t: "30.06", p: "4.20"}
+index.html:217 Received JSON:  {t: "30.06", p: "4.49"}
+index.html:217 Received JSON:  {t: "30.06", p: "3.92"}
+index.html:217 Received JSON:  {t: "30.07", p: "4.51"}
+index.html:217 Received JSON:  {t: "30.08", p: "3.65"}
+index.html:217 Received JSON:  {t: "30.08", p: "3.94"}
+index.html:217 Received JSON:  {t: "30.08", p: "4.24"}
+index.html:217 Received JSON:  {t: "30.09", p: "4.54"}
+index.html:217 Received JSON:  {t: "30.09", p: "4.25"}
+index.html:217 Received JSON:  {t: "30.09", p: "3.96"}
+index.html:217 Received JSON:  {t: "30.10", p: "3.97"}
+index.html:191 MAX:
+index.html:192 4.256822491101207
+index.html:217 Received JSON:  {t: "30.11", p: "4.27"}
+index.html:217 Received JSON:  {t: "30.11", p: "3.98"}
+index.html:217 Received JSON:  {t: "30.12", p: "4.28"}
+index.html:217 Received JSON:  {t: "30.12", p: "4.57"}
+index.html:217 Received JSON:  {t: "30.12", p: "4.30"}
+index.html:217 Received JSON:  {t: "30.13", p: "4.88"}
+index.html:217 Received JSON:  {t: "30.13", p: "3.73"}
+index.html:217 Received JSON:  {t: "30.14", p: "4.89"}
+index.html:217 Received JSON:  {t: "30.14", p: "4.61"}
+index.html:217 Received JSON:  {t: "30.14", p: "4.61"}
+index.html:217 Received JSON:  {t: "30.15", p: "4.33"}
+index.html:217 Received JSON:  {t: "30.16", p: "4.63"}
+index.html:217 Received JSON:  {t: "30.16", p: "4.06"}
+index.html:217 Received JSON:  {t: "30.17", p: "4.94"}
+index.html:217 Received JSON:  {t: "30.17", p: "4.65"}
+index.html:217 Received JSON:  {t: "30.18", p: "4.37"}
+index.html:217 Received JSON:  {t: "30.18", p: "4.37"}
+index.html:217 Received JSON:  {t: "30.19", p: "4.96"}
+index.html:217 Received JSON:  {t: "30.19", p: "4.09"}
+index.html:217 Received JSON:  {t: "30.19", p: "3.82"}
+index.html:217 Received JSON:  {t: "30.19", p: "4.39"}
+index.html:217 Received JSON:  {t: "30.20", p: "4.11"}
+index.html:217 Received JSON:  {t: "30.21", p: "3.83"}
+index.html:217 Received JSON:  {t: "30.21", p: "4.41"}
+index.html:217 Received JSON:  {t: "30.21", p: "4.42"}
+index.html:191 MAX:
+index.html:192 4.512087982229297
+index.html:217 Received JSON:  {t: "30.22", p: "3.85"}
+index.html:217 Received JSON:  {t: "30.22", p: "4.43"}
+index.html:217 Received JSON:  {t: "30.23", p: "4.44"}
+index.html:217 Received JSON:  {t: "30.23", p: "4.16"}
+index.html:217 Received JSON:  {t: "30.23", p: "4.15"}
+index.html:217 Received JSON:  {t: "30.24", p: "4.74"}
+index.html:217 Received JSON:  {t: "30.25", p: "5.04"}
+index.html:217 Received JSON:  {t: "30.25", p: "4.77"}
+index.html:217 Received JSON:  {t: "30.25", p: "3.89"}
+index.html:217 Received JSON:  {t: "30.26", p: "4.77"}
+index.html:217 Received JSON:  {t: "30.26", p: "4.78"}
+index.html:217 Received JSON:  {t: "30.27", p: "4.79"}
+index.html:217 Received JSON:  {t: "30.27", p: "3.92"}
+index.html:217 Received JSON:  {t: "30.28", p: "4.52"}
+index.html:217 Received JSON:  {t: "30.28", p: "4.52"}
+index.html:217 Received JSON:  {t: "30.28", p: "4.52"}
+index.html:217 Received JSON:  {t: "30.29", p: "4.53"}
+index.html:217 Received JSON:  {t: "30.29", p: "4.53"}
+index.html:217 Received JSON:  {t: "30.29", p: "4.83"}
+index.html:217 Received JSON:  {t: "30.30", p: "5.13"}
+index.html:217 Received JSON:  {t: "30.31", p: "4.26"}
+index.html:217 Received JSON:  {t: "30.31", p: "4.85"}
+index.html:191 MAX:
+index.html:192 4.541726538208912
+index.html:217 Received JSON:  {t: "30.32", p: "4.27"}
+index.html:217 Received JSON:  {t: "30.32", p: "4.86"}
+index.html:217 Received JSON:  {t: "30.32", p: "4.57"}
+index.html:217 Received JSON:  {t: "30.33", p: "4.29"}
+index.html:217 Received JSON:  {t: "30.33", p: "4.58"}
+index.html:217 Received JSON:  {t: "30.34", p: "4.60"}
+index.html:217 Received JSON:  {t: "30.35", p: "4.32"}
+index.html:217 Received JSON:  {t: "30.35", p: "4.04"}
+index.html:217 Received JSON:  {t: "30.36", p: "4.62"}
+index.html:217 Received JSON:  {t: "30.36", p: "4.04"}
+index.html:217 Received JSON:  {t: "30.36", p: "4.62"}
+index.html:191 MAX:
+index.html:192 4.624857481045338
+index.html:217 Received JSON:  {t: "30.37", p: "4.63"}
+index.html:217 Received JSON:  {t: "30.37", p: "4.35"}
+index.html:217 Received JSON:  {t: "30.37", p: "4.64"}
+index.html:217 Received JSON:  {t: "30.37", p: "4.07"}
+index.html:217 Received JSON:  {t: "30.38", p: "4.95"}
+index.html:217 Received JSON:  {t: "30.39", p: "4.67"}
+index.html:217 Received JSON:  {t: "30.39", p: "4.96"}
+index.html:217 Received JSON:  {t: "30.40", p: "4.39"}
+index.html:217 Received JSON:  {t: "30.39", p: "4.39"}
+index.html:217 Received JSON:  {t: "30.41", p: "4.70"}
+index.html:217 Received JSON:  {t: "30.41", p: "4.99"}
+index.html:217 Received JSON:  {t: "30.41", p: "4.99"}
+index.html:217 Received JSON:  {t: "30.42", p: "4.13"}
+index.html:217 Received JSON:  {t: "30.42", p: "3.85"}
+index.html:217 Received JSON:  {t: "30.43", p: "4.14"}
+index.html:217 Received JSON:  {t: "30.42", p: "4.72"}
+index.html:217 Received JSON:  {t: "30.43", p: "4.73"}
+index.html:217 Received JSON:  {t: "30.44", p: "3.87"}
+index.html:217 Received JSON:  {t: "30.44", p: "4.16"}
+index.html:217 Received JSON:  {t: "30.45", p: "4.75"}
+index.html:191 MAX:
+index.html:192 4.615196845786094
+index.html:217 Received JSON:  {t: "30.45", p: "4.46"}
+index.html:217 Received JSON:  {t: "30.45", p: "4.46"}
+index.html:217 Received JSON:  {t: "30.46", p: "4.19"}
+index.html:217 Received JSON:  {t: "30.47", p: "4.77"}
+index.html:217 Received JSON:  {t: "30.47", p: "4.20"}
+index.html:217 Received JSON:  {t: "30.47", p: "4.78"}
+index.html:217 Received JSON:  {t: "30.48", p: "4.21"}
+index.html:217 Received JSON:  {t: "30.48", p: "4.80"}
+index.html:217 Received JSON:  {t: "30.49", p: "4.80"}
+index.html:217 Received JSON:  {t: "30.49", p: "4.52"}
+index.html:217 Received JSON:  {t: "30.49", p: "5.11"}
+index.html:217 Received JSON:  {t: "30.49", p: "4.82"}
+index.html:217 Received JSON:  {t: "30.50", p: "4.54"}
+index.html:217 Received JSON:  {t: "30.51", p: "4.55"}
+index.html:217 Received JSON:  {t: "30.51", p: "4.25"}
+index.html:217 Received JSON:  {t: "30.52", p: "4.56"}
+index.html:217 Received JSON:  {t: "30.52", p: "4.85"}
+index.html:217 Received JSON:  {t: "30.52", p: "4.27"}
+index.html:217 Received JSON:  {t: "30.53", p: "4.86"}
+index.html:217 Received JSON:  {t: "30.53", p: "4.57"}
+index.html:217 Received JSON:  {t: "30.54", p: "4.87"}
+index.html:217 Received JSON:  {t: "30.54", p: "5.17"}
+index.html:217 Received JSON:  {t: "30.54", p: "4.88"}
+index.html:191 MAX:
+index.html:192 4.654925696781959
+index.html:217 Received JSON:  {t: "30.54", p: "4.30"}
+index.html:217 Received JSON:  {t: "30.55", p: "4.32"}
+index.html:217 Received JSON:  {t: "30.55", p: "5.19"}
+index.html:217 Received JSON:  {t: "30.55", p: "4.61"}
+index.html:217 Received JSON:  {t: "30.56", p: "4.33"}
+index.html:217 Received JSON:  {t: "30.56", p: "4.04"}
+index.html:217 Received JSON:  {t: "30.57", p: "4.63"}
+index.html:217 Received JSON:  {t: "30.57", p: "4.64"}
+index.html:217 Received JSON:  {t: "30.57", p: "4.35"}
+index.html:217 Received JSON:  {t: "30.58", p: "4.07"}
+index.html:217 Received JSON:  {t: "30.59", p: "4.66"}
+index.html:191 MAX:
+index.html:192 4.7028259096404055
+index.html:217 Received JSON:  {t: "30.59", p: "4.37"}
+index.html:217 Received JSON:  {t: "30.59", p: "4.38"}
+index.html:217 Received JSON:  {t: "30.59", p: "4.08"}
+index.html:217 Received JSON:  {t: "30.61", p: "5.55"}
+index.html:217 Received JSON:  {t: "30.61", p: "4.68"}
+index.html:217 Received JSON:  {t: "30.61", p: "4.69"}
+index.html:217 Received JSON:  {t: "30.61", p: "4.69"}
+index.html:217 Received JSON:  {t: "30.62", p: "5.00"}
+index.html:217 Received JSON:  {t: "30.62", p: "4.42"}
+index.html:217 Received JSON:  {t: "30.63", p: "5.29"}
+index.html:217 Received JSON:  {t: "30.63", p: "5.29"}
+index.html:217 Received JSON:  {t: "30.64", p: "4.44"}
+index.html:217 Received JSON:  {t: "30.64", p: "4.73"}
+index.html:217 Received JSON:  {t: "30.64", p: "4.44"}
+index.html:217 Received JSON:  {t: "30.64", p: "4.73"}
+index.html:217 Received JSON:  {t: "30.65", p: "4.74"}
+index.html:217 Received JSON:  {t: "30.65", p: "3.88"}
+index.html:217 Received JSON:  {t: "30.66", p: "4.47"}
+index.html:217 Received JSON:  {t: "30.66", p: "4.47"}
+index.html:217 Received JSON:  {t: "30.66", p: "5.05"}
+index.html:217 Received JSON:  {t: "30.67", p: "4.77"}
+index.html:191 MAX:
+index.html:192 4.803813549971669
+index.html:217 Received JSON:  {t: "30.67", p: "4.48"}
+index.html:217 Received JSON:  {t: "30.68", p: "5.07"}
+index.html:217 Received JSON:  {t: "30.68", p: "5.07"}
+index.html:217 Received JSON:  {t: "30.69", p: "4.21"}
+index.html:217 Received JSON:  {t: "30.70", p: "4.23"}
+index.html:217 Received JSON:  {t: "30.69", p: "3.94"}
+index.html:217 Received JSON:  {t: "30.69", p: "4.23"}
+index.html:217 Received JSON:  {t: "30.69", p: "4.23"}
+index.html:217 Received JSON:  {t: "30.71", p: "4.25"}
+index.html:217 Received JSON:  {t: "30.71", p: "4.54"}
+index.html:217 Received JSON:  {t: "30.71", p: "4.25"}
+index.html:217 Received JSON:  {t: "30.72", p: "4.84"}
+index.html:191 MAX:
+index.html:192 4.619533991399739
+index.html:217 Received JSON:  {t: "30.72", p: "3.97"}
+index.html:217 Received JSON:  {t: "30.72", p: "5.42"}
+index.html:217 Received JSON:  {t: "30.73", p: "4.85"}
+index.html:217 Received JSON:  {t: "30.73", p: "4.57"}
+index.html:217 Received JSON:  {t: "30.73", p: "3.70"}
+index.html:217 Received JSON:  {t: "30.73", p: "4.57"}
+index.html:217 Received JSON:  {t: "30.74", p: "4.87"}
+index.html:217 Received JSON:  {t: "30.74", p: "4.59"}
+index.html:217 Received JSON:  {t: "30.74", p: "4.30"}
+index.html:217 Received JSON:  {t: "30.75", p: "4.31"}
+index.html:217 Received JSON:  {t: "30.76", p: "5.18"}
+index.html:217 Received JSON:  {t: "30.76", p: "4.89"}
+index.html:217 Received JSON:  {t: "30.76", p: "4.61"}
+index.html:217 Received JSON:  {t: "30.77", p: "4.62"}
+index.html:217 Received JSON:  {t: "30.77", p: "4.34"}
+index.html:217 Received JSON:  {t: "30.77", p: "4.34"}
+index.html:217 Received JSON:  {t: "30.78", p: "4.93"}
+index.html:217 Received JSON:  {t: "30.77", p: "4.05"}
+index.html:217 Received JSON:  {t: "30.78", p: "4.64"}
+index.html:217 Received JSON:  {t: "30.79", p: "4.94"}
+index.html:217 Received JSON:  {t: "30.79", p: "5.53"}
+index.html:217 Received JSON:  {t: "30.79", p: "4.66"}
+index.html:217 Received JSON:  {t: "30.80", p: "4.96"}
+index.html:217 Received JSON:  {t: "30.80", p: "4.37"}
+index.html:217 Received JSON:  {t: "30.81", p: "4.40"}
+index.html:191 MAX:
+index.html:192 4.614911849650665
+index.html:217 Received JSON:  {t: "30.81", p: "4.40"}
+index.html:217 Received JSON:  {t: "30.81", p: "4.97"}
+index.html:217 Received JSON:  {t: "30.81", p: "4.69"}
+index.html:217 Received JSON:  {t: "30.82", p: "4.41"}
+index.html:217 Received JSON:  {t: "30.82", p: "4.70"}
+index.html:217 Received JSON:  {t: "30.83", p: "4.41"}
+index.html:217 Received JSON:  {t: "30.83", p: "5.00"}
+index.html:217 Received JSON:  {t: "30.83", p: "4.71"}
+index.html:217 Received JSON:  {t: "30.84", p: "5.01"}
+index.html:191 MAX:
+index.html:192 4.724237298009528
+index.html:217 Received JSON:  {t: "30.84", p: "5.01"}
+index.html:217 Received JSON:  {t: "30.85", p: "4.73"}
+index.html:217 Received JSON:  {t: "30.85", p: "5.32"}
+index.html:217 Received JSON:  {t: "30.85", p: "4.74"}
+index.html:217 Received JSON:  {t: "30.86", p: "4.75"}
+index.html:217 Received JSON:  {t: "30.85", p: "5.03"}
+index.html:217 Received JSON:  {t: "30.87", p: "4.76"}
+index.html:217 Received JSON:  {t: "30.86", p: "4.47"}
+index.html:217 Received JSON:  {t: "30.87", p: "10698.49"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:191 MAX:
+index.html:192 4.748580700484107
+index.html:217 Received JSON:  {t: "-531.03", p: "-20711.96"}
+index.html:217 Received JSON:  {t: "30.88", p: "-9286.41"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-1390.39"}
+index.html:217 Received JSON:  {t: "30.89", p: "10699.51"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-1390.39"}
+index.html:217 Received JSON:  {t: "30.90", p: "5.10"}
+index.html:217 Received JSON:  {t: "30.89", p: "4.51"}
+index.html:217 Received JSON:  {t: "30.90", p: "4.81"}
+index.html:217 Received JSON:  {t: "30.90", p: "4.23"}
+index.html:191 MAX:
+index.html:192 768.7856768399622
+index.html:217 Received JSON:  {t: "30.91", p: "4.82"}
+index.html:217 Received JSON:  {t: "30.92", p: "4.54"}
+index.html:217 Received JSON:  {t: "30.91", p: "3.95"}
+index.html:217 Received JSON:  {t: "30.92", p: "5.13"}
+index.html:217 Received JSON:  {t: "30.92", p: "4.54"}
+index.html:217 Received JSON:  {t: "30.93", p: "4.84"}
+index.html:217 Received JSON:  {t: "30.93", p: "4.26"}
+index.html:217 Received JSON:  {t: "30.93", p: "5.14"}
+index.html:217 Received JSON:  {t: "30.94", p: "4.86"}
+index.html:217 Received JSON:  {t: "30.93", p: "4.27"}
+index.html:217 Received JSON:  {t: "30.94", p: "4.57"}
+index.html:217 Received JSON:  {t: "30.95", p: "4.58"}
+index.html:217 Received JSON:  {t: "30.94", p: "5.16"}
+index.html:191 MAX:
+index.html:192 125.94167743243278
+index.html:198 Respiratory rate:
+index.html:199 42
+index.html:217 Received JSON:  {t: "30.95", p: "4.88"}
+index.html:217 Received JSON:  {t: "30.96", p: "5.17"}
+index.html:217 Received JSON:  {t: "30.96", p: "5.18"}
+index.html:217 Received JSON:  {t: "30.96", p: "4.02"}
+index.html:217 Received JSON:  {t: "30.97", p: "4.91"}
+index.html:217 Received JSON:  {t: "30.97", p: "4.62"}
+index.html:217 Received JSON:  {t: "30.97", p: "4.62"}
+index.html:217 Received JSON:  {t: "30.98", p: "5.21"}
+index.html:217 Received JSON:  {t: "30.98", p: "4.63"}
+index.html:217 Received JSON:  {t: "30.98", p: "4.92"}
+index.html:217 Received JSON:  {t: "30.99", p: "5.22"}
+index.html:217 Received JSON:  {t: "30.99", p: "4.93"}
+index.html:217 Received JSON:  {t: "30.99", p: "5.23"}
+index.html:217 Received JSON:  {t: "30.99", p: "5.23"}
+index.html:217 Received JSON:  {t: "30.99", p: "4.94"}
+index.html:217 Received JSON:  {t: "31.00", p: "4.66"}
+index.html:217 Received JSON:  {t: "31.01", p: "4.67"}
+index.html:217 Received JSON:  {t: "31.01", p: "4.96"}
+index.html:217 Received JSON:  {t: "31.02", p: "4.97"}
+index.html:217 Received JSON:  {t: "31.02", p: "4.68"}
+index.html:217 Received JSON:  {t: "31.02", p: "4.97"}
+index.html:217 Received JSON:  {t: "31.02", p: "4.39"}
+index.html:217 Received JSON:  {t: "31.02", p: "4.40"}
+index.html:217 Received JSON:  {t: "31.03", p: "4.99"}
+index.html:217 Received JSON:  {t: "31.03", p: "4.99"}
+index.html:174 MAX:
+index.html:175 4.9696576989029015
+index.html:217 Received JSON:  {t: "31.03", p: "4.99"}
+index.html:217 Received JSON:  {t: "31.04", p: "4.42"}
+index.html:217 Received JSON:  {t: "31.04", p: "4.13"}
+index.html:217 Received JSON:  {t: "31.05", p: "5.01"}
+index.html:217 Received JSON:  {t: "31.05", p: "4.72"}
+index.html:217 Received JSON:  {t: "31.06", p: "4.73"}
+index.html:217 Received JSON:  {t: "31.05", p: "4.43"}
+index.html:217 Received JSON:  {t: "31.06", p: "4.45"}
+index.html:217 Received JSON:  {t: "31.06", p: "4.75"}
+index.html:217 Received JSON:  {t: "31.06", p: "4.46"}
+index.html:217 Received JSON:  {t: "31.07", p: "4.17"}
+index.html:217 Received JSON:  {t: "31.08", p: "5.06"}
+index.html:217 Received JSON:  {t: "31.07", p: "5.04"}
+index.html:217 Received JSON:  {t: "31.08", p: "5.06"}
+index.html:217 Received JSON:  {t: "31.08", p: "4.48"}
+index.html:217 Received JSON:  {t: "31.09", p: "5.36"}
+index.html:217 Received JSON:  {t: "31.09", p: "4.77"}
+index.html:217 Received JSON:  {t: "31.08", p: "4.48"}
+index.html:217 Received JSON:  {t: "31.09", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.09", p: "4.79"}
+index.html:217 Received JSON:  {t: "31.10", p: "5.09"}
+index.html:217 Received JSON:  {t: "31.10", p: "4.80"}
+index.html:217 Received JSON:  {t: "31.10", p: "4.80"}
+index.html:217 Received JSON:  {t: "31.11", p: "4.81"}
+index.html:217 Received JSON:  {t: "31.11", p: "4.52"}
+index.html:217 Received JSON:  {t: "31.12", p: "5.11"}
+index.html:217 Received JSON:  {t: "31.12", p: "4.82"}
+index.html:217 Received JSON:  {t: "31.12", p: "5.12"}
+index.html:217 Received JSON:  {t: "31.12", p: "5.12"}
+index.html:217 Received JSON:  {t: "31.13", p: "4.83"}
+index.html:191 MAX:
+index.html:192 4.864271327825317
+index.html:217 Received JSON:  {t: "31.13", p: "4.55"}
+index.html:217 Received JSON:  {t: "31.14", p: "4.85"}
+index.html:217 Received JSON:  {t: "31.14", p: "5.14"}
+index.html:217 Received JSON:  {t: "31.14", p: "4.27"}
+index.html:217 Received JSON:  {t: "31.14", p: "4.86"}
+index.html:217 Received JSON:  {t: "31.15", p: "4.58"}
+index.html:217 Received JSON:  {t: "31.15", p: "4.58"}
+index.html:217 Received JSON:  {t: "31.15", p: "4.87"}
+index.html:217 Received JSON:  {t: "31.15", p: "4.58"}
+index.html:191 MAX:
+index.html:192 4.877806439683984
+index.html:217 Received JSON:  {t: "31.16", p: "4.88"}
+index.html:217 Received JSON:  {t: "31.17", p: "5.18"}
+index.html:217 Received JSON:  {t: "31.17", p: "4.60"}
+index.html:217 Received JSON:  {t: "31.17", p: "4.32"}
+index.html:217 Received JSON:  {t: "31.17", p: "5.47"}
+index.html:217 Received JSON:  {t: "31.18", p: "4.61"}
+index.html:217 Received JSON:  {t: "31.18", p: "5.49"}
+index.html:217 Received JSON:  {t: "31.18", p: "4.33"}
+index.html:217 Received JSON:  {t: "31.18", p: "4.34"}
+index.html:217 Received JSON:  {t: "31.18", p: "4.92"}
+index.html:217 Received JSON:  {t: "31.19", p: "4.63"}
+index.html:217 Received JSON:  {t: "31.19", p: "4.06"}
+index.html:217 Received JSON:  {t: "31.19", p: "5.22"}
+index.html:217 Received JSON:  {t: "31.20", p: "4.94"}
+index.html:217 Received JSON:  {t: "31.19", p: "5.22"}
+index.html:217 Received JSON:  {t: "31.20", p: "4.94"}
+index.html:191 MAX:
+index.html:192 4.80977835064649
+index.html:217 Received JSON:  {t: "31.21", p: "5.24"}
+index.html:217 Received JSON:  {t: "31.21", p: "5.24"}
+index.html:217 Received JSON:  {t: "31.22", p: "4.38"}
+index.html:217 Received JSON:  {t: "31.22", p: "4.09"}
+index.html:217 Received JSON:  {t: "31.22", p: "4.67"}
+index.html:217 Received JSON:  {t: "31.22", p: "5.26"}
+index.html:217 Received JSON:  {t: "31.23", p: "4.97"}
+index.html:217 Received JSON:  {t: "31.23", p: "4.40"}
+index.html:217 Received JSON:  {t: "31.24", p: "4.99"}
+index.html:217 Received JSON:  {t: "31.24", p: "5.00"}
+index.html:217 Received JSON:  {t: "31.24", p: "5.00"}
+index.html:217 Received JSON:  {t: "31.25", p: "5.29"}
+index.html:217 Received JSON:  {t: "31.25", p: "5.30"}
+index.html:191 MAX:
+index.html:192 4.875422160856902
+index.html:217 Received JSON:  {t: "31.25", p: "4.71"}
+index.html:217 Received JSON:  {t: "31.25", p: "5.59"}
+index.html:217 Received JSON:  {t: "31.26", p: "4.73"}
+index.html:217 Received JSON:  {t: "31.26", p: "5.02"}
+index.html:217 Received JSON:  {t: "31.27", p: "4.74"}
+index.html:217 Received JSON:  {t: "31.26", p: "5.03"}
+index.html:217 Received JSON:  {t: "31.26", p: "4.74"}
+index.html:217 Received JSON:  {t: "31.27", p: "4.46"}
+index.html:217 Received JSON:  {t: "31.27", p: "5.04"}
+index.html:217 Received JSON:  {t: "31.28", p: "5.05"}
+index.html:217 Received JSON:  {t: "31.27", p: "5.04"}
+index.html:217 Received JSON:  {t: "31.28", p: "5.63"}
+index.html:217 Received JSON:  {t: "31.29", p: "4.77"}
+index.html:191 MAX:
+index.html:192 5.031241198837059
+index.html:217 Received JSON:  {t: "31.29", p: "5.35"}
+index.html:217 Received JSON:  {t: "31.29", p: "4.77"}
+index.html:217 Received JSON:  {t: "31.30", p: "5.37"}
+index.html:217 Received JSON:  {t: "31.29", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.30", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.30", p: "4.79"}
+index.html:217 Received JSON:  {t: "31.31", p: "4.80"}
+index.html:217 Received JSON:  {t: "31.30", p: "4.50"}
+index.html:217 Received JSON:  {t: "31.32", p: "4.23"}
+index.html:217 Received JSON:  {t: "31.32", p: "4.81"}
+index.html:217 Received JSON:  {t: "31.32", p: "5.10"}
+index.html:217 Received JSON:  {t: "31.32", p: "4.53"}
+index.html:217 Received JSON:  {t: "31.33", p: "4.54"}
+index.html:191 MAX:
+index.html:192 5.068991570696678
+index.html:217 Received JSON:  {t: "31.33", p: "4.83"}
+index.html:217 Received JSON:  {t: "31.34", p: "4.84"}
+index.html:217 Received JSON:  {t: "31.34", p: "4.55"}
+index.html:217 Received JSON:  {t: "31.34", p: "4.84"}
+index.html:217 Received JSON:  {t: "31.34", p: "4.55"}
+index.html:217 Received JSON:  {t: "31.34", p: "4.27"}
+index.html:217 Received JSON:  {t: "31.35", p: "4.28"}
+index.html:217 Received JSON:  {t: "31.35", p: "5.15"}
+index.html:217 Received JSON:  {t: "31.35", p: "5.15"}
+index.html:217 Received JSON:  {t: "31.36", p: "4.87"}
+index.html:217 Received JSON:  {t: "31.36", p: "4.59"}
+index.html:217 Received JSON:  {t: "31.37", p: "5.46"}
+index.html:217 Received JSON:  {t: "31.37", p: "4.89"}
+index.html:217 Received JSON:  {t: "31.37", p: "4.31"}
+index.html:217 Received JSON:  {t: "31.38", p: "5.19"}
+index.html:217 Received JSON:  {t: "31.38", p: "4.60"}
+index.html:217 Received JSON:  {t: "31.38", p: "5.47"}
+index.html:217 Received JSON:  {t: "31.38", p: "4.91"}
+index.html:217 Received JSON:  {t: "31.39", p: "4.33"}
+index.html:217 Received JSON:  {t: "31.39", p: "4.91"}
+index.html:217 Received JSON:  {t: "31.39", p: "5.20"}
+index.html:217 Received JSON:  {t: "31.39", p: "5.78"}
+index.html:217 Received JSON:  {t: "31.39", p: "4.35"}
+index.html:217 Received JSON:  {t: "31.40", p: "4.35"}
+index.html:217 Received JSON:  {t: "31.41", p: "4.65"}
+index.html:217 Received JSON:  {t: "31.41", p: "5.23"}
+index.html:217 Received JSON:  {t: "31.41", p: "5.53"}
+index.html:217 Received JSON:  {t: "31.41", p: "5.24"}
+index.html:217 Received JSON:  {t: "31.42", p: "4.66"}
+index.html:217 Received JSON:  {t: "31.42", p: "4.38"}
+index.html:217 Received JSON:  {t: "31.42", p: "5.25"}
+index.html:217 Received JSON:  {t: "31.43", p: "4.97"}
+index.html:217 Received JSON:  {t: "31.42", p: "4.96"}
+index.html:217 Received JSON:  {t: "31.43", p: "5.27"}
+index.html:217 Received JSON:  {t: "31.43", p: "4.97"}
+index.html:217 Received JSON:  {t: "31.44", p: "5.56"}
+index.html:217 Received JSON:  {t: "31.44", p: "5.86"}
+index.html:217 Received JSON:  {t: "31.44", p: "4.99"}
+index.html:217 Received JSON:  {t: "31.45", p: "4.70"}
+index.html:217 Received JSON:  {t: "31.45", p: "5.29"}
+index.html:217 Received JSON:  {t: "31.45", p: "5.58"}
+index.html:217 Received JSON:  {t: "31.46", p: "5.59"}
+index.html:217 Received JSON:  {t: "31.46", p: "5.59"}
+index.html:217 Received JSON:  {t: "31.46", p: "5.31"}
+index.html:217 Received JSON:  {t: "31.47", p: "5.03"}
+index.html:217 Received JSON:  {t: "31.47", p: "5.32"}
+index.html:217 Received JSON:  {t: "31.47", p: "5.32"}
+index.html:217 Received JSON:  {t: "31.47", p: "5.03"}
+index.html:217 Received JSON:  {t: "31.48", p: "5.33"}
+index.html:217 Received JSON:  {t: "31.48", p: "5.05"}
+index.html:217 Received JSON:  {t: "31.48", p: "4.75"}
+index.html:217 Received JSON:  {t: "31.48", p: "5.05"}
+index.html:217 Received JSON:  {t: "31.49", p: "5.06"}
+index.html:217 Received JSON:  {t: "31.49", p: "4.77"}
+index.html:191 MAX:
+index.html:192 5.32755758014162
+index.html:217 Received JSON:  {t: "31.49", p: "5.35"}
+index.html:217 Received JSON:  {t: "31.50", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.51", p: "4.79"}
+index.html:217 Received JSON:  {t: "31.50", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.51", p: "4.79"}
+index.html:217 Received JSON:  {t: "31.52", p: "5.39"}
+index.html:217 Received JSON:  {t: "31.52", p: "4.51"}
+index.html:217 Received JSON:  {t: "31.52", p: "5.10"}
+index.html:217 Received JSON:  {t: "31.52", p: "5.68"}
+index.html:217 Received JSON:  {t: "31.53", p: "4.82"}
+index.html:217 Received JSON:  {t: "31.53", p: "4.24"}
+index.html:217 Received JSON:  {t: "31.53", p: "5.11"}
+index.html:217 Received JSON:  {t: "31.53", p: "5.11"}
+index.html:217 Received JSON:  {t: "31.54", p: "5.13"}
+index.html:217 Received JSON:  {t: "31.54", p: "4.84"}
+index.html:217 Received JSON:  {t: "31.54", p: "5.42"}
+index.html:217 Received JSON:  {t: "31.54", p: "5.13"}
+index.html:217 Received JSON:  {t: "31.55", p: "5.43"}
+index.html:217 Received JSON:  {t: "31.55", p: "4.27"}
+index.html:217 Received JSON:  {t: "31.55", p: "5.15"}
+index.html:217 Received JSON:  {t: "31.56", p: "5.44"}
+index.html:217 Received JSON:  {t: "31.56", p: "4.57"}
+index.html:217 Received JSON:  {t: "31.57", p: "5.16"}
+index.html:217 Received JSON:  {t: "31.57", p: "4.58"}
+index.html:217 Received JSON:  {t: "31.57", p: "4.88"}
+index.html:217 Received JSON:  {t: "31.58", p: "5.17"}
+index.html:217 Received JSON:  {t: "31.58", p: "5.18"}
+index.html:217 Received JSON:  {t: "31.58", p: "4.89"}
+index.html:217 Received JSON:  {t: "31.58", p: "5.19"}
+index.html:191 MAX:
+index.html:192 5.04816933464974
+index.html:217 Received JSON:  {t: "31.59", p: "4.91"}
+index.html:217 Received JSON:  {t: "31.59", p: "5.20"}
+index.html:217 Received JSON:  {t: "31.59", p: "5.21"}
+index.html:217 Received JSON:  {t: "31.59", p: "5.21"}
+index.html:217 Received JSON:  {t: "31.59", p: "5.50"}
+index.html:217 Received JSON:  {t: "31.59", p: "4.92"}
+index.html:217 Received JSON:  {t: "31.60", p: "4.92"}
+index.html:217 Received JSON:  {t: "31.61", p: "5.23"}
+index.html:217 Received JSON:  {t: "31.62", p: "4.65"}
+index.html:217 Received JSON:  {t: "31.61", p: "4.35"}
+index.html:217 Received JSON:  {t: "31.62", p: "5.24"}
+index.html:217 Received JSON:  {t: "31.62", p: "4.66"}
+index.html:217 Received JSON:  {t: "31.62", p: "4.96"}
+index.html:217 Received JSON:  {t: "31.63", p: "5.83"}
+index.html:217 Received JSON:  {t: "31.62", p: "4.66"}
+index.html:191 MAX:
+index.html:192 5.112248859916889
+index.html:217 Received JSON:  {t: "31.63", p: "4.67"}
+index.html:217 Received JSON:  {t: "31.63", p: "5.55"}
+index.html:217 Received JSON:  {t: "31.64", p: "5.56"}
+index.html:217 Received JSON:  {t: "31.64", p: "4.98"}
+index.html:217 Received JSON:  {t: "31.64", p: "5.27"}
+index.html:217 Received JSON:  {t: "31.65", p: "5.57"}
+index.html:217 Received JSON:  {t: "31.66", p: "5.00"}
+index.html:217 Received JSON:  {t: "31.65", p: "5.28"}
+index.html:217 Received JSON:  {t: "31.66", p: "5.29"}
+index.html:217 Received JSON:  {t: "31.66", p: "5.59"}
+index.html:217 Received JSON:  {t: "31.67", p: "5.02"}
+index.html:217 Received JSON:  {t: "31.66", p: "4.72"}
+index.html:217 Received JSON:  {t: "31.67", p: "5.02"}
+index.html:217 Received JSON:  {t: "31.67", p: "4.44"}
+index.html:217 Received JSON:  {t: "31.68", p: "5.32"}
+index.html:217 Received JSON:  {t: "31.69", p: "5.04"}
+index.html:217 Received JSON:  {t: "31.68", p: "4.74"}
+index.html:217 Received JSON:  {t: "31.69", p: "4.17"}
+index.html:191 MAX:
+index.html:192 5.243790409100208
+index.html:217 Received JSON:  {t: "31.69", p: "5.04"}
+index.html:217 Received JSON:  {t: "31.69", p: "4.76"}
+index.html:217 Received JSON:  {t: "31.69", p: "5.05"}
+index.html:217 Received JSON:  {t: "31.69", p: "4.18"}
+index.html:217 Received JSON:  {t: "31.70", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.70", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.70", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.71", p: "4.50"}
+index.html:217 Received JSON:  {t: "31.71", p: "4.79"}
+index.html:217 Received JSON:  {t: "31.71", p: "4.79"}
+index.html:217 Received JSON:  {t: "31.72", p: "4.80"}
+index.html:217 Received JSON:  {t: "31.73", p: "4.52"}
+index.html:217 Received JSON:  {t: "31.73", p: "5.10"}
+index.html:217 Received JSON:  {t: "31.73", p: "5.39"}
+index.html:217 Received JSON:  {t: "31.73", p: "4.81"}
+index.html:217 Received JSON:  {t: "31.74", p: "5.11"}
+index.html:217 Received JSON:  {t: "31.74", p: "5.11"}
+index.html:217 Received JSON:  {t: "31.74", p: "5.41"}
+index.html:217 Received JSON:  {t: "31.74", p: "4.54"}
+index.html:217 Received JSON:  {t: "31.74", p: "6.00"}
+index.html:217 Received JSON:  {t: "31.75", p: "5.71"}
+index.html:217 Received JSON:  {t: "31.75", p: "5.13"}
+index.html:217 Received JSON:  {t: "31.75", p: "5.72"}
+index.html:217 Received JSON:  {t: "31.75", p: "6.01"}
+index.html:217 Received JSON:  {t: "31.76", p: "6.02"}
+index.html:217 Received JSON:  {t: "31.77", p: "5.74"}
+index.html:217 Received JSON:  {t: "31.77", p: "4.29"}
+index.html:217 Received JSON:  {t: "31.77", p: "5.16"}
+index.html:217 Received JSON:  {t: "31.77", p: "5.74"}
+index.html:217 Received JSON:  {t: "31.78", p: "4.88"}
+index.html:217 Received JSON:  {t: "31.78", p: "4.89"}
+index.html:217 Received JSON:  {t: "31.78", p: "5.18"}
+index.html:217 Received JSON:  {t: "31.78", p: "4.89"}
+index.html:217 Received JSON:  {t: "31.79", p: "4.90"}
+index.html:217 Received JSON:  {t: "31.79", p: "5.20"}
+index.html:217 Received JSON:  {t: "31.80", p: "4.92"}
+index.html:191 MAX:
+index.html:192 5.498325753324518
+index.html:217 Received JSON:  {t: "31.79", p: "5.20"}
+index.html:217 Received JSON:  {t: "31.80", p: "4.62"}
+index.html:217 Received JSON:  {t: "31.81", p: "5.51"}
+index.html:217 Received JSON:  {t: "31.81", p: "5.22"}
+index.html:217 Received JSON:  {t: "31.81", p: "4.64"}
+index.html:217 Received JSON:  {t: "31.82", p: "5.52"}
+index.html:217 Received JSON:  {t: "31.82", p: "5.23"}
+index.html:217 Received JSON:  {t: "31.83", p: "4.95"}
+index.html:217 Received JSON:  {t: "31.82", p: "4.94"}
+index.html:217 Received JSON:  {t: "31.82", p: "4.66"}
+index.html:217 Received JSON:  {t: "31.83", p: "4.95"}
+index.html:217 Received JSON:  {t: "31.84", p: "5.26"}
+index.html:217 Received JSON:  {t: "31.83", p: "5.54"}
+index.html:217 Received JSON:  {t: "31.84", p: "5.26"}
+index.html:217 Received JSON:  {t: "31.84", p: "5.55"}
+index.html:217 Received JSON:  {t: "31.85", p: "4.69"}
+index.html:217 Received JSON:  {t: "31.85", p: "5.27"}
+index.html:191 MAX:
+index.html:192 5.081377704784092
+index.html:217 Received JSON:  {t: "31.85", p: "5.27"}
+index.html:217 Received JSON:  {t: "31.86", p: "5.29"}
+index.html:217 Received JSON:  {t: "31.86", p: "5.58"}
+index.html:217 Received JSON:  {t: "31.86", p: "5.29"}
+index.html:217 Received JSON:  {t: "31.86", p: "5.00"}
+index.html:217 Received JSON:  {t: "31.86", p: "4.71"}
+index.html:217 Received JSON:  {t: "31.87", p: "5.01"}
+index.html:217 Received JSON:  {t: "31.87", p: "4.72"}
+index.html:217 Received JSON:  {t: "31.88", p: "5.60"}
+index.html:217 Received JSON:  {t: "31.88", p: "5.02"}
+index.html:217 Received JSON:  {t: "31.89", p: "5.33"}
+index.html:217 Received JSON:  {t: "31.89", p: "5.03"}
+index.html:191 MAX:
+index.html:192 5.229649990222251
+index.html:217 Received JSON:  {t: "31.89", p: "5.62"}
+index.html:217 Received JSON:  {t: "31.89", p: "5.63"}
+index.html:217 Received JSON:  {t: "31.89", p: "5.05"}
+index.html:217 Received JSON:  {t: "31.90", p: "5.05"}
+index.html:217 Received JSON:  {t: "31.90", p: "4.77"}
+index.html:217 Received JSON:  {t: "31.90", p: "5.06"}
+index.html:217 Received JSON:  {t: "31.91", p: "5.94"}
+index.html:217 Received JSON:  {t: "31.91", p: "5.65"}
+index.html:217 Received JSON:  {t: "31.91", p: "5.07"}
+index.html:217 Received JSON:  {t: "31.91", p: "5.36"}
+index.html:217 Received JSON:  {t: "31.92", p: "5.08"}
+index.html:217 Received JSON:  {t: "31.93", p: "4.22"}
+index.html:217 Received JSON:  {t: "31.93", p: "5.39"}
+index.html:217 Received JSON:  {t: "31.94", p: "5.39"}
+index.html:217 Received JSON:  {t: "31.94", p: "4.81"}
+index.html:217 Received JSON:  {t: "31.94", p: "5.69"}
+index.html:217 Received JSON:  {t: "31.94", p: "5.11"}
+index.html:191 MAX:
+index.html:192 5.257210550343174
+index.html:217 Received JSON:  {t: "31.94", p: "5.41"}
+index.html:217 Received JSON:  {t: "31.94", p: "5.70"}
+index.html:217 Received JSON:  {t: "31.95", p: "5.41"}
+index.html:217 Received JSON:  {t: "31.94", p: "5.41"}
+index.html:217 Received JSON:  {t: "31.96", p: "4.84"}
+index.html:217 Received JSON:  {t: "31.96", p: "4.55"}
+index.html:217 Received JSON:  {t: "31.96", p: "4.56"}
+index.html:217 Received JSON:  {t: "31.96", p: "5.72"}
+index.html:217 Received JSON:  {t: "31.96", p: "5.14"}
+index.html:217 Received JSON:  {t: "31.97", p: "5.44"}
+index.html:217 Received JSON:  {t: "31.97", p: "5.15"}
+index.html:217 Received JSON:  {t: "31.97", p: "4.86"}
+index.html:217 Received JSON:  {t: "31.98", p: "4.87"}
+index.html:191 MAX:
+index.html:192 5.261905165100524
+index.html:217 Received JSON:  {t: "31.99", p: "5.47"}
+index.html:217 Received JSON:  {t: "31.99", p: "5.17"}
+index.html:217 Received JSON:  {t: "31.99", p: "5.17"}
+index.html:217 Received JSON:  {t: "31.99", p: "4.89"}
+index.html:217 Received JSON:  {t: "32.00", p: "5.77"}
+index.html:217 Received JSON:  {t: "32.00", p: "4.62"}
+index.html:217 Received JSON:  {t: "32.00", p: "5.20"}
+index.html:217 Received JSON:  {t: "32.00", p: "5.77"}
+index.html:217 Received JSON:  {t: "32.01", p: "4.62"}
+index.html:217 Received JSON:  {t: "32.01", p: "5.21"}
+index.html:217 Received JSON:  {t: "32.02", p: "5.80"}
+index.html:217 Received JSON:  {t: "32.01", p: "5.50"}
+index.html:217 Received JSON:  {t: "32.02", p: "4.93"}
+index.html:217 Received JSON:  {t: "32.02", p: "5.23"}
+index.html:217 Received JSON:  {t: "32.03", p: "5.82"}
+index.html:217 Received JSON:  {t: "32.03", p: "5.82"}
+index.html:217 Received JSON:  {t: "32.03", p: "4.95"}
+index.html:217 Received JSON:  {t: "32.04", p: "5.84"}
+index.html:217 Received JSON:  {t: "32.03", p: "4.95"}
+index.html:217 Received JSON:  {t: "32.05", p: "5.55"}
+index.html:217 Received JSON:  {t: "32.05", p: "4.97"}
+index.html:217 Received JSON:  {t: "32.04", p: "4.96"}
+index.html:217 Received JSON:  {t: "32.05", p: "5.27"}
+index.html:217 Received JSON:  {t: "32.06", p: "4.99"}
+index.html:217 Received JSON:  {t: "32.06", p: "4.99"}
+index.html:217 Received JSON:  {t: "32.06", p: "4.99"}
+index.html:217 Received JSON:  {t: "32.06", p: "4.70"}
+index.html:191 MAX:
+index.html:192 5.390625411399887
+index.html:217 Received JSON:  {t: "32.06", p: "4.99"}
+index.html:217 Received JSON:  {t: "32.08", p: "5.01"}
+index.html:217 Received JSON:  {t: "32.08", p: "5.01"}
+index.html:217 Received JSON:  {t: "32.07", p: "5.59"}
+index.html:217 Received JSON:  {t: "32.08", p: "5.31"}
+index.html:217 Received JSON:  {t: "32.08", p: "4.73"}
+index.html:217 Received JSON:  {t: "32.08", p: "5.02"}
+index.html:217 Received JSON:  {t: "32.09", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.09", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.10", p: "5.34"}
+index.html:217 Received JSON:  {t: "32.10", p: "4.75"}
+index.html:217 Received JSON:  {t: "32.10", p: "5.63"}
+index.html:217 Received JSON:  {t: "32.10", p: "5.05"}
+index.html:217 Received JSON:  {t: "32.11", p: "5.06"}
+index.html:217 Received JSON:  {t: "32.11", p: "4.48"}
+index.html:217 Received JSON:  {t: "32.11", p: "5.64"}
+index.html:217 Received JSON:  {t: "32.11", p: "5.35"}
+index.html:217 Received JSON:  {t: "32.12", p: "5.07"}
+index.html:217 Received JSON:  {t: "32.12", p: "5.66"}
+index.html:217 Received JSON:  {t: "32.13", p: "5.08"}
+index.html:217 Received JSON:  {t: "32.13", p: "5.09"}
+index.html:217 Received JSON:  {t: "32.13", p: "5.37"}
+index.html:191 MAX:
+index.html:192 5.165829705366026
+index.html:217 Received JSON:  {t: "32.13", p: "4.80"}
+index.html:217 Received JSON:  {t: "32.14", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.14", p: "5.39"}
+index.html:217 Received JSON:  {t: "32.14", p: "5.97"}
+index.html:217 Received JSON:  {t: "32.15", p: "5.40"}
+index.html:217 Received JSON:  {t: "32.15", p: "5.11"}
+index.html:217 Received JSON:  {t: "32.15", p: "5.40"}
+index.html:217 Received JSON:  {t: "32.15", p: "5.12"}
+index.html:217 Received JSON:  {t: "32.16", p: "5.13"}
+index.html:217 Received JSON:  {t: "32.16", p: "5.13"}
+index.html:217 Received JSON:  {t: "32.16", p: "4.83"}
+index.html:217 Received JSON:  {t: "32.17", p: "5.14"}
+index.html:217 Received JSON:  {t: "32.17", p: "4.56"}
+index.html:217 Received JSON:  {t: "32.18", p: "4.86"}
+index.html:217 Received JSON:  {t: "32.18", p: "5.44"}
+index.html:217 Received JSON:  {t: "32.18", p: "5.44"}
+index.html:191 MAX:
+index.html:192 5.352310556802667
+index.html:217 Received JSON:  {t: "32.18", p: "5.16"}
+index.html:217 Received JSON:  {t: "32.18", p: "5.75"}
+index.html:217 Received JSON:  {t: "32.19", p: "5.75"}
+index.html:217 Received JSON:  {t: "32.19", p: "4.87"}
+index.html:217 Received JSON:  {t: "32.19", p: "5.18"}
+index.html:217 Received JSON:  {t: "32.19", p: "4.89"}
+index.html:217 Received JSON:  {t: "32.20", p: "5.77"}
+index.html:217 Received JSON:  {t: "32.19", p: "5.18"}
+index.html:217 Received JSON:  {t: "32.20", p: "4.90"}
+index.html:217 Received JSON:  {t: "32.21", p: "6.07"}
+index.html:217 Received JSON:  {t: "32.21", p: "5.49"}
+index.html:217 Received JSON:  {t: "32.22", p: "5.21"}
+index.html:217 Received JSON:  {t: "32.21", p: "4.91"}
+index.html:217 Received JSON:  {t: "32.22", p: "4.63"}
+index.html:217 Received JSON:  {t: "32.22", p: "5.22"}
+index.html:217 Received JSON:  {t: "32.23", p: "5.23"}
+index.html:217 Received JSON:  {t: "32.22", p: "4.93"}
+index.html:217 Received JSON:  {t: "32.23", p: "4.94"}
+index.html:191 MAX:
+index.html:192 5.312407501043361
+index.html:217 Received JSON:  {t: "32.23", p: "5.23"}
+index.html:217 Received JSON:  {t: "32.24", p: "4.95"}
+index.html:217 Received JSON:  {t: "32.24", p: "4.95"}
+index.html:217 Received JSON:  {t: "32.25", p: "4.67"}
+index.html:217 Received JSON:  {t: "32.24", p: "5.53"}
+index.html:217 Received JSON:  {t: "32.25", p: "4.96"}
+index.html:217 Received JSON:  {t: "32.25", p: "4.97"}
+index.html:217 Received JSON:  {t: "32.25", p: "4.97"}
+index.html:217 Received JSON:  {t: "32.26", p: "5.56"}
+index.html:217 Received JSON:  {t: "32.26", p: "4.98"}
+index.html:217 Received JSON:  {t: "32.26", p: "4.98"}
+index.html:217 Received JSON:  {t: "32.26", p: "5.27"}
+index.html:217 Received JSON:  {t: "32.27", p: "5.28"}
+index.html:217 Received JSON:  {t: "32.27", p: "5.29"}
+index.html:217 Received JSON:  {t: "32.27", p: "5.57"}
+index.html:217 Received JSON:  {t: "32.28", p: "5.30"}
+index.html:217 Received JSON:  {t: "32.28", p: "5.30"}
+index.html:217 Received JSON:  {t: "32.28", p: "5.30"}
+index.html:217 Received JSON:  {t: "32.28", p: "5.88"}
+index.html:217 Received JSON:  {t: "32.29", p: "5.60"}
+index.html:217 Received JSON:  {t: "32.29", p: "5.02"}
+index.html:217 Received JSON:  {t: "32.29", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.29", p: "5.03"}
+index.html:217 Received JSON:  {t: "32.30", p: "5.91"}
+index.html:217 Received JSON:  {t: "32.30", p: "4.75"}
+index.html:217 Received JSON:  {t: "32.30", p: "5.62"}
+index.html:217 Received JSON:  {t: "32.30", p: "5.04"}
+index.html:217 Received JSON:  {t: "32.31", p: "5.35"}
+index.html:217 Received JSON:  {t: "32.31", p: "5.05"}
+index.html:217 Received JSON:  {t: "32.31", p: "5.35"}
+index.html:217 Received JSON:  {t: "32.31", p: "5.05"}
+index.html:191 MAX:
+index.html:192 5.388706046991006
+index.html:217 Received JSON:  {t: "32.32", p: "5.36"}
+index.html:217 Received JSON:  {t: "32.33", p: "5.66"}
+index.html:217 Received JSON:  {t: "32.32", p: "5.07"}
+index.html:217 Received JSON:  {t: "32.34", p: "5.37"}
+index.html:217 Received JSON:  {t: "32.33", p: "5.37"}
+index.html:217 Received JSON:  {t: "32.34", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.34", p: "5.97"}
+index.html:217 Received JSON:  {t: "32.34", p: "5.10"}
+index.html:217 Received JSON:  {t: "32.34", p: "5.68"}
+index.html:217 Received JSON:  {t: "32.35", p: "5.69"}
+index.html:217 Received JSON:  {t: "32.35", p: "5.97"}
+index.html:217 Received JSON:  {t: "32.35", p: "5.69"}
+index.html:217 Received JSON:  {t: "32.35", p: "5.98"}
+index.html:217 Received JSON:  {t: "32.35", p: "4.82"}
+index.html:217 Received JSON:  {t: "32.36", p: "5.12"}
+index.html:217 Received JSON:  {t: "32.37", p: "5.13"}
+index.html:217 Received JSON:  {t: "32.37", p: "5.42"}
+index.html:217 Received JSON:  {t: "32.37", p: "5.14"}
+index.html:217 Received JSON:  {t: "32.37", p: "5.43"}
+index.html:217 Received JSON:  {t: "32.38", p: "4.86"}
+index.html:217 Received JSON:  {t: "32.38", p: "6.02"}
+index.html:217 Received JSON:  {t: "32.38", p: "5.15"}
+index.html:191 MAX:
+index.html:192 5.5843266960796
+index.html:217 Received JSON:  {t: "32.38", p: "5.45"}
+index.html:217 Received JSON:  {t: "32.38", p: "5.45"}
+index.html:217 Received JSON:  {t: "32.39", p: "5.46"}
+index.html:217 Received JSON:  {t: "32.39", p: "5.74"}
+index.html:217 Received JSON:  {t: "32.39", p: "5.75"}
+index.html:217 Received JSON:  {t: "32.39", p: "5.17"}
+index.html:217 Received JSON:  {t: "32.39", p: "5.46"}
+index.html:217 Received JSON:  {t: "32.41", p: "5.47"}
+index.html:217 Received JSON:  {t: "32.41", p: "5.77"}
+index.html:217 Received JSON:  {t: "32.41", p: "4.89"}
+index.html:217 Received JSON:  {t: "32.42", p: "4.91"}
+index.html:217 Received JSON:  {t: "32.42", p: "5.50"}
+index.html:217 Received JSON:  {t: "32.42", p: "5.49"}
+index.html:217 Received JSON:  {t: "32.42", p: "4.91"}
+index.html:217 Received JSON:  {t: "32.42", p: "5.50"}
+index.html:217 Received JSON:  {t: "32.42", p: "5.79"}
+index.html:191 MAX:
+index.html:192 5.47550735357913
+index.html:217 Received JSON:  {t: "32.43", p: "5.80"}
+index.html:217 Received JSON:  {t: "32.43", p: "5.22"}
+index.html:217 Received JSON:  {t: "32.43", p: "5.81"}
+index.html:217 Received JSON:  {t: "32.44", p: "5.24"}
+index.html:217 Received JSON:  {t: "32.44", p: "5.53"}
+index.html:217 Received JSON:  {t: "32.44", p: "5.81"}
+index.html:217 Received JSON:  {t: "32.45", p: "5.53"}
+index.html:217 Received JSON:  {t: "32.45", p: "5.24"}
+index.html:217 Received JSON:  {t: "32.45", p: "5.54"}
+index.html:217 Received JSON:  {t: "32.46", p: "5.25"}
+index.html:217 Received JSON:  {t: "32.46", p: "5.55"}
+index.html:217 Received JSON:  {t: "32.46", p: "4.96"}
+index.html:217 Received JSON:  {t: "32.46", p: "5.56"}
+index.html:217 Received JSON:  {t: "32.47", p: "5.57"}
+index.html:217 Received JSON:  {t: "32.47", p: "5.28"}
+index.html:217 Received JSON:  {t: "32.47", p: "6.15"}
+index.html:191 MAX:
+index.html:192 5.520100306444564
+index.html:217 Received JSON:  {t: "32.47", p: "5.28"}
+index.html:217 Received JSON:  {t: "32.48", p: "4.70"}
+index.html:217 Received JSON:  {t: "32.48", p: "5.58"}
+index.html:217 Received JSON:  {t: "32.48", p: "5.58"}
+index.html:217 Received JSON:  {t: "32.49", p: "5.01"}
+index.html:217 Received JSON:  {t: "32.48", p: "5.29"}
+index.html:217 Received JSON:  {t: "32.49", p: "5.31"}
+index.html:217 Received JSON:  {t: "32.49", p: "5.89"}
+index.html:217 Received JSON:  {t: "32.49", p: "5.31"}
+index.html:217 Received JSON:  {t: "32.49", p: "5.31"}
+index.html:217 Received JSON:  {t: "32.50", p: "5.61"}
+index.html:217 Received JSON:  {t: "32.50", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.51", p: "5.62"}
+index.html:217 Received JSON:  {t: "32.51", p: "4.75"}
+index.html:217 Received JSON:  {t: "32.51", p: "5.34"}
+index.html:217 Received JSON:  {t: "32.51", p: "5.05"}
+index.html:217 Received JSON:  {t: "32.52", p: "5.34"}
+index.html:217 Received JSON:  {t: "32.52", p: "5.93"}
+index.html:217 Received JSON:  {t: "32.52", p: "5.35"}
+index.html:217 Received JSON:  {t: "32.53", p: "5.65"}
+index.html:217 Received JSON:  {t: "32.53", p: "5.94"}
+index.html:191 MAX:
+index.html:192 5.393384771630954
+index.html:217 Received JSON:  {t: "32.54", p: "5.07"}
+index.html:217 Received JSON:  {t: "32.54", p: "5.66"}
+index.html:217 Received JSON:  {t: "32.54", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.54", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.54", p: "5.09"}
+index.html:217 Received JSON:  {t: "32.54", p: "5.96"}
+index.html:217 Received JSON:  {t: "32.55", p: "5.39"}
+index.html:217 Received JSON:  {t: "32.55", p: "5.10"}
+index.html:217 Received JSON:  {t: "32.56", p: "5.69"}
+index.html:217 Received JSON:  {t: "32.57", p: "4.54"}
+index.html:217 Received JSON:  {t: "32.56", p: "5.41"}
+index.html:217 Received JSON:  {t: "32.56", p: "5.99"}
+index.html:217 Received JSON:  {t: "32.57", p: "5.41"}
+index.html:217 Received JSON:  {t: "32.57", p: "4.83"}
+index.html:191 MAX:
+index.html:192 5.541014496553604
+index.html:217 Received JSON:  {t: "32.58", p: "5.72"}
+index.html:217 Received JSON:  {t: "32.57", p: "5.71"}
+index.html:217 Received JSON:  {t: "32.58", p: "5.72"}
+index.html:217 Received JSON:  {t: "32.58", p: "5.15"}
+index.html:217 Received JSON:  {t: "32.58", p: "4.56"}
+index.html:217 Received JSON:  {t: "32.59", p: "5.44"}
+index.html:217 Received JSON:  {t: "32.59", p: "4.87"}
+index.html:217 Received JSON:  {t: "32.59", p: "5.15"}
+index.html:217 Received JSON:  {t: "32.60", p: "5.17"}
+index.html:217 Received JSON:  {t: "32.59", p: "6.04"}
+index.html:217 Received JSON:  {t: "32.61", p: "5.47"}
+index.html:191 MAX:
+index.html:192 5.389570790865519
+index.html:217 Received JSON:  {t: "32.60", p: "4.59"}
+index.html:217 Received JSON:  {t: "32.61", p: "5.17"}
+index.html:217 Received JSON:  {t: "32.61", p: "5.18"}
+index.html:217 Received JSON:  {t: "32.61", p: "5.18"}
+index.html:217 Received JSON:  {t: "32.62", p: "5.48"}
+index.html:217 Received JSON:  {t: "32.62", p: "5.20"}
+index.html:217 Received JSON:  {t: "32.61", p: "5.47"}
+index.html:217 Received JSON:  {t: "32.62", p: "5.20"}
+index.html:217 Received JSON:  {t: "32.63", p: "5.21"}
+index.html:217 Received JSON:  {t: "32.63", p: "5.50"}
+index.html:217 Received JSON:  {t: "32.63", p: "5.51"}
+index.html:217 Received JSON:  {t: "32.63", p: "5.51"}
+index.html:217 Received JSON:  {t: "32.64", p: "5.22"}
+index.html:217 Received JSON:  {t: "32.64", p: "5.52"}
+index.html:217 Received JSON:  {t: "32.64", p: "5.52"}
+index.html:217 Received JSON:  {t: "32.65", p: "5.23"}
+index.html:217 Received JSON:  {t: "32.65", p: "5.82"}
+index.html:217 Received JSON:  {t: "32.65", p: "4.95"}
+index.html:217 Received JSON:  {t: "32.65", p: "5.53"}
+index.html:217 Received JSON:  {t: "32.65", p: "5.53"}
+index.html:217 Received JSON:  {t: "32.66", p: "6.42"}
+index.html:217 Received JSON:  {t: "32.66", p: "5.25"}
+index.html:217 Received JSON:  {t: "32.66", p: "6.13"}
+index.html:217 Received JSON:  {t: "32.67", p: "5.85"}
+index.html:217 Received JSON:  {t: "32.67", p: "5.56"}
+index.html:217 Received JSON:  {t: "32.67", p: "4.97"}
+index.html:217 Received JSON:  {t: "32.68", p: "5.27"}
+index.html:217 Received JSON:  {t: "32.68", p: "5.57"}
+index.html:217 Received JSON:  {t: "32.68", p: "5.28"}
+index.html:217 Received JSON:  {t: "32.68", p: "5.28"}
+index.html:217 Received JSON:  {t: "32.69", p: "5.29"}
+index.html:217 Received JSON:  {t: "32.69", p: "5.30"}
+index.html:217 Received JSON:  {t: "32.69", p: "5.30"}
+index.html:217 Received JSON:  {t: "32.69", p: "5.59"}
+index.html:191 MAX:
+index.html:192 5.619283669069092
+index.html:217 Received JSON:  {t: "32.70", p: "5.02"}
+index.html:217 Received JSON:  {t: "32.70", p: "5.02"}
+index.html:217 Received JSON:  {t: "32.70", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.71", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.71", p: "5.04"}
+index.html:217 Received JSON:  {t: "32.71", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.71", p: "5.62"}
+index.html:217 Received JSON:  {t: "32.71", p: "5.04"}
+index.html:217 Received JSON:  {t: "32.71", p: "5.91"}
+index.html:217 Received JSON:  {t: "32.73", p: "5.64"}
+index.html:217 Received JSON:  {t: "32.73", p: "5.64"}
+index.html:217 Received JSON:  {t: "32.73", p: "5.35"}
+index.html:217 Received JSON:  {t: "32.73", p: "5.06"}
+index.html:217 Received JSON:  {t: "32.74", p: "5.07"}
+index.html:217 Received JSON:  {t: "32.74", p: "5.94"}
+index.html:217 Received JSON:  {t: "32.74", p: "5.66"}
+index.html:217 Received JSON:  {t: "32.74", p: "5.95"}
+index.html:217 Received JSON:  {t: "32.74", p: "5.37"}
+index.html:217 Received JSON:  {t: "32.75", p: "5.09"}
+index.html:217 Received JSON:  {t: "32.75", p: "5.09"}
+index.html:217 Received JSON:  {t: "32.75", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.75", p: "5.38"}
+index.html:217 Received JSON:  {t: "32.75", p: "5.97"}
+index.html:217 Received JSON:  {t: "32.76", p: "5.10"}
+index.html:217 Received JSON:  {t: "32.77", p: "5.69"}
+index.html:217 Received JSON:  {t: "32.77", p: "5.70"}
+index.html:217 Received JSON:  {t: "32.77", p: "5.11"}
+index.html:191 MAX:
+index.html:192 5.482775632387269
+index.html:217 Received JSON:  {t: "32.77", p: "4.82"}
+index.html:217 Received JSON:  {t: "32.77", p: "5.12"}
+index.html:217 Received JSON:  {t: "32.78", p: "6.30"}
+index.html:217 Received JSON:  {t: "32.78", p: "5.13"}
+index.html:217 Received JSON:  {t: "32.78", p: "5.42"}
+index.html:217 Received JSON:  {t: "32.78", p: "5.42"}
+index.html:217 Received JSON:  {t: "32.79", p: "6.02"}
+index.html:217 Received JSON:  {t: "32.79", p: "5.73"}
+index.html:217 Received JSON:  {t: "32.79", p: "5.73"}
+index.html:217 Received JSON:  {t: "32.79", p: "5.45"}
+index.html:217 Received JSON:  {t: "32.79", p: "5.73"}
+index.html:217 Received JSON:  {t: "32.80", p: "5.16"}
+index.html:217 Received JSON:  {t: "32.80", p: "5.45"}
+index.html:217 Received JSON:  {t: "32.81", p: "6.04"}
+index.html:217 Received JSON:  {t: "32.81", p: "5.76"}
+index.html:217 Received JSON:  {t: "32.81", p: "5.17"}
+index.html:217 Received JSON:  {t: "32.82", p: "5.47"}
+index.html:217 Received JSON:  {t: "32.82", p: "5.47"}
+index.html:217 Received JSON:  {t: "32.82", p: "6.05"}
+index.html:217 Received JSON:  {t: "32.82", p: "4.90"}
+index.html:217 Received JSON:  {t: "32.82", p: "5.47"}
+index.html:217 Received JSON:  {t: "32.83", p: "5.78"}
+index.html:191 MAX:
+index.html:192 5.602432351354754
+index.html:217 Received JSON:  {t: "32.83", p: "5.78"}
+index.html:217 Received JSON:  {t: "32.83", p: "5.49"}
+index.html:217 Received JSON:  {t: "32.83", p: "5.49"}
+index.html:217 Received JSON:  {t: "32.84", p: "5.21"}
+index.html:217 Received JSON:  {t: "32.84", p: "5.50"}
+index.html:217 Received JSON:  {t: "32.84", p: "5.50"}
+index.html:217 Received JSON:  {t: "32.85", p: "5.22"}
+index.html:217 Received JSON:  {t: "32.85", p: "5.81"}
+index.html:217 Received JSON:  {t: "32.85", p: "6.10"}
+index.html:217 Received JSON:  {t: "32.85", p: "6.10"}
+index.html:217 Received JSON:  {t: "32.85", p: "5.52"}
+index.html:217 Received JSON:  {t: "32.86", p: "5.24"}
+index.html:217 Received JSON:  {t: "32.86", p: "5.82"}
+index.html:217 Received JSON:  {t: "32.86", p: "5.83"}
+index.html:217 Received JSON:  {t: "32.86", p: "4.96"}
+index.html:217 Received JSON:  {t: "32.87", p: "5.26"}
+index.html:217 Received JSON:  {t: "32.87", p: "5.84"}
+index.html:217 Received JSON:  {t: "32.87", p: "5.55"}
+index.html:217 Received JSON:  {t: "32.87", p: "5.26"}
+index.html:217 Received JSON:  {t: "32.87", p: "5.55"}
+index.html:217 Received JSON:  {t: "32.88", p: "5.86"}
+index.html:217 Received JSON:  {t: "32.88", p: "5.57"}
+index.html:191 MAX:
+index.html:192 5.637237686572825
+index.html:217 Received JSON:  {t: "32.89", p: "5.87"}
+index.html:217 Received JSON:  {t: "32.89", p: "5.86"}
+index.html:217 Received JSON:  {t: "32.89", p: "5.29"}
+index.html:217 Received JSON:  {t: "32.89", p: "5.58"}
+index.html:217 Received JSON:  {t: "32.89", p: "5.87"}
+index.html:217 Received JSON:  {t: "32.90", p: "5.88"}
+index.html:217 Received JSON:  {t: "32.90", p: "5.89"}
+index.html:217 Received JSON:  {t: "32.90", p: "5.31"}
+index.html:217 Received JSON:  {t: "32.90", p: "5.60"}
+index.html:217 Received JSON:  {t: "32.91", p: "5.60"}
+index.html:217 Received JSON:  {t: "32.91", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.91", p: "6.19"}
+index.html:217 Received JSON:  {t: "32.91", p: "5.61"}
+index.html:217 Received JSON:  {t: "32.92", p: "5.32"}
+index.html:217 Received JSON:  {t: "32.92", p: "5.33"}
+index.html:217 Received JSON:  {t: "32.93", p: "6.21"}
+index.html:191 MAX:
+index.html:192 5.679925126473439
+index.html:217 Received JSON:  {t: "32.93", p: "5.92"}
+index.html:217 Received JSON:  {t: "32.93", p: "5.63"}
+index.html:217 Received JSON:  {t: "32.93", p: "5.64"}
+index.html:217 Received JSON:  {t: "32.94", p: "5.64"}
+index.html:217 Received JSON:  {t: "32.93", p: "6.22"}
+index.html:217 Received JSON:  {t: "32.94", p: "6.23"}
+index.html:217 Received JSON:  {t: "32.94", p: "5.94"}
+index.html:217 Received JSON:  {t: "32.94", p: "5.95"}
+index.html:217 Received JSON:  {t: "32.95", p: "5.66"}
+index.html:217 Received JSON:  {t: "32.95", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.95", p: "5.37"}
+index.html:217 Received JSON:  {t: "32.95", p: "5.96"}
+index.html:217 Received JSON:  {t: "32.96", p: "5.67"}
+index.html:217 Received JSON:  {t: "32.96", p: "5.97"}
+index.html:217 Received JSON:  {t: "32.97", p: "5.69"}
+index.html:217 Received JSON:  {t: "32.97", p: "4.81"}
+index.html:217 Received JSON:  {t: "32.97", p: "5.69"}
+index.html:217 Received JSON:  {t: "32.97", p: "5.69"}
+index.html:191 MAX:
+index.html:192 5.862628606405815
+index.html:217 Received JSON:  {t: "32.97", p: "5.40"}
+index.html:217 Received JSON:  {t: "32.98", p: "5.41"}
+index.html:217 Received JSON:  {t: "32.98", p: "5.41"}
+index.html:217 Received JSON:  {t: "32.98", p: "5.41"}
+index.html:217 Received JSON:  {t: "32.98", p: "5.70"}
+index.html:217 Received JSON:  {t: "32.98", p: "5.71"}
+index.html:217 Received JSON:  {t: "32.98", p: "5.71"}
+index.html:217 Received JSON:  {t: "32.99", p: "6.01"}
+index.html:217 Received JSON:  {t: "32.99", p: "6.01"}
+index.html:217 Received JSON:  {t: "32.99", p: "5.44"}
+index.html:217 Received JSON:  {t: "33.00", p: "5.74"}
+index.html:217 Received JSON:  {t: "32.99", p: "5.15"}
+index.html:217 Received JSON:  {t: "33.01", p: "6.03"}
+index.html:217 Received JSON:  {t: "33.01", p: "5.16"}
+index.html:217 Received JSON:  {t: "33.01", p: "5.74"}
+index.html:217 Received JSON:  {t: "33.02", p: "5.17"}
+index.html:217 Received JSON:  {t: "33.02", p: "6.05"}
+index.html:217 Received JSON:  {t: "33.02", p: "6.05"}
+index.html:217 Received JSON:  {t: "33.02", p: "5.47"}
+index.html:217 Received JSON:  {t: "33.02", p: "5.47"}
+index.html:217 Received JSON:  {t: "33.02", p: "5.47"}
+index.html:191 MAX:
+index.html:192 5.67558974638974
+index.html:217 Received JSON:  {t: "33.02", p: "6.06"}
+index.html:217 Received JSON:  {t: "33.02", p: "5.76"}
+index.html:217 Received JSON:  {t: "33.03", p: "5.20"}
+index.html:217 Received JSON:  {t: "33.04", p: "5.21"}
+index.html:217 Received JSON:  {t: "33.04", p: "5.49"}
+index.html:217 Received JSON:  {t: "33.04", p: "6.08"}
+index.html:217 Received JSON:  {t: "33.04", p: "5.79"}
+index.html:217 Received JSON:  {t: "33.05", p: "6.09"}
+index.html:217 Received JSON:  {t: "33.06", p: "5.52"}
+index.html:217 Received JSON:  {t: "33.06", p: "5.81"}
+index.html:191 MAX:
+index.html:192 5.637379412144105
+index.html:217 Received JSON:  {t: "33.06", p: "5.82"}
+index.html:217 Received JSON:  {t: "33.06", p: "5.53"}
+index.html:217 Received JSON:  {t: "33.06", p: "5.82"}
+index.html:217 Received JSON:  {t: "33.06", p: "6.11"}
+index.html:217 Received JSON:  {t: "33.06", p: "5.82"}
+index.html:217 Received JSON:  {t: "33.06", p: "5.53"}
+index.html:217 Received JSON:  {t: "33.07", p: "5.84"}
+index.html:217 Received JSON:  {t: "33.07", p: "5.54"}
+index.html:217 Received JSON:  {t: "33.07", p: "5.54"}
+index.html:217 Received JSON:  {t: "33.08", p: "5.55"}
+index.html:217 Received JSON:  {t: "33.08", p: "5.56"}
+index.html:217 Received JSON:  {t: "33.08", p: "5.84"}
+index.html:217 Received JSON:  {t: "33.09", p: "5.57"}
+index.html:217 Received JSON:  {t: "33.09", p: "5.85"}
+index.html:191 MAX:
+index.html:192 5.777362198060318
+index.html:217 Received JSON:  {t: "33.09", p: "5.57"}
+index.html:217 Received JSON:  {t: "33.09", p: "5.28"}
+index.html:217 Received JSON:  {t: "33.09", p: "6.15"}
+index.html:217 Received JSON:  {t: "33.09", p: "6.15"}
+index.html:217 Received JSON:  {t: "33.10", p: "6.17"}
+index.html:217 Received JSON:  {t: "33.10", p: "5.59"}
+index.html:217 Received JSON:  {t: "33.10", p: "6.17"}
+index.html:217 Received JSON:  {t: "33.10", p: "5.88"}
+index.html:217 Received JSON:  {t: "33.11", p: "5.01"}
+index.html:217 Received JSON:  {t: "33.11", p: "5.31"}
+index.html:217 Received JSON:  {t: "33.11", p: "5.60"}
+index.html:217 Received JSON:  {t: "33.12", p: "5.61"}
+index.html:217 Received JSON:  {t: "33.11", p: "5.89"}
+index.html:217 Received JSON:  {t: "33.12", p: "6.19"}
+index.html:217 Received JSON:  {t: "33.12", p: "6.20"}
+index.html:217 Received JSON:  {t: "33.13", p: "5.62"}
+index.html:217 Received JSON:  {t: "33.13", p: "5.63"}
+index.html:191 MAX:
+index.html:192 5.805546259272016
+index.html:217 Received JSON:  {t: "33.14", p: "5.92"}
+index.html:217 Received JSON:  {t: "33.13", p: "5.33"}
+index.html:217 Received JSON:  {t: "33.14", p: "5.34"}
+index.html:217 Received JSON:  {t: "33.14", p: "5.34"}
+index.html:217 Received JSON:  {t: "33.14", p: "5.35"}
+index.html:217 Received JSON:  {t: "33.14", p: "5.94"}
+index.html:217 Received JSON:  {t: "33.15", p: "6.53"}
+index.html:217 Received JSON:  {t: "33.15", p: "5.65"}
+index.html:217 Received JSON:  {t: "33.15", p: "5.65"}
+index.html:217 Received JSON:  {t: "33.15", p: "5.66"}
+index.html:191 MAX:
+index.html:192 5.745980483146979
+index.html:198 Respiratory rate:
+index.html:199 38
+index.html:217 Received JSON:  {t: "33.16", p: "5.37"}
+index.html:217 Received JSON:  {t: "33.16", p: "5.96"}
+index.html:217 Received JSON:  {t: "33.17", p: "5.67"}
+index.html:217 Received JSON:  {t: "33.17", p: "5.67"}
+index.html:217 Received JSON:  {t: "33.17", p: "5.38"}
+index.html:217 Received JSON:  {t: "33.18", p: "5.40"}
+index.html:217 Received JSON:  {t: "33.17", p: "5.39"}
+index.html:217 Received JSON:  {t: "33.18", p: "5.41"}
+index.html:217 Received JSON:  {t: "33.18", p: "5.70"}
+index.html:217 Received JSON:  {t: "33.18", p: "5.11"}
+index.html:217 Received JSON:  {t: "33.19", p: "6.00"}
+index.html:174 MAX:
+index.html:175 5.711971385600265
+index.html:217 Received JSON:  {t: "33.18", p: "5.70"}
+index.html:217 Received JSON:  {t: "33.19", p: "5.12"}
+index.html:217 Received JSON:  {t: "33.19", p: "5.71"}
+index.html:217 Received JSON:  {t: "33.19", p: "5.43"}
+index.html:217 Received JSON:  {t: "33.19", p: "5.72"}
+index.html:217 Received JSON:  {t: "33.20", p: "5.43"}
+index.html:217 Received JSON:  {t: "33.19", p: "5.43"}
+index.html:217 Received JSON:  {t: "33.20", p: "5.73"}
+index.html:217 Received JSON:  {t: "33.20", p: "5.43"}
+index.html:217 Received JSON:  {t: "33.21", p: "5.15"}
+index.html:217 Received JSON:  {t: "33.21", p: "5.73"}
+index.html:217 Received JSON:  {t: "33.21", p: "6.04"}
+index.html:217 Received JSON:  {t: "33.21", p: "5.75"}
+index.html:217 Received JSON:  {t: "33.21", p: "5.45"}
+index.html:217 Received JSON:  {t: "33.21", p: "6.04"}
+index.html:217 Received JSON:  {t: "33.22", p: "6.05"}
+index.html:191 MAX:
+index.html:192 5.534621908975132
+index.html:217 Received JSON:  {t: "33.22", p: "5.17"}
+index.html:217 Received JSON:  {t: "33.23", p: "6.06"}
+index.html:217 Received JSON:  {t: "33.22", p: "5.76"}
+index.html:217 Received JSON:  {t: "33.24", p: "5.77"}
+index.html:217 Received JSON:  {t: "33.23", p: "6.06"}
+index.html:217 Received JSON:  {t: "33.24", p: "6.07"}
+index.html:217 Received JSON:  {t: "33.24", p: "6.07"}
+index.html:217 Received JSON:  {t: "33.24", p: "6.07"}
+index.html:217 Received JSON:  {t: "33.25", p: "5.50"}
+index.html:217 Received JSON:  {t: "33.24", p: "5.20"}
+index.html:217 Received JSON:  {t: "33.25", p: "5.50"}
+index.html:217 Received JSON:  {t: "33.25", p: "5.21"}
+index.html:217 Received JSON:  {t: "33.25", p: "6.08"}
+index.html:217 Received JSON:  {t: "33.25", p: "5.22"}
+index.html:217 Received JSON:  {t: "33.25", p: "6.09"}
+index.html:217 Received JSON:  {t: "33.26", p: "6.11"}
+index.html:217 Received JSON:  {t: "33.26", p: "5.52"}
+index.html:191 MAX:
+index.html:192 5.844392614029672
+index.html:217 Received JSON:  {t: "33.26", p: "6.11"}
+index.html:217 Received JSON:  {t: "33.27", p: "5.54"}
+index.html:217 Received JSON:  {t: "33.27", p: "5.53"}
+index.html:217 Received JSON:  {t: "33.27", p: "5.53"}
+index.html:217 Received JSON:  {t: "33.28", p: "6.12"}
+index.html:217 Received JSON:  {t: "33.28", p: "5.54"}
+index.html:217 Received JSON:  {t: "33.28", p: "5.84"}
+index.html:217 Received JSON:  {t: "33.28", p: "5.84"}
+index.html:217 Received JSON:  {t: "33.28", p: "5.55"}
+index.html:217 Received JSON:  {t: "33.29", p: "5.55"}
+index.html:217 Received JSON:  {t: "33.29", p: "5.85"}
+index.html:217 Received JSON:  {t: "33.29", p: "5.57"}
+index.html:217 Received JSON:  {t: "33.29", p: "5.85"}
+index.html:217 Received JSON:  {t: "33.30", p: "5.57"}
+index.html:191 MAX:
+index.html:192 5.7467420588346165
+index.html:217 Received JSON:  {t: "33.29", p: "5.86"}
+index.html:217 Received JSON:  {t: "33.30", p: "5.57"}
+index.html:217 Received JSON:  {t: "33.30", p: "5.29"}
+index.html:217 Received JSON:  {t: "33.31", p: "5.59"}
+index.html:217 Received JSON:  {t: "33.31", p: "5.29"}
+index.html:217 Received JSON:  {t: "33.31", p: "6.17"}
+index.html:217 Received JSON:  {t: "33.31", p: "5.59"}
+index.html:217 Received JSON:  {t: "33.31", p: "5.01"}
+index.html:217 Received JSON:  {t: "33.32", p: "5.60"}
+index.html:217 Received JSON:  {t: "33.32", p: "5.60"}
+index.html:217 Received JSON:  {t: "33.32", p: "6.19"}
+index.html:217 Received JSON:  {t: "33.33", p: "5.91"}
+index.html:217 Received JSON:  {t: "33.33", p: "5.91"}
+index.html:217 Received JSON:  {t: "33.33", p: "5.91"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-21000.77"}
+index.html:217 Received JSON:  {t: "-531.03", p: "-1387.78"}
+index.html:217 Received JSON:  {t: "-531.03", p: "15395.28"}
+index.html:191 MAX:
+index.html:192 14.794580270044102
+index.html:217 Received JSON:  {t: "33.34", p: "5.34"}
+index.html:217 Received JSON:  {t: "33.34", p: "5.63"}
+index.html:217 Received JSON:  {t: "33.34", p: "5.93"}
+index.html:217 Received JSON:  {t: "33.34", p: "6.22"}
+index.html:217 Received JSON:  {t: "33.36", p: "6.53"}
+index.html:217 Received JSON:  {t: "33.36", p: "5.65"}
+​ Received JSON:  {t: "33.35", p: "5.65"}
+​ Received JSON:  {t: "33.36", p: "6.24"}
+​ Received JSON:  {t: "33.36", p: "6.24"}
+​ Received JSON:  {t: "33.36", p: "5.66"}
+​ Received JSON:  {t: "33.36", p: "5.66"}
+​ Received JSON:  {t: "33.36", p: "5.37"}
+​ Received JSON:  {t: "33.37", p: "6.25"}
+​ Received JSON:  {t: "33.37", p: "5.97"}
+​ Received JSON:  {t: "33.37", p: "5.68"}
+​ Received JSON:  {t: "33.37", p: "5.67"}
+​ Received JSON:  {t: "33.38", p: "5.97"}
+​ MAX:
+​ 363.3604461508648
+​ Received JSON:  {t: "33.38", p: "5.69"}
+​ Received JSON:  {t: "33.38", p: "5.69"}
+​ Received JSON:  {t: "33.38", p: "6.56"}
+​ Received JSON:  {t: "33.39", p: "6.58"}
+​ Received JSON:  {t: "33.39", p: "5.99"}
+​ Received JSON:  {t: "33.39", p: "6.00"}
+​ Received JSON:  {t: "33.39", p: "5.41"}
+​ Received JSON:  {t: "33.39", p: "5.42"}
+​ Received JSON:  {t: "33.39", p: "4.84"}
+​ Received JSON:  {t: "33.39", p: "5.71"}
+​ Received JSON:  {t: "33.41", p: "6.02"}
+​ Received JSON:  {t: "33.41", p: "5.72"}
+​ Received JSON:  {t: "33.40", p: "5.43"}
+​ Received JSON:  {t: "33.41", p: "6.31"}
+​ Received JSON:  {t: "33.41", p: "6.61"}
+​ MAX:
+​ 5.938681918189644
+​ Received JSON:  {t: "33.41", p: "5.74"}
+​ Received JSON:  {t: "33.42", p: "5.74"}
+​ Received JSON:  {t: "33.41", p: "6.03"}
+​ Received JSON:  {t: "33.42", p: "5.16"}
+​ Received JSON:  {t: "33.42", p: "6.04"}
+​ Received JSON:  {t: "33.42", p: "6.04"}
+​ Received JSON:  {t: "33.43", p: "6.34"}
+​ Received JSON:  {t: "33.43", p: "6.05"}
+​ Received JSON:  {t: "33.43", p: "6.05"}
+​ Received JSON:  {t: "33.44", p: "6.36"}
+​ Received JSON:  {t: "33.44", p: "4.60"}
+​ Received JSON:  {t: "33.44", p: "5.77"}
+​ Received JSON:  {t: "33.44", p: "5.77"}
+​ Received JSON:  {t: "33.44", p: "6.07"}
+​ Received JSON:  {t: "33.44", p: "5.47"}
+​ Received JSON:  {t: "33.45", p: "6.36"}
+​ Received JSON:  {t: "33.45", p: "6.37"}
+​ MAX:
+​ 5.925287690276998
+​ Received JSON:  {t: "33.45", p: "5.49"}
+​ Received JSON:  {t: "33.45", p: "5.21"}
+​ Received JSON:  {t: "33.45", p: "6.37"}
+​ Received JSON:  {t: "33.46", p: "5.51"}
+​ Received JSON:  {t: "33.46", p: "6.10"}
+​ Received JSON:  {t: "33.46", p: "4.92"}
+​ Received JSON:  {t: "33.46", p: "5.81"}
+​ Received JSON:  {t: "33.47", p: "6.69"}
+​ Received JSON:  {t: "33.47", p: "6.11"}
+​ Received JSON:  {t: "33.47", p: "5.53"}
+​ Received JSON:  {t: "33.47", p: "6.69"}
+​ Received JSON:  {t: "33.48", p: "5.82"}
+​ MAX:
+​ 5.827478267282617
+​ Received JSON:  {t: "33.48", p: "5.53"}
+​ Received JSON:  {t: "33.48", p: "6.71"}
+​ Received JSON:  {t: "33.48", p: "5.83"}
+​ Received JSON:  {t: "33.48", p: "5.83"}
+​ Received JSON:  {t: "33.49", p: "6.13"}
+​ Received JSON:  {t: "33.49", p: "6.13"}
+​ Received JSON:  {t: "33.49", p: "5.84"}
+​ Received JSON:  {t: "33.49", p: "6.14"}
+​ Received JSON:  {t: "33.49", p: "6.14"}
+​ Received JSON:  {t: "33.49", p: "5.56"}
+​ Received JSON:  {t: "33.50", p: "5.57"}
+​ Received JSON:  {t: "33.50", p: "5.27"}
+​ Received JSON:  {t: "33.50", p: "6.15"}
+​ Received JSON:  {t: "33.50", p: "6.15"}
+​ MAX:
+​ 6.035493361978118
+​ Received JSON:  {t: "33.50", p: "6.15"}
+​ Received JSON:  {t: "33.50", p: "6.15"}
+​ Received JSON:  {t: "33.51", p: "6.17"}
+​ Received JSON:  {t: "33.50", p: "6.15"}
+​ Received JSON:  {t: "33.51", p: "5.87"}
+​ Received JSON:  {t: "33.51", p: "6.16"}
+​ Received JSON:  {t: "33.52", p: "5.88"}
+​ Received JSON:  {t: "33.51", p: "5.87"}
+​ Received JSON:  {t: "33.52", p: "5.88"}
+​ Received JSON:  {t: "33.52", p: "5.88"}
+​ Received JSON:  {t: "33.52", p: "6.17"}
+​ Received JSON:  {t: "33.53", p: "6.19"}
+​ Received JSON:  {t: "33.52", p: "5.89"}
+​ Received JSON:  {t: "33.53", p: "6.19"}
+​ Received JSON:  {t: "33.53", p: "5.89"}
+​ Received JSON:  {t: "33.53", p: "5.60"}
+​ MAX:
+​ 6.0327675291131175
+​ Received JSON:  {t: "33.53", p: "5.32"}
+​ Received JSON:  {t: "33.53", p: "5.90"}
+​ Received JSON:  {t: "33.53", p: "5.02"}
+​ Received JSON:  {t: "33.53", p: "5.90"}
+​ Received JSON:  {t: "33.53", p: "5.32"}
+​ Received JSON:  {t: "33.54", p: "6.79"}
+​ Received JSON:  {t: "33.53", p: "5.91"}
+​ Received JSON:  {t: "33.54", p: "6.20"}
+​ Received JSON:  {t: "33.54", p: "5.91"}
+​ Received JSON:  {t: "33.53", p: "5.91"}
+​ Received JSON:  {t: "33.53", p: "6.49"}
+​ Received JSON:  {t: "33.54", p: "6.50"}
+​ Received JSON:  {t: "33.54", p: "6.50"}
+​ Received JSON:  {t: "33.54", p: "6.20"}
+​ Received JSON:  {t: "33.54", p: "5.33"}
+​ Received JSON:  {t: "33.54", p: "5.62"}
+​ Received JSON:  {t: "33.54", p: "5.92"}
+​ Received JSON:  {t: "33.54", p: "5.63"}
+​ Received JSON:  {t: "33.54", p: "5.92"}
+​ Received JSON:  {t: "33.54", p: "5.92"}
+​ Received JSON:  {t: "33.55", p: "6.22"}
+​ Received JSON:  {t: "33.54", p: "5.92"}
+​ Received JSON:  {t: "33.55", p: "6.22"}
+​ MAX:
+​ 6.118222011192901
+​ Received JSON:  {t: "33.55", p: "6.51"}
+​ Received JSON:  {t: "33.54", p: "6.50"}
+​ Received JSON:  {t: "33.55", p: "5.92"}
+​ Received JSON:  {t: "33.54", p: "5.63"}
+​ Received JSON:  {t: "33.55", p: "6.22"}
+​ Received JSON:  {t: "33.54", p: "6.21"}
+​ Received JSON:  {t: "33.55", p: "5.63"}
+​ Received JSON:  {t: "33.55", p: "5.63"}
+​ Received JSON:  {t: "33.55", p: "6.22"}
+​ Received JSON:  {t: "33.54", p: "5.92"}
+​ Received JSON:  {t: "33.55", p: "6.51"}
+​ Received JSON:  {t: "33.54", p: "5.63"}
+​ Received JSON:  {t: "33.55", p: "6.80"}
+​ Received JSON:  {t: "33.55", p: "5.63"}
+​ MAX:
+​ 6.101438567871575
+​ Received JSON:  {t: "33.54", p: "5.92"}
+​ Received JSON:  {t: "33.54", p: "5.33"}
+​ Received JSON:  {t: "33.54", p: "5.62"}
+​ Received JSON:  {t: "33.54", p: "5.91"}
+​ Received JSON:  {t: "33.54", p: "5.63"}
+​ Received JSON:  {t: "33.54", p: "5.33"}
+​ Received JSON:  {t: "33.54", p: "5.63"}
+​ Received JSON:  {t: "33.53", p: "6.49"}
+​ Received JSON:  {t: "33.54", p: "6.20"}
+​ Received JSON:  {t: "33.54", p: "6.50"}
+​ Received JSON:  {t: "33.53", p: "6.20"}
+​ Received JSON:  {t: "33.54", p: "5.62"}
+​ Received JSON:  {t: "33.53", p: "5.91"}
+​ Received JSON:  {t: "33.53", p: "5.91"}
+​ Received JSON:  {t: "33.53", p: "5.61"}
+​ Received JSON:  {t: "33.53", p: "6.19"}
+​ Received JSON:  {t: "33.53", p: "5.61"}
+​ Received JSON:  {t: "33.53", p: "5.60"}
+​ Received JSON:  {t: "33.53", p: "5.89"}
+​ Received JSON:  {t: "33.53", p: "5.90"}
+​ Received JSON:  {t: "33.53", p: "6.47"}
+​ Received JSON:  {t: "33.53", p: "6.19"}
+​ Received JSON:  {t: "33.52", p: "5.30"}
+​ MAX:
+​ 5.987391115575869
+​ Received JSON:  {t: "33.52", p: "5.89"}
+​ Received JSON:  {t: "33.52", p: "6.47"}
+​ Received JSON:  {t: "33.52", p: "5.88"}
+​ Received JSON:  {t: "33.51", p: "5.87"}
+​ Received JSON:  {t: "33.51", p: "6.17"}
+​ Received JSON:  {t: "33.51", p: "5.87"}
+​ Received JSON:  {t: "33.51", p: "5.57"}
+​ Received JSON:  {t: "33.51", p: "5.87"}
+​ Received JSON:  {t: "33.50", p: "5.86"}
+​ Received JSON:  {t: "33.50", p: "6.44"}
+​ Received JSON:  {t: "33.49", p: "6.43"}
+​ Received JSON:  {t: "33.50", p: "5.86"}
+​ Received JSON:  {t: "33.50", p: "6.15"}
+​ Received JSON:  {t: "33.49", p: "5.85"}
+​ MAX:
+​ 5.965862262113218
+​ Received JSON:  {t: "33.49", p: "6.43"}
+​ Received JSON:  {t: "33.49", p: "4.96"}
+​ Received JSON:  {t: "33.49", p: "5.84"}
+​ Received JSON:  {t: "33.49", p: "5.84"}
+​ Received JSON:  {t: "33.48", p: "5.83"}
+​ Received JSON:  {t: "33.48", p: "6.41"}
+​ Received JSON:  {t: "33.48", p: "5.82"}
+​ Received JSON:  {t: "33.47", p: "5.82"}
+​ Received JSON:  {t: "33.47", p: "6.10"}
+​ MAX:
+​ 6.012294370115933
+​ Received JSON:  {t: "33.46", p: "6.10"}
+​ Received JSON:  {t: "33.47", p: "6.11"}
+​ Received JSON:  {t: "33.46", p: "5.51"}
+​ Received JSON:  {t: "33.46", p: "5.81"}
+​ Received JSON:  {t: "33.45", p: "5.79"}
+​ Received JSON:  {t: "33.45", p: "5.79"}
+​ Received JSON:  {t: "33.45", p: "6.07"}
+​ Received JSON:  {t: "33.45", p: "5.20"}
+​ Received JSON:  {t: "33.44", p: "5.77"}
+​ Received JSON:  {t: "33.44", p: "6.36"}
+​ Received JSON:  {t: "33.43", p: "5.17"}
+​ Received JSON:  {t: "33.44", p: "6.06"}
+​ MAX:
+​ 5.932117055964131
+​ Received JSON:  {t: "33.43", p: "5.17"}
+​ Received JSON:  {t: "33.43", p: "5.76"}
+​ Received JSON:  {t: "33.42", p: "6.04"}
+​ Received JSON:  {t: "33.42", p: "5.74"}
+​ Received JSON:  {t: "33.42", p: "6.03"}
+​ Received JSON:  {t: "33.42", p: "5.74"}
+​ Received JSON:  {t: "33.41", p: "5.73"}
+​ Received JSON:  {t: "33.41", p: "6.03"}
+​ Received JSON:  {t: "33.41", p: "5.72"}
+​ Received JSON:  {t: "33.40", p: "5.72"}
+​ Received JSON:  {t: "33.39", p: "5.71"}
+​ Received JSON:  {t: "33.38", p: "5.40"}
+​ Received JSON:  {t: "33.38", p: "5.40"}
+​ Received JSON:  {t: "33.39", p: "6.28"}
+​ Received JSON:  {t: "33.39", p: "5.99"}
+​ Received JSON:  {t: "33.38", p: "5.69"}
+​ Received JSON:  {t: "33.37", p: "6.26"}
+​ Received JSON:  {t: "33.37", p: "5.67"}
+​ MAX:
+​ 5.794594751428017
+​ Received JSON:  {t: "33.37", p: "5.96"}
+​ Received JSON:  {t: "33.36", p: "5.65"}
+​ Received JSON:  {t: "33.36", p: "5.66"}
+​ Received JSON:  {t: "33.35", p: "6.52"}
+​ Received JSON:  {t: "33.35", p: "5.64"}
+​ Received JSON:  {t: "33.34", p: "6.22"}
+​ Received JSON:  {t: "33.34", p: "5.64"}
+​ Received JSON:  {t: "33.33", p: "5.62"}
+​ Received JSON:  {t: "33.33", p: "5.62"}
+​ Received JSON:  {t: "33.32", p: "5.90"}
+​ Received JSON:  {t: "33.32", p: "5.90"}
+​ Received JSON:  {t: "33.31", p: "6.17"}
+​ Received JSON:  {t: "33.32", p: "6.18"}
+​ Received JSON:  {t: "33.31", p: "5.87"}
+​ MAX:
+​ 5.889415339391635
+​ Received JSON:  {t: "33.30", p: "6.16"}
+​ Received JSON:  {t: "33.29", p: "5.86"}
+​ Received JSON:  {t: "33.29", p: "6.15"}
+​ Received JSON:  {t: "33.29", p: "5.86"}
+​ Received JSON:  {t: "33.29", p: "6.43"}
+​ Received JSON:  {t: "33.28", p: "6.13"}
+​ Received JSON:  {t: "33.27", p: "4.95"}
+​ Received JSON:  {t: "33.27", p: "5.83"}
+​ Received JSON:  {t: "33.27", p: "6.11"}
+​ Received JSON:  {t: "33.26", p: "5.81"}
+​ Received JSON:  {t: "33.26", p: "5.52"}
+​ Received JSON:  {t: "33.25", p: "5.51"}
+​ Received JSON:  {t: "33.24", p: "5.49"}
+​ Received JSON:  {t: "33.24", p: "5.49"}
+​ MAX:
+​ 6.002746464507967
+​ Received JSON:  {t: "33.24", p: "5.77"}
+​ Received JSON:  {t: "33.23", p: "5.77"}
+​ Received JSON:  {t: "33.22", p: "5.76"}
+​ Received JSON:  {t: "33.22", p: "5.46"}
+​ Received JSON:  {t: "33.21", p: "5.74"}
+​ Received JSON:  {t: "33.21", p: "6.03"}
+​ Received JSON:  {t: "33.19", p: "6.01"}
+​ Received JSON:  {t: "33.19", p: "5.43"}
+​ Received JSON:  {t: "33.19", p: "5.72"}
+​ Received JSON:  {t: "33.18", p: "5.99"}
+​ Received JSON:  {t: "33.18", p: "5.69"}
+​ Received JSON:  {t: "33.18", p: "5.69"}
+​ Received JSON:  {t: "33.17", p: "5.97"}
+​ Received JSON:  {t: "33.16", p: "5.67"}
+​ Received JSON:  {t: "33.16", p: "5.96"}
+​ Received JSON:  {t: "33.15", p: "5.65"}
+​ Received JSON:  {t: "33.14", p: "5.94"}
+​ Received JSON:  {t: "33.14", p: "5.93"}
+​ Received JSON:  {t: "33.14", p: "5.93"}
+​ Received JSON:  {t: "33.13", p: "6.21"}
+​ Received JSON:  {t: "33.12", p: "5.32"}
+​ Received JSON:  {t: "33.11", p: "5.60"}
+​ Received JSON:  {t: "33.11", p: "5.02"}
+​ Received JSON:  {t: "33.10", p: "6.17"}
+​ Received JSON:  {t: "33.10", p: "6.17"}
+​ Received JSON:  {t: "33.09", p: "5.27"}
+​ Received JSON:  {t: "33.09", p: "5.86"}
+​ Received JSON:  {t: "33.08", p: "5.84"}
+​ MAX:
+​ 5.8265027617516605
+​ Received JSON:  {t: "33.08", p: "5.55"}
+​ Received JSON:  {t: "33.07", p: "5.83"}
+​ Received JSON:  {t: "33.06", p: "5.82"}
+​ Received JSON:  {t: "33.06", p: "5.52"}
+​ Received JSON:  {t: "33.05", p: "5.51"}
+​ Received JSON:  {t: "33.04", p: "6.08"}
+​ Received JSON:  {t: "33.04", p: "6.07"}
+​ Received JSON:  {t: "33.03", p: "5.78"}
+​ Received JSON:  {t: "33.02", p: "6.05"}
+​ Received JSON:  {t: "33.02", p: "6.05"}
+​ Received JSON:  {t: "33.01", p: "5.45"}
+​ Received JSON:  {t: "33.01", p: "6.03"}
+​ Received JSON:  {t: "33.00", p: "6.03"}
+​ Received JSON:  {t: "32.99", p: "5.43"}
+​ Received JSON:  {t: "32.98", p: "6.00"}
+​ Received JSON:  {t: "32.97", p: "4.82"}
+​ Received JSON:  {t: "32.97", p: "6.27"}
+​ Received JSON:  {t: "32.96", p: "5.97"}
+​ Received JSON:  {t: "32.95", p: "5.37"}
+​ Received JSON:  {t: "32.95", p: "5.37"}
